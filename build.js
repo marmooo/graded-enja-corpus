@@ -202,7 +202,11 @@ tanaka.forEach(line => {
 });
 problemList.forEach((problems, i) => {
   // fs.writeFileSync('dist/' + (i+1) + '.tsv', problems.join('\n'));
-  problems.sort();
+  problems.sort((a, b) => {
+    if (a.length < b.length) return -1;
+    if (a.length > b.length) return 1;
+    return 0;
+  });
   const pos = Math.ceil(problems.length / 2);
   fs.writeFileSync('dist/easy/' + (i+3) + '.tsv', problems.slice(0, pos).join('\n'));
   fs.writeFileSync('dist/hard/' + (i+3) + '.tsv', problems.slice(pos).join('\n'));
