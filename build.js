@@ -105,6 +105,7 @@ readFileSync('inappropriate-words-ja/Sexual.txt').forEach(word => {
     inappropriateWordsJa.push(word);
   }
 });
+inappropriateWordsJa.push('性病');
 
 const lemmatizationDict = { an:'a' };
 readFileSync('mGSL/vendor/agid-2016.01.19/infl.txt').forEach(line => {
