@@ -86,7 +86,7 @@ async function readLineWithIndex(filepath, callback) {
   const fileReader = await Deno.open(filepath);
   let i = 0;
   for await (const word of readLines(fileReader)) {
-    if (!word)continue;
+    if (!word) continue;
     callback(word, i);
     i += 1;
   }
@@ -97,21 +97,21 @@ let fileReader = await Deno.open(
   "mGSL/vendor/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words/en",
 );
 for await (const word of readLines(fileReader)) {
-  if (!word)continue;
+  if (!word) continue;
   badWords[word] = true;
 }
 
 const profanityWords = {};
 fileReader = await Deno.open("mGSL/vendor/Google-profanity-words/list.txt");
 for await (const word of readLines(fileReader)) {
-  if (!word)continue;
+  if (!word) continue;
   profanityWords[word] = true;
 }
 
 const inappropriateWordsJa = [];
 fileReader = await Deno.open("inappropriate-words-ja/Sexual.txt");
 for await (const word of readLines(fileReader)) {
-  if (!word)continue;
+  if (!word) continue;
   if (!["イク", "催眠"].includes(word)) {
     inappropriateWordsJa.push(word);
   }
@@ -121,7 +121,7 @@ inappropriateWordsJa.push("性病");
 const lemmatizationDict = { an: "a" };
 fileReader = await Deno.open("mGSL/vendor/agid-2016.01.19/infl.txt");
 for await (const line of readLines(fileReader)) {
-  if (!line)continue;
+  if (!line) continue;
   const [toStr, fromStr] = line.split(": ");
   if (!toStr.endsWith("?")) {
     const [to, _toPos] = toStr.split(" ");
@@ -147,12 +147,12 @@ const mGSL = {};
 await readLineWithIndex("mGSL/dist/mGSL.lst", (line, i) => {
   const [en, _ja] = line.split("\t", 2);
   let level = range.findIndex((r) => r > i);
-  if (level == -1)level = range.length;
+  if (level == -1) level = range.length;
   mGSL[en] = level;
 });
 fileReader = await Deno.open("mGSL/filter-ngsl.lst");
 for await (const word of readLines(fileReader)) {
-  if (!word)continue;
+  if (!word) continue;
   mGSL[word] = 0;
 }
 
@@ -160,7 +160,7 @@ const problemList = [...Array(range.length + 1)].map(() => []);
 
 fileReader = await Deno.open("jec.tsv");
 for await (const line of readLines(fileReader)) {
-  if (!line)continue;
+  if (!line) continue;
   const [_id, ja, en, _zh] = line.split("\t");
   if (!includeBadWordsJa(ja)) {
     const words = getWords(en);
@@ -188,7 +188,7 @@ for await (const line of readLines(fileReader)) {
 }
 fileReader = await Deno.open("tanaka-corpus-plus/tanaka.txt");
 for await (const line of readLines(fileReader)) {
-  if (!line)continue;
+  if (!line) continue;
   if (!line.startsWith("A:")) {
     continue;
   }
