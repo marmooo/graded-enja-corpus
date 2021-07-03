@@ -7,7 +7,7 @@
 3. install [MosasoM/inappropriate-words-ja](https://github.com/MosasoM/inappropriate-words-ja) licensed under the MIT
 
 ## Build
-```node build.js```
+```deno run --allow-read --allow-write build.js```
 
 ## License
 CC BY-SA 4.0
