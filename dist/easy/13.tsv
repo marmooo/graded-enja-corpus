@@ -19,7 +19,6 @@ I am tall.	私は背が高い。
 Good luck!	幸運を祈るよ。
 Shadow him.	後をつけろ。
 Stand at ease!	休め！
-Okay. Sorry.	悪かった。
 Quieter!	もっと小さくして。
 I'm tired.	クタクタだよ。
 X was usual.	Xが常だった
@@ -404,7 +403,6 @@ The meat is tough.	この肉は固いですね。
 This beer is dry.	このビールはドライだ。
 This cake is sweet.	このケーキは甘い。
 I can't eat meat.	お肉は食べられません。
-No, no, that's okay.	いや、大丈夫だ。
 Call me anytime.	いつでもお電話ください。
 No, no, my dear.	いいえ、違いますよ、君。
 Look at that smoke.	あの煙を見なさい。
@@ -677,7 +675,6 @@ Do you keep a diary?	日記をつけていますか。
 Meat or fish?	肉になさいますか、魚になさいますか。
 None of them is alive.	誰も生きていない。
 Be quiet, all of you.	全員静かにしなさい。
-Is everything okay?	全てうまくいってますか。
 Don't worry about that.	心配いりません。
 Let sleeping dogs lie.	寝た子を起こすな。
 In fact, he is sick.	実は彼は病気なのです。
@@ -1609,7 +1606,6 @@ Do you have a school uniform?	制服はあるの。
 Oil and water don't blend.	水と油はまざらない。
 Thank you for your referral.	紹介ありがとう。
 I prefer spring to fall.	秋より春のほうが好きだ。
-We'll help you, okay?	手を貸しますから、いいですね？
 I side with a weaker party.	弱い方に味方する。
 I prefer to work on my own.	自営業の方がいい。
 Charity begins at home.	自愛は我が家からはじまる。
@@ -2328,7 +2324,6 @@ I am often in difficulties.	僕はしばしばお金に困る。
 Don't laugh at my failure.	僕の失敗を笑わないでくれ。
 My mother tasted the milk.	母はそのミルクの味を見た。
 My mother is making a cake.	母はケーキを作っている。
-My studies are going okay.	勉強は順調にいっています。
 Dust got into one of my eyes.	片目にごみが入った。
 It never rains but it pours.	物事は重なって起こる。
 The tree bent in the wind.	風に吹かれて木が曲がった。
@@ -4346,7 +4341,6 @@ I am familiar with your name.	お名前はよく存じあげています。
 What are we going to do for lunch?	お昼、どうしようか。
 Your face is familiar to me.	お顔はかねてから知っております。
 It's fun to ride a motorcycle.	オートバイに乗るのは楽しい。
-I hope everything is okay.	うまくいっていることを願っています。
 A miss is as good as a mile.	いかに成功に近くても失敗は失敗。
 I can't bear the sight of him.	あんな男見ても胸くそが悪い。
 He should be put in prison.	あんな男は刑務所に入れた方がいい。
@@ -4433,6 +4427,7 @@ She finished the job with ease.	彼女は簡単にその仕事終えた。
 She is engaged in social work.	彼女は社会福祉に携わっている。
 She is anything but a singer.	彼女は歌手だなんてとんでもない。
 How many pens does she have?	彼女は何本のペンを持っていますか。
+She gives instruction in English.	彼女は英語を教えている。
 She belongs to the tennis club.	彼女はテニス部に属している。
 She is in no humor for task.	彼女はその仕事をする気分ではない。
 She was surprised at the sight.	彼女はその光景におどろいた。
@@ -5537,7 +5532,6 @@ Margaret has a talent for music.	マーガレットは音楽の才がある。
 We won't start till Bob comes.	ボブが来るまで私たちは始めません。
 I found the bed quite comfortable.	ベッドは寝心地満点だった。
 Beer bottles are made of glass.	ビールびんはガラスでできている。
-Are the party preparations okay?	パーティーの用意はいいですか。
 Nancy invited him to a party.	ナンシーは彼をパーティーに招待した。
 It may, indeed, be a mistake.	なるほど、それは間違いかもしれない。
 "Hello," said Tom, smiling.	トムは笑いながら「こんにちは」と言った。
@@ -6419,7 +6413,6 @@ Mr Davis looks very tired.	デーヴィスさんはとても疲れているよ�
 Why don't you give your mouth a rest?	ちょっと黙ってくれんか。
 I have a favor to ask of you.	ちょっとお願いしたいことがあるんだけど。
 Everyone makes a mistake at times.	だれしもときどき間違いを犯す。
-It's okay to take it easy sometimes.	たまには気楽にしていいよ。
 Takeshi keeps a diary in English.	たけしは英語で日記をつけている。
 Such words are so typical for him.	そんな発言はいかにも彼らしい。
 You shouldn't smoke so much.	そんなにたくさんタバコを吸わない方がよい。
@@ -8317,6 +8310,7 @@ He neither wrote nor telephoned.	彼は手紙も書かなかったし、電話�
 He is familiar with the names of cars.	彼は車の名前をよく知っています。
 He accounted for his strange acts.	彼は自分の奇妙な行為の理由の説明をした。
 He made me write the letter with a pen.	彼は私にペンで手紙を書かせた。
+He could learn without instruction.	彼は指導されなくても学ぶことができた。
 He has no interests, apart from his work.	彼は仕事以外に興味がない。
 He came from a tiny mountain town.	彼は山の中のちっぽけな町からやってきた。
 He was the champion for three years.	彼は三年間チャンピオンの座を守った。
@@ -8650,7 +8644,6 @@ Begin to write, leaving one space blank.	１ます空けて書き出しなさい
 That has been recognized by the minister.	それが大臣の認定を受けました
 Please listen to that person carefully.	ちゃんとその人の話を聞きましょう
 He got the consent from them in advance.	彼が事前に本人の同意を得ました
-Thanks to X, everything was okay with him.	彼はXで何とか事なきを得た
 He will prepare the materials for tomorrow.	彼が明日の資料を作成する
 We will arrive at his house by 8 o'clock.	私たちが８時には彼の家に着く
 We would appreciate your photo comments.	写真コメントを受け付けています
@@ -8814,3 +8807,9 @@ We were robbed of the documents on the way.	途中で文書を強奪された。
 Could you dial up the operator for me?	電話交換手を呼んでもらえませんか。
 There is a fault in the electrical system.	電気系統に欠点があります。
 Weather permitting, I'll start tomorrow.	天候が許せば、明日出発します。
+I'm sorry for the short deadline.	締め切りまでにあまり時間が無くてすいません。
+He slipped while crossing the street.	通りを横断する際に彼は足を滑らせた。
+Birds usually wake up early in the morning.	鳥は普通、朝早く起きる。
+The bird flew away and was lost to sight.	鳥は飛び去り見えなくなった。
+The town is 3 miles from the place.	町はその場所から３マイルのところにある。
+This part of the city is strange to me.	町のこの地域は私には不案内です。

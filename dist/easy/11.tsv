@@ -366,6 +366,7 @@ There comes the bus.	バスが来ますよ。
 Here comes the bus.	バスが来ましたよ。
 Cats catch mice.	ネコはネズミを捕まえる。
 Every bus is full.	どのバスも満員です。
+I watch television.	私はテレビを見る。
 Can you prove it?	それを証明できますか？
 Whose bag is this?	これは誰の鞄ですか。
 Judging from this.	これから判断すると。
@@ -735,7 +736,6 @@ I want something dry.	辛口がほしいのですが。
 Make yourself at home.	勝手に何でも使って。
 I'll give you a ride.	車に君を乗せてあげる。
 I'll check your vision.	視力検査をします。
-We need fresh air.	私達には新鮮な空気が必要だ。
 I stick to the point.	私は要点をはずさない。
 I fought against sleep.	私は眠気と戦った。
 I will lose weight.	私は必ず減量するつもりだ。
@@ -1039,7 +1039,6 @@ Much time was wasted.	多くの時間が無駄になった。
 I can't think otherwise.	他には考えられない。
 We learn by teaching.	人は教える事によって学ぶ。
 Bring me the newspaper.	新聞を持ってきてくれ。
-Let in some fresh air.	新鮮な空気を入れなさい。
 The traffic signal is green.	信号は青だ。
 Should I watch my diet?	食事制限は必要ですか。
 The food is getting cold.	食べ物が冷めます。
@@ -1071,7 +1070,6 @@ I've lost all my money.	私はお金を全部失った。
 I go to school by bus.	私は、バスで学校に行く。
 A good idea struck me.	私に良い考えが浮かんだ。
 We bagged a wild bird.	私たちは野鳥をとらえた。
-We need fresh air.	私たちは新鮮な空気を必要とする。
 We're in the same boat.	私たちは運命共同体だ。
 We beat the man up.	私たちはその男を叩きのめした。
 We lost by two points.	私たちは２点差で負けた。
@@ -1236,7 +1234,6 @@ Thanks in advance.	前もってお礼を申しあげておきます。
 The river is running dry.	川が枯れかけている。
 Here comes our teacher.	先生がいらっしゃったよ。
 Water is heavier than oil.	水は油よりも重い。
-I want to eat fresh fish.	新鮮な魚が食べたい。
 How long is the ride?	乗る時間はどのくらいですか。
 The boy took off his cap.	少年は帽子を脱いだ。
 Hold on a minute, please.	少々おまちください。
@@ -1568,7 +1565,6 @@ Fan fiction is included.	内容には同人要素を含みます
 X is expected in education.	Xが教育に期待される
 He kills people so easily.	彼が簡単に人を殺します
 X caught my attention.	Xがきっかけで私の目に止まった
-X is still fresh in memory.	Xがまだ記憶に新しい
 He gets the child dressed.	彼がこどもに服を着せる
 Did you catch the train?!	列車に間に合ったのか？！
 The wind still blows hard.	風がまだ強く吹きます。
@@ -1615,7 +1611,6 @@ He's really in good shape.	彼は本当に調子がいい。
 He made her his secretary.	彼は彼女を秘書にした。
 He accepted her gift.	彼は彼女から贈り物を受け取った。
 He came early in the morning.	彼は朝早く来た。
-He is fresh from college.	彼は大学を出たてである。
 He made his son a teacher.	彼は息子を先生にした。
 He made his son a teacher.	彼は息子を先生とした。
 He always remained poor.	彼は相変わらず貧乏だった。
@@ -1679,6 +1674,7 @@ I agree to your proposal.	私は君の提案に同意する。
 I go to school by bus.	私は学校へバスで通っています。
 Exercise is not in my line.	私は運動が苦手です。
 I like to eat apples.	私はリンゴを食べるのが好きです。
+I do not watch television.	私はテレビを見ません。
 I must get it fixed.	私はそれを修理しなければならない。
 I proved it to be true.	私はそれが真実だと証明した。
 I want to buy the dress.	私はそのドレスを買いたい。
@@ -1776,6 +1772,7 @@ He was critical of me.	あの人は私には口うるさかった。
 I wonder who that girl is.	あの女の子は誰だろう。
 How long that bridge is!	あの橋は何て長いんだろう！
 The company is losing money.	あの会社は赤字だ。
+Do you watch television?	あなたはテレビを見ますか。
 Your car handles easily.	あなたの車は運転しやすい。
 It is five minutes to nine.	９時まであと５分だ。
 I missed the 7:00 train.	７時発の電車に乗り遅れた。
@@ -1895,7 +1892,6 @@ Life is full of adventure.	人生は冒険に満ちている。
 Life is full of chances.	人生は可能性でいっぱいです。
 All men are created equal.	人は平等に造られている。
 A wonder lasts but nine days.	人の噂も七十五日。
-Fresh air is blowing in.	新鮮な空気が吹き込んでくる。
 My heart's beating so fast!	心臓がドキドキしてる！
 The boy set a bird free.	少年は、鳥を逃がしてやった。
 "I forgot," she answered.	女性は「忘れた」と答えた。
@@ -1966,6 +1962,7 @@ Please come dressed up.	ドレスアップしてきてください。
 Every means has failed.	どう手を尽くしてもダメだった。
 Please sit at the table.	どうぞ食卓におつきください。
 The door opened by itself.	ドアがひとりでに開いた。
+Please turn on the television.	テレビをつけて。
 I've reserved a double.	ダブルルームを予約しています。
 I think it's worth asking.	尋ねるだけの価値がある。
 It is a difficult problem.	それは難しい問題である。
@@ -2244,6 +2241,7 @@ I wonder which way to go.	どちらへ行けばよいのだろう。
 He was put to death finally.	とうとう彼は殺された。
 It seems to have worn out.	とうとうガタがきたようだ。
 How can I become rich?	どうしたら金持ちになれるのかしら？
+Turn down the television.	テレビの音を小さくしなさい。
 I ran as quickly as I could.	できるだけ早く走った。
 Let me think for a minute.	ちょっと考えさせて下さい。
 Why don't you go on a diet?	ダイエットしたらどうだ。
@@ -2288,6 +2286,7 @@ Don't work yourself too hard.	あまり無理するなよ。
 That book is worth reading.	あの本は読む価値がある。
 Look at that flying bird.	あの飛んでいる鳥を見なさい。
 You should pay your debts.	あなたは借金を払うべきだ。
+You can watch television.	あなたはテレビを見ていいよ。
 Is your baby sleeping?	あなたの赤ちゃんは眠っていますか。
 I agree to your proposal.	あなたの申し出に同意します。
 Turn at that corner there.	あそこの角を曲がりなさい。
@@ -2364,7 +2363,6 @@ He made her his secretary.	彼は彼女を自分の秘書にした。
 He bought a dress for her.	彼は彼女に服を買ってやった。
 He may have lost his way.	彼は道に迷ったのかもしれない。
 He failed to come on time.	彼は定刻どおりに来なかった。
-He is fresh from college.	彼は大学を出たてのほやほやだ。
 He never touched wine.	彼は絶対ワインには手をつけなかった。
 He bought books at random.	彼は手当たり次第本を買った。
 He reads books at random.	彼は手あたりしだいに本を読む。
@@ -2405,6 +2403,7 @@ I have no pain in particular.	特に痛みはありません。
 Don't feed the animals.	動物に食べ物をやってはいけません。
 Protect yourself at all points.	頭隠して尻隠さず。
 You are on the wrong train.	電車を乗り違えていますよ。
+My brother watches television.	弟はテレビを見ます。
 The birds are flying around.	鳥がとびまわっています。
 A bird was caught by a cat.	鳥が１羽猫に捕まえられた。
 The whole town was blown out.	町全体が停電になった。
@@ -2448,11 +2447,13 @@ I think him a good teacher.	私は彼をいい先生だと思う。
 I found his house easily.	私は彼の家をたやすく見つけた。
 I expect him to help me.	私は彼が助けてくれるものと思う。
 I have a bad pain in my back.	私は背中がひどく痛い。
+I bought a new television.	私は新しいテレビを購入した。
 I am short of pocket money.	私は小遣いが不足している。
 I never work on weekends.	週末は絶対に仕事をしないんだ。
 I found the book by chance.	私は偶然その本を見つけた。
 Each time I tried, I failed.	私はやるたびに失敗した。
 I waited for a bus to come.	私はバスが来るのを待った。
+I watch television every day.	テレビは毎日見ますよ。
 I generally walk to school.	私は大抵歩いて通学します。
 I don't like the coffee.	私はそのコーヒーが好きではない。
 I thought she was pretty.	私は、彼女をかわいいと思った。
@@ -2479,14 +2480,13 @@ You must control yourself.	君は自制しなければならない。
 The strong winds were blowing.	強い風が吹いていた。
 Fish are cold-blooded animals.	魚は冷血動物である。
 Are there any express trains?	急行列車はありますか。
-It is still fresh in my memory.	記憶にまだ新しい。
 The CD on the table is mine.	机の上のＣＤは私のです。
 We'd like separate checks.	勘定書は別々にお願いします。
 It is getting dark outside.	外は暗くなってきています。
 We confirmed her death.	我々は彼女が死んだことを確かめた。
 It only adds fuel to the fire.	火に油を注ぐだけだ。
+We have two television sets.	家にはテレビが２台ある。
 What was it I left behind?	何を置き忘れてきたのですか。
-Is there any fresh news?	何か新しいニュースはありますか。
 I have her in my pocket.	俺は彼女を完全にものにしている。
 Don't beat about the bush.	遠回しに言わないでください。
 Reach out and touch someone.	遠くのあの人と話そうよ。
@@ -2511,6 +2511,7 @@ I seem to have a temperature.	どうも熱があるらしい。
 Help yourself, please.	どうぞご自由に召しあがってください。
 How can I forget those days?	どうしても忘れられない。
 Keep the door locked.	ドアに鍵をかけたままにしておきなさい。
+The television doesn't work.	テレビが故障しています。
 At last, he gained his ends.	ついに彼は目標を達した。
 Just turn this handle.	ちょっとこのハンドルを回してごらん。
 No one can separate them.	だれも彼らの仲を引き裂けない。
@@ -2678,7 +2679,6 @@ My brother caught a big fish.	弟が大きな魚を捕まえた。
 The pain will wear off.	痛みはだんだん無くなっていくだろう。
 The entire town was under water.	町全体が水没した。
 Towns are larger than villages.	町は村よりも大きい。
-The air is fresh in the morning.	朝は空気が新鮮だ。
 Who has found a lost dog?	誰が迷子の犬を見つけたのですか。
 Let me take your temperature.	体温を計ってみましょう。
 The sun rose above the mountain.	太陽が山に昇った。
@@ -2768,6 +2768,7 @@ This paint comes off easily.	ペンキがすぐはげてしまう。
 Betty is a dancing teacher.	ベティはダンスの先生である。
 Read the bottom of the page.	ページの下を呼んでごらん。
 Football is an old game.	フットボールは歴史の古い競技です。
+Bill turned on the television.	ビルはテレビをつけた。
 I may win by some chance.	ひょっとしたら勝つかもしれない。
 Let's take a coffee break.	ひと休みしてコーヒーにしよう。
 The bus was about to start.	バスは発車するところだった。
@@ -2797,7 +2798,6 @@ Let's play cards instead.	その代わりにトランプをしようよ。
 The boy fell from the bridge.	その少年は橋から落ちた。
 The path led to the village.	その小道は村に通じていた。
 The project is taking shape.	その計画は具体化してきた。
-That fish lives in fresh water.	その魚は真水に住む。
 The top of the hill is flat.	その丘の頂上は平らである。
 The house was as dark as dark.	その家は真っ暗だった。
 Birds flew away at the sound.	その音で鳥は飛び去った。
@@ -2873,6 +2873,7 @@ My father is used to travelling.	父は旅慣れしている。
 My father lives in the country.	父は田舎に住んでいる。
 Father has just come home.	父は今ちょうど帰宅したところだ。
 My father came home just now.	父はたった今帰宅しました。
+They were watching television.	彼等はテレビを見ていた。
 She attends school at night.	彼女は夜、学校に通っている。
 She was sitting under a tree.	彼女は木の下に座っていた。
 She plays golf every weekend.	彼女は毎週末ゴルフをする。
@@ -3059,6 +3060,7 @@ Every teacher does their best.	どの先生も最善を尽くす。
 Which car is your father's?	どちらの車がお父さんのですか。
 Please make yourself at home.	どうぞ楽になさって下さい。
 Please make yourself at home.	どうぞおくつろぎください。
+Please turn off the television.	テレビを消して下さい。
 There is a cup on the table.	テーブルの上にカップがある。
 I'm going to have a heavy day.	つらい一日になりそうだ。
 Just then, the bus stopped.	ちょうどその時バスが止まった。
@@ -3147,7 +3149,6 @@ The sun is finally coming out.	ようやく太陽が顔を出します
 He confirms the following items.	彼が以下の事を確認する
 He used public transportation.	彼は公共交通機関を利用した
 He finally found the target.	彼が最後には目的の物を見付けた
-Let's get lots of fresh air.	いっぱい外の空気を吸いましょう
 It was enough just to refer it.	参照するだけで事が済んだ
 Correct it, as in example 1.2.	例１，２のように訂正せよ。
 I've finally got the whole set!	ついにフルコンプしたぞ！
@@ -3271,7 +3272,6 @@ A red dress looks good on her.	赤い服は彼女によく似合う。
 Are you interested in politics?	政治に興味がありますか。
 You have to get enough sleep.	睡眠を十分にとってください。
 Water is essential to life.	水は生きていくのに不可欠である。
-Please let in some fresh air.	新鮮な空気を入れてください。
 The boy jumped into the water.	少年は水の中に飛び込んだ。
 Kobayashi is lost in the music.	小林はその音楽に夢中だ。
 If you give at all, give quickly.	出す以上は早くだせ。
@@ -3397,6 +3397,7 @@ How did the secret get out?	どうやって秘密が漏れたのだろう。
 Please make yourself at home.	どうぞお楽になさって下さい。
 Why are you drying your hair?	どうして髪を乾かしているの。
 How can I jump so high?	どうして私にそんなに高く跳べるでしょう。
+May I turn on the television?	テレビを点けてもいいですか。
 There is a cup on the table.	テーブルの上に茶碗があります。
 The war finally broke out.	ついに戦いの幕が切って落とされた。
 Now you've given yourself away.	ついに正体を暴露したな。
@@ -3430,6 +3431,7 @@ Take either of the apples.	そのリンゴのどちらかを取りなさい。
 The news proved to be true.	そのニュースは本当だと判明した。
 The door is sometimes open.	そのドアは開いていることがある。
 That's just how I was raised.	そうやって私は育ったのです。
+Well, I watch television.	そうですね、テレビを見たりしますね。
 It's just around the corner.	すぐその角を曲がったところだ。
 The time for skiing has gone by.	スキーの時期は過ぎた。
 This must be a real diamond.	これは本物のダイヤに違いない。
@@ -3648,6 +3650,7 @@ I took advantage of an opportunity.	私は好機に乗じた。
 I parted from him on the bridge.	私は橋の上で彼と別れた。
 I would rather have a coffee.	私はむしろコーヒーが飲みたい。
 I'm on the football team.	私はフットボールチームに入っています。
+I saw the match on television.	私はその試合をテレビで見た。
 Well do I remember the scene.	私はその光景を良く覚えている。
 I passed over the dark street.	私はその暗い道を通り過ぎた。
 I can't accept this theory.	私はこの説を信じることは出来ない。
@@ -3719,6 +3722,7 @@ Which team is likely to win?	どちらのチームが勝ちそうですか。
 Please make yourself at home.	どうぞ気楽になさってください。
 Please take good care of yourself.	どうぞお体を大切に。
 Please take care of yourself.	どうぞお体を大事にして下さい。
+Please turn the television on.	どうかテレビを点けて下さい。
 Remember to lock the door.	ドアに鍵をかけるのを忘れないように。
 But I am able to cook well.	でも料理は上手に作ることができる。
 I chanced to see him in town.	たまたま私は町で彼と出会った。
@@ -3972,6 +3976,7 @@ I'm fed up with working here.	私はここで働くのもううんざりだ。
 I'll take my coffee black.	私はコーヒーをブラックで飲みましょう。
 I want time instead of money.	私はお金ではなくて時間がほしい。
 I can type 50 words a minute.	私は１分間５０語タイプできます。
+I watch television all day long.	私は１日中テレビを見ます。
 I had a bad cold for a week.	私は１週間ひどいかぜをひいていた。
 I sometimes dream of my mother.	私は、母の夢をときどき見る。
 I am happiest when I sleep.	私は、寝ている時がいちばん幸福です。
@@ -4051,10 +4056,12 @@ Tom gets up at six every morning.	トムは毎朝６時に起きる。
 Which doctor is attending you?	どこの医者にかかっていますか。
 Sometimes I run out of money.	ときどきお金が足りなくなります。
 At last a good idea struck me.	とうとう、良い考えが浮かんだ。
+Please turn on the television.	どうぞテレビをつけてください。
 Please make yourself at home.	どうぞごゆっくりなさって下さい。
 How can I forget those days?	どうしたらあの日々が忘れられるか。
 Please take care of yourself.	どうかお体に気をつけてください。
 The door is opened every morning.	ドアは毎朝開けられます。
+Will you turn on the television?	テレビをつけてくれますか。
 I met your father just now.	つい先ほど君のお父さんに会いました。
 At last, the bus company gave in.	ついにバス会社が折れた。
 At last, Ken achieved his goal.	ついにケンは目的を果たした。
@@ -4286,7 +4293,6 @@ The Bible has it written like this.	聖書にこう書いてある。
 Water is essential to life.	水は生きるうえで欠くべからざるものだ。
 There is a path through the wood.	森を抜ける小道があります。
 How do you spend the New Year?	新年をどのように過ごすのですか。
-I feel like getting some fresh air.	新鮮な空気がすいたい。
 Food is essential to life.	食物は生きる上でなくてはならないものだ。
 The stick didn't help him any.	杖は彼に何の役にも立たなかった。
 If she hasn't missed the train!	乗り遅れていなければいいのに。
@@ -4297,7 +4303,9 @@ I spend all her money on the car.	車に彼女のお金を全部使う。
 Look up the word in the dictionary.	辞書のその文字をご覧。
 Reflect on what you have done.	自分のしたことをよく考えなさい。
 I sometimes see him on the street.	時々彼に通り出会います。
+We watch television every evening.	私達は毎晩テレビを見る。
 We have respect for our teacher.	私達は先生を尊敬しています。
+I watch television in the evening.	私は夕方にテレビを見る。
 I didn't catch what he said.	私は彼の言ったことがわからなかった。
 I told him that he was wrong.	私は彼に彼が間違っているといった。
 I took him a cup of coffee.	私は彼に１杯のコーヒーを持っていった。
@@ -4320,6 +4328,7 @@ I like trains better than buses.	私はバスより汽車が好きです。
 I will soon catch up with you.	私はすぐに君に追いつくであろう。
 I was at my best this morning.	私はけさ実に体の調子がよかった。
 My dream is to become a teacher.	私の夢は先生になることです。
+There is a television in my room.	私の部屋にはテレビがある。
 My father likes traveling by air.	私の父は空の旅が好きです。
 My father doesn't like music.	私の父は音楽が好きではありません。
 My father is a teacher of English.	私の父は英語の先生です。
@@ -4450,6 +4459,7 @@ That young man is our teacher.	あの若い男性は私たちの先生です。
 Have you lost your reason?	あなたは物事の分別がつかなくなったのか。
 What did you do on the weekend?	あなたは週末に何をしましたか。
 What train you are going to take?	あなたはどの電車に乗るの。
+Where do you watch television?	あなたはどこでテレビを見ますか。
 Your idea is similar to mine.	あなたの考えは私のとよく似ている。
 You make life worth living.	あなたのお陰で私は生き甲斐を感じます。
 Take any train on track 5.	５番線のどの列車でもいいから乗りなさい。
@@ -4543,6 +4553,7 @@ He had his secretary type letter.	彼は秘書に手紙タイプさせた。
 He discovered how to open the box.	彼は箱の開け方をわかった。
 He is old, but he's worn well.	彼は年をとっていてもまだ若々しい。
 He touched the water with his foot.	彼は足で水に触れてみた。
+He doesn't watch television at all.	彼は全然テレビを見ない。
 He sat at the edge of the stream.	彼は川のふちに腰を下ろした。
 He grew up to be a fine youth.	彼は成長してりっぱな若者になった。
 He teaches in a girls' high school.	彼は女子高で教えている。
@@ -4627,7 +4638,6 @@ A successful presentation of a play.	成功を収めた劇の上映。
 How long is the Seto Bridge?	瀬戸大橋の長さはどのくらいありますか。
 Father looked me full in the face.	親父はじっと私の顔を見た。
 What the newspapers say is true.	新聞が書いていることは本当だ。
-There is nothing like fresh air.	新鮮な空気ほどよいものはない。
 A new dress was bought for her.	新しい服が彼女のために買われた。
 Lack of sleep began to tell on me.	寝不足の影響がではじめた。
 How beautiful the rising sun is!	昇る朝日は何と美しいのだろう。
@@ -4740,6 +4750,7 @@ That will benefit the community.	それは社会のためになるだろう。
 Keep it at a lower temperature.	それはもっと低温で保存しなさい。
 That dress matches her red hair.	その洋服は彼女の赤い髪に合う。
 The problem is beyond my power.	その問題は私の手には負えません。
+There is a television in the room.	その部屋にはテレビがある。
 Keep the secret to yourself.	その秘密は人に話さないようにしなさい。
 His heart beat fast at the news.	その知らせで彼はどきんとした。
 You can reach the village by bus.	その村へはバスが通っている。
@@ -4897,6 +4908,7 @@ He teaches English to his friends.	彼は友達に英語を教えている。
 He wants to go back to the wild.	彼は野生に戻りたいと思っている。
 He cut off a branch from the tree.	彼は木から一枝をきりとった。
 He skis in Hokkaido every winter.	彼は毎年北海道でスキーをする。
+Does he watch television every day?	彼は毎日テレビを見ますか。
 He walks in the park every morning.	彼は毎朝公園を散歩します。
 He helps out in his father's store.	彼は父の店を手伝っている。
 Though he was poor, he was happy.	彼は貧しかったが、幸せだった。
@@ -5067,7 +5079,6 @@ All children do not like apples.	どの子供もリンゴが好きではない�
 Not all children like apples.	どの子供もリンゴが好きだとは限らない。
 How long does this train stop there?	どのくらい停車しますか。
 Where do I have to change trains?	どこで乗り換えるのでしょうか。
-How can I pick out fresh fish?	どうやって新鮮な魚をえらぶのですか。
 Please take good care of yourself.	どうぞ大事になさって下さい。
 Please give me another chance.	どうかもう一度やらせてみてください。
 The door was locked from within.	ドアの内側から鍵がかかっていた。
@@ -5108,6 +5119,7 @@ I'm not sure if this is correct.	これが正しいかどうか自信がない�
 This is the train for New York.	これがニューヨーク行きの列車です。
 This train is made up of seven cars.	この列車は七両編成です。
 This problem is worth discussing.	この問題は討議する価値がある。
+There is a television in this room.	この部屋にはテレビがある。
 There is heavy traffic on this road.	この道路は交通が激しい。
 It is likely to be cold this winter.	この冬は寒くなりそうだ。
 This material never wears out.	この素材は決してすり減ったりしない。
@@ -5237,11 +5249,11 @@ He set out for Tokyo this morning.	彼は今朝東京へ向けて出発した。
 He traveled throughout the country.	彼は国中をくまなく旅行した。
 He had little freedom of action.	彼は行動の自由がほとんどなかった。
 He can't stick to anything very long.	彼は何事でも三日坊主だ。
+He was watching television all day.	彼は一日中テレビを見ていた。
 He will come to the station by bus.	彼はバスで駅に来るでしょう。
 He comes to school by bus or train.	彼はバスか電車で学校に来る。
 He didn't participate in the story.	彼はその話に参加しなかった。
 He delayed answering the letter.	彼はその手紙の返事を引き延ばした。
-He was then fresh from college.	彼はその時大学を卒業したてであった。
 He was lost in thought for a while.	彼はしばし、考えにふけった。
 He usually goes to school by bus.	彼は、通常バスで学校へ行きます。
 His effort contributed to success.	彼の努力が成功のもとになった。
@@ -5419,7 +5431,6 @@ The news caused her much pain.	その知らせに彼女はたいへん心を痛�
 The man walked round the corner.	その男は角を曲がって歩いていった。
 Look up the word in the dictionary.	その単語を辞書で調べなさい。
 There is a bridge across the river.	その川には橋が架かっている。
-The teacher is fresh from college.	その先生は大学を出たばかりだ。
 The baby was sleeping all day long.	その赤ん坊は１日中寝ていた。
 The new bridge is under construction.	その新しい橋は建造中だ。
 The new bridge is under construction.	その新しい橋は建設中だ。
@@ -5654,6 +5665,7 @@ We are working for world peace.	私達は世界の平和のために働いてい
 I have a good English dictionary.	私は良い英語の辞書を持っています。
 I make an excellent wife for him.	私は優れた彼の妻になる素質がある。
 I get two hour's exercise every day.	私は毎日２時間の運動をする。
+I watch television before I study.	私は勉強する前にテレビを見ます。
 I don't see eye to eye with my father.	私は父と意見が合わない。
 She and I are about the same height.	私は彼女とほぼ同じ身長です。
 I don't fully remember his name.	私は彼の名前を完全には覚えていない。
@@ -5705,6 +5717,7 @@ We get on and off the bus here.	私たちは、ここでバスを乗り降りし
 It is to your advantage to join us.	私たちの仲間に入るのが有利だ。
 Our school stands in the village.	私たちの学校はこの村に建っている。
 We have no secrets from each other.	私たちには内緒ごとは何もない。
+Children like watching television.	子供はテレビを見るのが好きです。
 The officer told his men to advance.	仕官は兵士達に前進を命じた。
 Ms. Yamamoto teaches us English.	山本先生は私たちに英語を教えている。
 She had a touch of a cold last night.	昨晩彼女は風邪気味だった。
@@ -5776,7 +5789,6 @@ Which one do you think is correct?	どちらの方が正しいと思いますか
 Sometimes the game lasted all day.	ときには試合は一日中続きました。
 How can I get in touch with you?	どうしたらあなたに連絡がつきますか。
 I must get the television fixed.	テレビを修理に出さなければならない。
-Wouldn't you like to get some fresh air?	ちょっと散歩しない？
 Who taught you how to dance?	だれがあなたにダンスの仕方を教えたのですか。
 It chances that he is off duty today.	たまたま彼は今日は非番だ。
 It's a very good newspaper, isn't it?	たいへん立派な新聞ですね。
@@ -5802,6 +5814,7 @@ The country was gearing up for war.	その国は戦争の準備をしていた�
 We easily figured out the password.	その合い言葉は解きやすかった。
 The plan is worth considering.	その計画は考えてみるだけの価値があるよ。
 The machine operates all day long.	その機械は一日中作動しています。
+That movie was shown on television.	その映画はテレビでやりました。
 The football game is on the air.	そのフットボールの試合は放送中です。
 The dress becomes you very well.	そのドレスはあなたによく似合います。
 The bottom has fallen out of the market.	そこ知らずの相場だ。
@@ -5938,6 +5951,7 @@ He is better able to teach than I am.	彼は私より教えるのが上手だ。
 He as good as accepted my offer.	彼は私の申し出を承諾したも同然である。
 He uses the same dictionary as I do.	彼は私と同じ辞書を使っている。
 He was at pains to finish his work.	彼は仕事を終えようと骨を折った。
+He appeared on television last night.	彼は昨夜のテレビに出演した。
 He took no photos of the festival.	彼は祭りの写真を何も撮らなかった。
 He is having a hard time losing weight.	彼は減量に苦しんでいる。
 He never gets up early in the morning.	彼は決して朝早く起きない。
@@ -6074,7 +6088,6 @@ My father beat me answering him back.	口答えしたら父は私を叩いた。
 To do him justice, he is a nice guy.	公平に評すれば、彼はいい奴だ。
 Have you made progress in your studies?	研究ははかどりましたか。
 I want to keep a cat instead of a dog.	犬の代わりに猫を飼いたい。
-Fresh air is necessary to good health.	健康には新鮮な空気がいる。
 My blood pressure is 155 over 105.	血圧は上が１５５で下が１０５です。
 In the long run, prices will rise.	結局のところ、物価は上がるものだ。
 I hope the economy picks up soon.	景気がすぐに回復するといいのですが。
@@ -6460,6 +6473,7 @@ A woman appeared from behind a tree.	一人の女性が木の後ろから現れ�
 The seats were reserved for the party.	一行のために席は取っておく。
 She called me up, as I had expected.	案の定、彼女は電話をかけてきた。
 Liz has been dead for eight years.	リズが亡くなってから８年になります。
+The radio gave place to television.	ラジオはテレビに取って代わられた。
 Mary aided her mother in cooking.	メアリーは母が料理をするのを手伝った。
 Mary is the prettier of the two.	メアリーはその二人のうちで美しい方です。
 I was left out in the cold by everyone.	みんなで私をのけ者にした。
@@ -6476,6 +6490,7 @@ There is only one bus every two hours.	バスは２時間に一本しかない�
 Let's go by train instead of by bus.	バスでなくて列車で行きましょう。
 Did you enjoy yourself at the party?	パーティーはたのしかったですか。
 I hear that Nancy is very pretty.	ナンシーさんはとてもかわいいそうです。
+Tom is always watching television.	トムはいつもテレビを見てばかりいる。
 Which dictionary do you often use?	どの辞書をあなたはよく利用しますか。
 I saw some very beautiful scenes.	とても美しい風景がいくつかありました。
 Please take good care of yourself.	どうか健康に十分気をつけてください。
@@ -6726,7 +6741,6 @@ Someone else profits from the situation.	他の物が漁夫の利を占める。
 Could you recommend another hotel?	他のホテルを紹介していただけませんか。
 The whole village came out to welcome him.	村民総出で彼を迎えた。
 I like him best of all the teachers.	全部の先生のうちで彼が一番好きだ。
-Everything starts wearing fresh colors.	全てが鮮やかな色彩に包まれ。
 I met an old friend of mine the other day.	先日旧友に会いました。
 The teacher permitted him to go home.	先生は彼が帰宅する事を許可した。
 Now I am a teacher, I think otherwise.	先生になった今はそう考えない。
@@ -6854,6 +6868,7 @@ Tom received a heavy blow on the head.	トムは頭にきつい一発を受け�
 Will you tell me where I am wrong?	どこが間違っているのか言ってください。
 How did you obtain this painting?	どうやってこの絵画を手に入れたのですか。
 See to it that the door is locked at 10.	ドアは１０時に閉めなさい。
+We can do without a television, can't we?	テレビなんかなくてすむ。
 Would you mind waiting a few minutes?	ちょっと待っていてもらえますか。
 Most students come to school on foot.	たいていの学生は徒歩で通学する。
 If it is worth doing, do it well.	それをやる価値があるなら。、立派にやれ。
