@@ -102,7 +102,7 @@ for await (const word of readLines(fileReader)) {
 }
 
 const profanityWords = {};
-fileReader = await Deno.open("mGSL/vendor/Google-profanity-words/list.txt");
+fileReader = await Deno.open("mGSL/vendor/Google-profanity-words/data/list.txt");
 for await (const word of readLines(fileReader)) {
   if (!word) continue;
   profanityWords[word] = true;
