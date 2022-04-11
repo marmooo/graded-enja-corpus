@@ -32,5 +32,5 @@ CC BY-SA 4.0
 ## Attribution
 
 - The original of jec.* were created by
-  [日英中基本文データ](http://nlp.ist.i.kyoto-u.ac.jp/index.php?日英中基本文データ) under the
-  license of [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/).
+  [日英中基本文データ](http://nlp.ist.i.kyoto-u.ac.jp/index.php?日英中基本文データ) licensed under
+  the [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/).
