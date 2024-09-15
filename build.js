@@ -1,4 +1,10 @@
-import { readLines } from "https://deno.land/std/io/mod.ts";
+import { TextLineStream } from "jsr:@std/streams/text-line-stream";
+
+function getLineStream(file) {
+  return file.readable
+    .pipeThrough(new TextDecoderStream())
+    .pipeThrough(new TextLineStream());
+}
 
 function getWordLevel(word, mGSL, lemmatizationDict) {
   if (word in lemmatizationDict) {
@@ -82,36 +88,32 @@ function includeBadWordsEn(words) {
   });
 }
 
-async function readLineWithIndex(filepath, callback) {
-  const fileReader = await Deno.open(filepath);
+async function readLineWithIndex(filePath, callback) {
   let i = 0;
-  for await (const word of readLines(fileReader)) {
-    if (!word) continue;
+  const file = await Deno.open(filePath);
+  for await (const word of getLineStream(file)) {
     callback(word, i);
     i += 1;
   }
 }
 
 const badWords = {};
-let fileReader = await Deno.open(
+let file = await Deno.open(
   "mGSL/vendor/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words/en",
 );
-for await (const word of readLines(fileReader)) {
-  if (!word) continue;
+for await (const word of getLineStream(file)) {
   badWords[word] = true;
 }
 
 const profanityWords = {};
-fileReader = await Deno.open("mGSL/vendor/Google-profanity-words/data/en.txt");
-for await (const word of readLines(fileReader)) {
-  if (!word) continue;
+file = await Deno.open("mGSL/vendor/Google-profanity-words/data/en.txt");
+for await (const word of getLineStream(file)) {
   profanityWords[word] = true;
 }
 
 const inappropriateWordsJa = [];
-fileReader = await Deno.open("inappropriate-words-ja/Sexual.txt");
-for await (const word of readLines(fileReader)) {
-  if (!word) continue;
+file = await Deno.open("inappropriate-words-ja/Sexual.txt");
+for await (const word of getLineStream(file)) {
   if (!["イク", "催眠"].includes(word)) {
     inappropriateWordsJa.push(word);
   }
@@ -119,9 +121,8 @@ for await (const word of readLines(fileReader)) {
 inappropriateWordsJa.push("性病");
 
 const lemmatizationDict = { an: "a" };
-fileReader = await Deno.open("mGSL/vendor/agid-2016.01.19/infl.txt");
-for await (const line of readLines(fileReader)) {
-  if (!line) continue;
+file = await Deno.open("mGSL/vendor/agid-2016.01.19/infl.txt");
+for await (const line of getLineStream(file)) {
   const [toStr, fromStr] = line.split(": ");
   if (!toStr.endsWith("?")) {
     const [to, _toPos] = toStr.split(" ");
@@ -150,17 +151,15 @@ await readLineWithIndex("mGSL/dist/mGSL.lst", (line, i) => {
   if (level == -1) level = range.length;
   mGSL[en] = level;
 });
-fileReader = await Deno.open("mGSL/filter-ngsl.lst");
-for await (const word of readLines(fileReader)) {
-  if (!word) continue;
+file = await Deno.open("mGSL/filter-ngsl.lst");
+for await (const word of getLineStream(file)) {
   mGSL[word] = 0;
 }
 
 const problemList = [...Array(range.length + 1)].map(() => []);
 
-fileReader = await Deno.open("jec.tsv");
-for await (const line of readLines(fileReader)) {
-  if (!line) continue;
+file = await Deno.open("jec.tsv");
+for await (const line of getLineStream(file)) {
   const [_id, ja, en, _zh] = line.split("\t");
   if (!includeBadWordsJa(ja)) {
     const words = getWords(en);
@@ -186,9 +185,8 @@ for await (const line of readLines(fileReader)) {
     console.log(line);
   }
 }
-fileReader = await Deno.open("tanaka-corpus-plus/tanaka.txt");
-for await (const line of readLines(fileReader)) {
-  if (!line) continue;
+file = await Deno.open("tanaka-corpus-plus/tanaka.txt");
+for await (const line of getLineStream(file)) {
   if (!line.startsWith("A:")) {
     continue;
   }
