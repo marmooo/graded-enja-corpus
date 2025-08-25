@@ -145,13 +145,13 @@ delete lemmatizationDict["danger"];
 const range = [50, 100, 150, 200, 400, 600, 800, 1200, 1600, 2200, 3000, 5000];
 
 const mGSL = {};
-await readLineWithIndex("mGSL/dist/mGSL.lst", (line, i) => {
-  const [en, _ja] = line.split("\t", 2);
+await readLineWithIndex("mGSL/dist/mGSL.en.csv", (line, i) => {
+  const [en, _ja] = line.split(",");
   let level = range.findIndex((r) => r > i);
   if (level == -1) level = range.length;
   mGSL[en] = level;
 });
-file = await Deno.open("mGSL/filter-ngsl.lst");
+file = await Deno.open("mGSL/filter-numbers.lst");
 for await (const word of getLineStream(file)) {
   mGSL[word] = 0;
 }

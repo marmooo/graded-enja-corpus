@@ -2,6 +2,7 @@ Die!	死ね！
 Really?	本当に？
 Action!	演技はじめ！
 Hold it!	動かないで！
+Speaking.	私ですが。
 I'm free.	暇ですよ。
 Almost.	もうちょっと。
 But why?	しかしなぜ。
@@ -53,6 +54,7 @@ He's broke.	彼は一文なしだ。
 I hope so.	私はそう望みます。
 Anything new?	何かあった？
 I'm so full.	もう満腹です。
+Speak up!	はっきり言いなさい。
 It's white.	それは白いです。
 I hope so.	そうだといいけど。
 Leave now.	すぐ出発しなさい。
@@ -64,7 +66,7 @@ I'm free now.	私は今暇です。
 Money talks.	金がものを言う。
 I feel my age.	もう年だよ。
 Mike smiled.	マイクは笑った。
-Oh no, really?	まあ、本当？
+It is a book.	それは本です。
 Now tell me.	さあ話したまえ。
 I want money.	お金が欲しい。
 I stopped X.	Xをわたしが止めた
@@ -78,9 +80,11 @@ Answer me.	私の質問に答えなさい。
 Open the door.	ドアを開けて。
 Who cares?	だれが気にするもんか。
 Come along.	さあ、一緒に来いよ。
+It's this book.	この本です。
 It sounds great!	いい案だ！
 The leaves fell.	葉が落ちた。
 Night came on.	夜がやってきた。
+I'd like a book.	本を下さい。
 I believe you.	僕は君を信じる。
 Do you read me?	聞こえますか。
 She smiled.	彼女はにっこり笑った。
@@ -90,6 +94,7 @@ Will he die?	彼は死ぬでしょうか。
 Let's ask him.	彼にたずねよう。
 My water broke.	破水しました。
 Act your age.	年相応にふるまえ。
+I want a book.	私は本が欲しい。
 I don't mind.	私は構いませんよ。
 It's business.	それが仕事です。
 Go to school.	学校へ行きなさい。
@@ -101,6 +106,7 @@ Do it at once.	すぐにしなさい。
 I hope not.	そうでないことを望む。
 Come at once.	すぐに来て下さい。
 Study hard.	しっかり勉強しなさい。
+This is a book.	これは本です。
 Alice smiled.	アリスは微笑んだ。
 Move along now.	立ち止まるな。
 Why do you ask?	なんで聞くの？
@@ -117,9 +123,9 @@ I'm behind him.	彼の後ろにいる。
 I called him up.	彼に電話した。
 He is my type!	彼って私のタイプ！
 Live and learn.	長生きして学べ。
-Who loves war?	誰が戦争を好むか。
 How's business?	商売はどうかね。
 I don't, either.	私もそうです。
+Where's my book?	私の本はどこ？
 Leave it to me.	私に任せなさい。
 Never say die.	死ぬなんて言うな。
 Thought is free.	思想は自由だ。
@@ -141,6 +147,7 @@ Come back soon.	すぐに戻ってね。
 Do it at once.	すぐにやりなさい。
 Do it at once.	すぐにそれをせよ。
 Study hard.	しっかり勉強して下さい。
+Here is a book.	ここに本がある。
 Ask Alex.	アレックスに聞いてみなさい。
 He shall die.	あいつを殺してやる。
 Shall we start?	始めましょうか。
@@ -148,11 +155,13 @@ I'll ask Tom.	トムに聞いてみます。
 I don’t drive.	私が車の運転をしない
 He told me X.	彼がXを私に告げました
 Did you ever?	本当か、これは驚きだ。
+Close your book.	本を閉じなさい。
 I'm left-handed.	僕は左利きです。
 I thought hard.	僕はじっと考えた。
 She's my type.	彼女は私のタイプだ。
 Keep watch on him.	彼を見張れ。
 He is at play.	彼は遊びの最中です。
+He has a book.	彼は本を持っている。
 He is my father.	彼は私の父です。
 He is on leave.	彼は休暇中である。
 He felt at home.	彼はくつろいだ。
@@ -178,7 +187,6 @@ Our plan is made.	計画はできた。
 Give me your money.	金出せよ。
 Air the futon.	蒲団を干して下さい。
 Love to party!	パーティーが大好き。
-Oh, have a heart.	ねえ、お願い。
 How kind of you!	なんとご親切に。
 On what account?	どう言うわけで？
 How kind of you!	どうもご親切に。
@@ -187,6 +195,7 @@ I don't care.	ちっとも構いませんよ。
 Leave at once.	すぐに出発しなさい。
 Do it at once.	すぐそれをしなさい。
 This is for free.	これ無料です。
+This book is old.	この本は古い。
 Don't stop here.	ここで止まるな。
 Let's rest here.	ここで、休もう。
 Where is mother?	お母さんはどこ。
@@ -244,7 +253,9 @@ I'll be back soon.	すぐに戻るよ。
 John talks big.	ジョンは話が大きい。
 Tom, don't die.	トム、死んじゃだめ。
 Can it be true?	これは本当だろうか。
+This is my book.	これは私の本です。
 Read this book.	この本を読みなさい。
+This book is new.	この本は新しい。
 Let's rest here.	ここで少し休もう。
 Ken's turn came.	ケンの順番が来た。
 Let's ask him.	あの人に頼んでみよう。
@@ -256,7 +267,6 @@ I'll ask Tom.	トムにお願いしようかな。
 I'll ask Tom.	トムに訊いてみようっと。
 Did you call Tom?	トムに電話した？
 I felt so small.	かなり肩身が狭かった
-OK! Bring it on!	よし、かかってこい！
 She plays Bach.	彼女はバッハ弾きです。
 Day is breaking.	夜が明けかけてきた。
 I felt left out.	無視された気がした。
@@ -302,6 +312,7 @@ I'll be along soon.	すぐ行きます。
 Come here at once.	すぐここに来い。
 I'd rather not.	ご遠慮させてください。
 This is broken.	これは壊れていました。
+This book will do.	この本でいいよ。
 Go in the field.	この道を行きなさい。
 I'll pay for it.	ここは私が払います。
 Watch TV here.	ここでテレビを見なさい。
@@ -309,6 +320,7 @@ Can we talk?	お話ししたいことがあります。
 I met him once.	いつか彼に会っている。
 That is a table.	あれはテーブルです。
 Who's that girl?	あの少女は誰ですか。
+Here is your book.	あなたの本です。
 That's a good idea!	良い考えだね！
 I'll go ask Tom.	トムに訊いてくるよ。
 I'm aging well.	相応にいい歳をとってきた
@@ -317,6 +329,7 @@ What a business it is!	面倒だな。
 Turn off the light.	明かりを消して。
 Don't work too hard!	無理するなよ！
 You can't be so sure.	本当にそう。
+Don't open your book.	本を開くな。
 Where is my watch?	僕の時計はどこだ？
 Don't tell on me.	僕の告げ口をするな。
 My mother is out.	母は外出しています。
@@ -375,18 +388,20 @@ Let's take a break.	一息いれようよ。
 Stop, I say.	やめなさいって言ってるでしょ。
 It is almost three.	もうすぐ３時だ。
 It's starting now.	ほら、始まるわよ。
-Bob is my friend.	ボブは私の友達です。
 What a big talk.	なんたる大ボラふきだ。
 Tom is very kind.	トムはとても親切だ。
 Leave it there.	それをそこへ置いてくれ。
 It may be true.	それは本当かもしれない。
+Give me the book.	その本をとってくれ。
 Tell me about it.	そのことを話してよ。
 What a good idea!	そいつはいい考えだ。
 I will be back soon.	すぐ戻ります。
 I'm coming at once.	すぐに行きます。
 It's now my turn.	さあ今度は僕の番だ。
+This is her book.	これは彼女の本です。
 This is too short.	これは短すぎます。
 This is too big.	これは大きすぎました。
+This book is small.	この本は小さい。
 Who is this girl?	この少女は誰ですか。
 Where is Father?	お父さんはどこですか。
 I'm leaving first.	お先に失礼します。
@@ -412,6 +427,7 @@ He called for help.	彼は助けを呼んだ。
 He called for help.	彼は助けを求めた。
 He calls me Pete.	彼は私をピートと呼ぶ。
 He stopped short.	彼は急に立ち止まった。
+He speaks English.	彼は英語を話します。
 He has left already.	彼はもう出たよ。
 He opened the door.	彼はドアをあけた。
 He asked for money.	彼はお金を求めた。
@@ -460,6 +476,7 @@ Are you through yet?	もう終わったの？
 I'll tell you what.	まあ、聞きなさい。
 I had a hard time.	ひどい目に遭ったよ。
 What a good idea!	なんていい考えなんだ！
+Any book will do.	どんな本でも結構です。
 Tony is playing.	トニー君は遊んでいます。
 Tony broke it.	トニー君がそれを壊しました。
 Don't watch TV.	テレビを見てはいけません。
@@ -475,9 +492,12 @@ John works hard.	ジョンは熱心な勉強家だ。
 But not really.	しかし、実際は違いました。
 Now let's talk it up.	さあ、宣伝だ。
 For your information.	ご参考までに。
+This book was new.	この本は新しかった。
+Here is a book.	ここに一冊の本があります。
 Don't play here.	ここで遊んではいけない。
 You put things well.	うまい事言うね。
 Sure. What is it?	いいですよ。何ですか。
+Those are my books.	あれは私の本です。
 Who is that woman?	あの女性は誰ですか。
 That house is big.	あの家は大きいです。
 You are not kind.	あなたは親切ではない。
@@ -495,9 +515,11 @@ She/He sounded down.	声に元気が無かった
 Answer 24 questions.	２４の質問に答える
 He gave a big smile.	彼がにっこり笑った
 He allows himself X.	彼がXを自分に許す
+May I speak to you?	話してもいいですか。
 He is a self-made man.	立志伝中の人。
 I have a few friends.	友人は少しいる。
 Put your books away.	本を片づけなさい。
+They have few books.	本はほとんどない。
 The law was changed.	法律が改正された。
 I am in deep water.	非常に困っています。
 She stopped talking.	彼女は話をやめた。
@@ -537,7 +559,6 @@ I've known it all along.	先刻承知。
 We ran short of food.	食糧が不足した。
 Answer the question.	質問に答えなさい。
 We have enough time.	時間は十分にある。
-We are against war.	私達は戦争に反対だ。
 I do not read books.	私は本を読まない。
 I ran to my mother.	私は母に駆け寄った。
 I called her up.	私は彼女に電話をしました。
@@ -546,6 +567,7 @@ I call him Mike.	私は彼をマイクと呼びます。
 I followed him.	私は彼の後ろに付いて行った。
 I returned to Japan.	私は日本に戻った。
 I can't do anything.	私は何もできない。
+I can speak English.	私は英語が話せる。
 I was forced to go.	私はやむなく行った。
 I like to watch TV.	私はテレビが好きだ。
 I hope to see you.	私はあなたに会いたい。
@@ -554,6 +576,7 @@ Don't talk to me!	私に何も話しかけないで！
 I am free from care.	私には心配がない。
 Come along with me.	私についてきなさい。
 Come along with me.	私と一緒に来なさい。
+We speak Japanese.	私たちは日本語を話す。
 Do as I tell you.	私が言うようにしなさい。
 You are allowed to go.	行ってもよい。
 Do as you are told.	言われたようにせよ。
@@ -568,7 +591,6 @@ How do you feel now?	気分はどうですか。
 I know how you feel.	気持ちは分かるよ。
 Speak your mind.	気持ちを隠さず話しなさい。
 To meet is to part.	会うは別れのはじめ。
-We are against war.	我々は戦争に反対だ。
 Why didn't you come?	何故来なかったの？
 Rome is an old city.	ローマは古い街だ。
 Come if possible.	もし来られたら来なさい。
@@ -582,8 +604,8 @@ What a friend you are!	なんて友人だ。
 No, it's second hand.	なに、中古だよ。
 Why is he here?	なぜ彼はここにいるのですか。
 Why do I even care?	なぜ頭から離れない。
+Which is your book?	どれが君の本ですか。
 Tom is very kind.	トムは本当に親切ですね。
-Either day is OK.	どちらの日でも結構です。
 It's under the table.	テーブルの下よ。
 I feel like a rest.	ちょっと休憩したい。
 Let's take a rest.	ちょっと一休みしよう。
@@ -601,7 +623,13 @@ Come home at once.	すぐに家に帰りなさい。
 Come here at once.	すぐにここへ来なさい。
 Let's take a break.	さぁ、休憩をとろう。
 Who broke this?	これを壊したのはだれですか。
+These are my books.	これらは私の本です。
 This is above me.	これは私には分からない。
+This is an old book.	これは古い本です。
+This is your book.	これはあなたの本です。
+This book is hers.	この本は彼女の物です。
+Is this book yours?	この本は君のですか。
+This book is yours.	この本はきみのだよ。
 This story is true.	この物語は真実です。
 Don't be so hard on me.	キツイなあ。
 Can we have a talk?	お話があるのですが。
@@ -611,6 +639,7 @@ Our money ran out.	お金がなくなってきた。
 Emi is a good girl.	エミはよい女の子だ。
 When were you born?	いつ生まれましたか。
 When will you leave?	いつ出かけますか。
+That is your book.	あれはあなたの本です。
 Who is that woman?	あの女の人は誰ですか。
 You go to school.	あなたは学校へ行きます。
 He watched that DVD.	彼がそのＤＶＤを見た
@@ -637,7 +666,6 @@ She opened the door.	彼女はドアを開けた。
 He shall go at once.	彼をすぐ行かせよう。
 They stopped talking.	彼らは話をやめた。
 They are the same age.	彼らは同い年だ。
-They call me Bob.	彼らは私をボブと呼びます。
 They had no food.	彼らには食べ物が無かった。
 He isn't coming, either.	彼も来ない。
 He is my close friend.	彼は僕の親友だ。
@@ -648,6 +676,7 @@ He's younger than me.	彼は私より年少だ。
 He gave me a watch.	彼は私に時計をくれた。
 He is young at heart.	彼は気持ちが若い。
 He is not down yet.	彼はまだ降りてこない。
+He speaks French.	彼はフランス語を話します。
 He turned around.	彼はぐるりとふりかえった。
 He is sure to come.	彼はきっと来ると思う。
 He is certain to come.	彼はきっと来る。
@@ -656,6 +685,7 @@ Let me put him on.	彼に代わってもらいます。
 Can you meet him?	彼に会うことは出来ますか。
 He has a position.	彼には役職がついている。
 Give him a break!	彼にチャンスを与えてやれ！
+I gave him the book.	彼にその本をあげた。
 Let him pay for it.	彼にお金を払わせれば？
 Why don't you come in?	入っておいでよ。
 They moved in together?	同棲したこと？
@@ -669,6 +699,7 @@ Act your place.	新米のくせに大きな顔をするな。
 Where will we meet?	集合場所はどこですか？
 Let me pay my share.	自分の分は払います。
 What's the story?	事の次第はどうなんですか。
+I gave him a book.	私は彼に本を一冊やった。
 I found him kind.	私は彼が親切だとわかった。
 I called for help.	私は大声で助けを求めた。
 I was born in Osaka.	私は大阪生まれです。
@@ -676,6 +707,7 @@ I turned right.	私は車のハンドルを右に切った。
 I was born in Kyoto.	私は京都で生まれた。
 I know the girl.	私はその少女を知っています。
 I called on Judy.	私はジュディさんを訪れた。
+Where is my book?	私の本はどこにありますか。
 My watch is broken.	私の時計は狂っている。
 Can you hear me?	私の言うことが聞こえますか。
 Don't answer me back.	私に口答えするな。
@@ -687,6 +719,7 @@ You are strong-minded.	君は意志が強い。
 I'm leaving it to you.	君にまかせるよ。
 We ran short of money.	金不足になった。
 Shall we take a rest?	休憩しましょうか。
+Do you speak English?	英語を話しますか。
 As you already know.	既にご存じのように。
 You better believe it.	間違いないって。
 Don't talk around it.	回りくどく言うな。
@@ -694,6 +727,7 @@ I can't put up with it.	我慢できない。
 I can't say for sure.	何とも言えないな。
 Do you have a plan?	何か計画がありますか。
 Let's play something.	何かして遊ぼうよ。
+Let's speak English.	英語を話しましょう。
 Who can read the future?	一寸先は闇。
 I didn't hear you.	よく聞こえませんでした。
 No more parties.	もうパーティーはなしですよ。
@@ -710,7 +744,9 @@ Stop going there.	そこに行くのはやめなさい。
 Do keep practicing!	ぜひ練習を続けなさい。
 I already told you.	すでにお話ししました。
 Jim opens the door.	ジムがドアを開けます。
+These books are new.	これらの本は新しい。
 This is true to life.	これは生き写しだ。
+Is this your book?	これはあなたの本ですか。
 Answer me this.	これから言うことに答えなさい。
 Anything goes here.	ここでは何でも起こる。
 May I talk to you?	お話ししてもよいですか。
@@ -785,12 +821,12 @@ He is playing here.	彼はここで遊んでいます。
 He left home at 8:00.	彼は８時に家を出た。
 He has a deep voice.	彼の声には底力がある。
 Do you believe him?	彼の言う事を信じますか。
+You may speak to him.	彼に話しても良いよ。
 Do you see him often?	彼によく会いますか。
 He is free from care.	彼には心配事がない。
 How far along are you?	妊娠何か月ですか。
 How's Saturday night?	土曜の夜はどうかな？
 I am going to school.	登校するところです。
-No one loves war.	誰も戦争を好むものはいない。
 Mind your own business!	大きなお世話だ。
 Still waters run deep.	静かな流れは深い。
 It's going to clear up.	晴れてきそうだ。
@@ -806,6 +842,7 @@ I am shorter than he.	私は彼より背が低い。
 I answered for him.	私は彼に代わって応えた。
 I do not care for him.	私は彼が嫌いです。
 I'm leaving on Sunday.	私は日曜日に発つ。
+I have two books.	私は二冊の本を持っています。
 I love reading books.	私は読書が好きです。
 I was born in Osaka.	私は大阪の生まれです。
 I am sixteen years old.	私は16歳です。
@@ -813,6 +850,7 @@ I left home at seven.	私は七時に家を出た。
 I've made up my mind.	私は決心をしました。
 I can't see anything.	私は何も見えません。
 I can hear something.	私は何か聞こえます。
+I can speak English.	私は英語をしゃべれる。
 I'd like to watch TV.	私はテレビを見たい。
 I believe that story.	私はその話を信じる。
 I'll come back soon.	私はすぐに帰ってくる。
@@ -831,7 +869,6 @@ Call me this evening.	今晩電話をください。
 Let's stop here.	今日はこれでおしまいにしよう。
 What shall I do next?	今度は何をしようか。
 I am right for once.	今度こそは私が正しい。
-The war was now over.	今や戦争は終わった。
 I've changed my mind.	考えが変わりました。
 Why don't you say it?	言ってみたらどうだ。
 You know the answer?	君は答えがわかるって？
@@ -845,6 +882,7 @@ We met along the way.	我々は途中で会った。
 How kind you are!	何とあなたは親切なのだろう。
 I've heard nothing.	俺は全く何も聞いてない。
 Are you talking to me?	俺に話してるのか。
+Can you speak English?	英語を話せますか。
 What's the big idea?	一体どういう了見だね。
 Would you play with me?	一緒に遊ばない？
 Is there a problem?	悪いところがありますか。
@@ -872,12 +910,17 @@ I think it's true.	それは本当だと思いますよ。
 It may well be true.	それは多分本当だろう。
 It is Pochi's food.	それはポチの食べ物です。
 It can't be true.	それが本当であるはずが無い。
+Where is the book?	その本はどこにありますか。
 Is it large enough?	その大きさで十分ですか。
 The watch broke down.	その時計は故障した。
 The sound died away.	その音は消えていった。
 I met a friend there.	そこで友人に会った。
 Jim hasn't come yet.	ジムはまだきていない。
+These are our books.	これらは私達の本です。
+This is a small book.	これは小さい本です。
 This is above me.	これは私には理解できません。
+This is Tony's book.	これはトニーの本です。
+This book is smaller.	この本の方が小さい。
 Leave out this word.	この単語を省きなさい。
 This door won't open.	このドアは開かない。
 He wants the money.	お金を欲しがっています。
@@ -912,6 +955,7 @@ Father is away from home.	父は不在です。
 Mind you come on time.	必ず定刻に来なさい。
 She is hard on him.	彼女は彼らにつらくあたる。
 She is hard on them.	彼女は彼につらくあたる。
+She took her book.	彼女は自分の本を手に取った。
 She answered me back.	彼女は私に口答えした。
 She is about my age.	彼女は私くらいの年齢だ。
 She did not turn up.	彼女は姿を現さなかった。
@@ -927,12 +971,14 @@ They set up a school.	彼らは学校を設立した。
 He made up the story.	彼は話をでっち上げた。
 He has few friends.	彼は友達がほとんどいない。
 He has a kind heart.	彼は優しい心の持ち主だ。
+He gave her a book.	彼は彼女に本をあげました。
 He was put in a cell.	彼は独房に入れられた。
 Who is he talking to?	彼は誰と話しているの？
 He is kind by nature.	彼は生まれつき親切だ。
 He is kind by nature.	彼は生まれつき温厚だ。
 He lived a hard life.	彼は辛い人生を送った。
 He started a new life.	彼は新生活を始めた。
+He does speak well.	彼は実に話すのがうまいよ。
 He forced me to go.	彼は私を無理矢理行かせた。
 He lives next to me.	彼は私の隣に住んでいる。
 He lives above me.	彼は私の上の階にすんでいる。
@@ -943,6 +989,7 @@ He made for the door.	彼は戸口の方に進んだ。
 He is deep in study.	彼は研究に熱中している。
 He has a strong body.	彼は強い体の持ち主だ。
 He has a strong mind.	彼は強い心の持ち主だ。
+Can he speak English?	彼は英語が話せますか。
 He studied very hard.	彼は一生懸命勉強した。
 He worked very hard.	彼は一生懸命働きました。
 He lives by himself.	彼は一人で暮らしている。
@@ -965,6 +1012,8 @@ I heard him go out.	彼が出ていく音が聞こえた。
 He broke into a house.	彼が家に押し入った。
 Year followed year...	年が過ぎていきました。
 We'll meet on Sunday.	日曜日に会いましょう。
+Do you speak Japanese?	日本語が話せますか。
+Do you speak Japanese?	日本語は話せますか。
 Don't turn off the light.	電気を消すな。
 Here's your party.	相手の方がお出になりました。
 I met him the other day.	先日彼に会った。
@@ -990,10 +1039,13 @@ I like Japanese food.	私は日本食が好きです。
 I'm paid by the day.	私は日給でもらっている。
 I want a book to read.	私は読む本がほしい。
 I also did not call.	私は電話もかけなかった。
+I have a few books.	私は少し本を持っています。
 I have some money.	私は少しお金を持っています。
 I am going to start.	私は出発するところです。
 I'm a government worker.	私は公務員です。
+I gave Mary a book.	私はメアリーに本を上げた。
 I was at the party.	私はパーティーに出席した。
+I have many books.	私はたくさん本を持っている。
 I am short of money.	私はお金が不足している。
 I want some money.	私はいくらかのお金がほしい。
 I have turned 20.	私は２０歳になったところです。
@@ -1014,6 +1066,7 @@ What time does it start?	何時に始まるの？
 What a good idea!	何てよい思いつきなのでしょう。
 Have you got any plans?	何か予定はあるの？
 Still waters run deep.	音を立てぬ川は深い。
+Do you speak English?	英語をはなされますか。
 Do one thing at a time.	一度に一事をせよ。
 I believe in Ken.	わたしは、ケンを信頼している。
 Mind your own business.	よけいなお節介だ。
@@ -1047,16 +1100,21 @@ I really want to know.	すごく知りたいなあ。
 Will it clear up soon?	すぐ晴れるだろうか。
 Let's start right away.	すぐに出発しよう。
 Here's to your health!	ご健康を祝して乾杯。
+This book is Tony's.	この本はトニーの物です。
+Do you need this book?	この本はいりますか。
+Is this book yours?	この本はあなたの物ですか。
 This watch is broken.	この時計は壊れている。
 Never play here.	けっしてここで遊んではいけない。
 How kind Kate is!	ケイトはなんて親切なのだろう。
 Money will do anything.	お金は何でもする。
 When did you return?	いつ帰ってきたのですか。
+Those are our books.	あれらは私たちの本です。
 There is not much hope.	あまり希望がない。
 You have a watch.	あなたは腕時計を持っています。
 Are you ten years old?	あなたは十才ですか。
 Can you hear anything?	何か聞こえませんか。
 Who did you meet?	あなたはだれに会ったのですか。
+Which is your book?	あなたの本はどちらですか。
 I'll call you at seven.	７時に電話します。
 When was she born?	彼女はいつ生まれたのですか。
 I will never tell!	この口が裂けても言えません！
@@ -1076,6 +1134,7 @@ I've nothing to give.	与えるものなど何もない。
 I haven't met friends.	友人とは会っていない。
 Put your books in order.	本を整頓しなさい。
 Bring your books down.	本を持って降りなさい。
+Can I take books out?	本は持ち出しできますか。
 My mother is well off.	母は暮らし向きがいい。
 The men followed him.	部下は彼のあとに続いた。
 Put your room in order.	部屋を片付けなさい。
@@ -1110,9 +1169,11 @@ He is as kind as ever.	彼は相変わらず親切だ。
 He called me by name.	彼は私を名指しでよんだ。
 He was just behind me.	彼は私の真後ろにいた。
 He is my best friend.	彼は私の一番の友人です。
+He gave me this book.	彼は私にこの本をくれた。
 He is reading a book.	彼は今本を読んでいます。
 He has left for Kyushu.	彼は九州へ旅立った。
 He set up for learning.	彼は学者ぶっている。
+Does he speak English?	彼は英語を話せますか。
 He didn't say a word.	彼は一言も言わなかった。
 Has he returned yet?	彼はもう帰ってきましたか。
 Is he back already?	彼はもう帰ってきたのですか。
@@ -1140,9 +1201,9 @@ Did you hear of him?	彼のうわさを聞きましたか。
 He and I share a room.	彼と私は同じ部屋です。
 What he said is true.	彼が言ったことは本当だ。
 I am eighteen years old.	年齢は１８歳です。
+Who can speak English?	誰が英語を話せますか。
 It's not important.	大したことじゃないんだから。
 The sooner, the better.	早ければ早い程よい。
-May there be no war!	戦争が起こりませんように。
 Still waters run deep.	静かに流れる川は深い。
 Nothing is ever right.	正しいものは何もない。
 People call him Dave.	人々は彼をデイブと呼ぶ。
@@ -1161,6 +1222,7 @@ I explained it to him.	私は彼に説明しました。
 I paid him the money.	私は彼にその金を払った。
 I met Tom on the way.	私は途中でトムに会った。
 I live in a big city.	私は大都会に住んでいる。
+I have few books.	私は少ししか本を持っていません。
 I want a little money.	私は少しお金がほしい。
 I do not go to school.	私は学校へ行きません。
 I've run out of money.	私は一文無しになった。
@@ -1194,6 +1256,7 @@ We are having a meeting.	会合を開いている。
 What are you reading?	何を読んでいるんですか。
 It is good for nothing.	何の役にも立たない。
 Do you hear any sound?	何か音が聞こえるかね？
+Let's speak in English.	英語で話しましょう。
 How about taking a rest?	一休みしませんか。
 We met along the way.	われわれは途中であった。
 Last call!	ラスト・オーダーは締め切らせていただきました。
@@ -1203,6 +1266,7 @@ Paris fell in 1940.	パリは１９４０年に陥落した。
 Who acts Hamlet?	ハムレットの役は誰がやるのですか。
 Why did I do that?	なぜ私はあんなことをしたのか。
 Where was Tom born?	トムはどこで生まれましたか。
+Which book is better?	どちらの本がよいですか。
 That's very kind of you.	どうもご親切さま。
 Why were you there?	どうして君はそこにいたのか。
 Don't open the door.	ドアを開けてはいけません。
@@ -1214,6 +1278,7 @@ Bring me the Kleenex.	ティッシュを持ってきて。
 I had a hard time of it.	つらい目にあった。
 I don't feel like it.	そんな気分じゃないんだ。
 It is time I left here.	そろそろお暇します。
+They aren't my books.	それらは私の本ではない。
 It can not be true.	それは本当であるはずはない。
 That's against the law.	それは法律違反です。
 Is it Japanese food?	それは日本の食べ物ですか。
@@ -1243,6 +1308,7 @@ Mind your own business.	いらぬ世話をやくな。
 There is nothing to it.	いとも容易なことだ。
 Sure. What can I do?	いいよ、何をすればいいの？
 Ann is a little girl.	アンは小さな女の子です。
+Those are their books.	あれらは彼らの本です。
 How kind you are!	あなたはなんて親切なんでしょう。
 When were you born?	あなたはいつ生まれましたか。
 You heard from him?	あなたには彼から手紙がきた？
@@ -1273,6 +1339,8 @@ She is great with child.	彼女は妊娠している。
 She makes up in public.	彼女は人前で化粧する。
 She has ten children.	彼女は十人の子持ちなんだ。
 She is deep in study.	彼女は研究に没頭している。
+She can speak Russian.	彼女はロシア語が話せる。
+She can speak French.	彼女はフランス語が話せる。
 She is about my age.	彼女はだいたい私と同じ年だ。
 She acted in the play.	彼女はその劇に出ていた。
 Is she your mother?	彼女はあなたのお母さんですか。
@@ -1287,9 +1355,12 @@ They set out last night.	彼らは昨夜出発した。
 Do they learn English?	彼らは英語を学びますか。
 They are all of an age.	彼らはみな同い年です。
 They are free from care.	彼らには心配がない。
+He spoke to the point.	彼は要領を得た話をした。
 He has a few friends.	彼には数人の友人がいます。
 He called on me at night.	彼は夜私を訪ねた。
 He smiled and left.	彼は微笑みそして立ち上がった。
+Can he speak Japanese?	彼は日本語が話せますか。
+He speaks English well.	彼は上手に英語を話す。
 He is able in business.	彼は商才にたけている。
 He is well able to read.	彼は十分字が読める。
 He answered as follows.	彼は次のように答えた。
@@ -1306,6 +1377,8 @@ He is hard up for money.	彼は金に困っている。
 He is full of energy.	彼は活力に満ち溢れている。
 He didn't say anything.	彼は何も言わなかった。
 He was well brought up.	彼はよくしつけられた。
+Can he speak French?	彼はフランス語を話せますか。
+He could speak French.	彼はフランス語を話せた。
 Why did he do that?	彼はなぜそんなことをしたのか。
 He studies very hard.	彼はとても熱心に勉強する。
 He has already gone out.	彼はすでに出かけた。
@@ -1345,11 +1418,15 @@ I play shogi a little.	私は将棋を少々やります。
 I was about to start.	私は出発しようとしていた。
 I know your father.	私は君のお父さんを知っている。
 I got leave to go home.	私は帰宅の許可を得た。
+I can speak English.	私は英語を喋ることができる。
+I can speak English.	私は英語を話す事が出来ます。
 I met an old woman.	私は一人のおばあさんに会った。
 I am friends with Mike.	私はマイクと友達です。
 I am talking with Tom.	私はトムと話しています。
+I have many books.	私はたくさんの本を持っています。
 I got it for nothing.	私はそれをただでもらった。
 I can play Chopin.	私はショパンを弾くことができる。
+I like this book best.	私はこの本が一番好きだ。
 I do not have any money.	私はお金が全くない。
 I was born in America.	私はアメリカで生まれた。
 I am a 22 year-old man.	私は２２歳の男性です。
@@ -1383,6 +1460,7 @@ What should I bring?	何を持って行けばいいですか。
 Tell me what to do.	何をしたらいいか言って下さい。
 I could not see anything.	何も見えなかった。
 Is Okayama a big city?	岡山は大きな都市ですか。
+Can't you speak English?	英語が話せないのか？
 An old man came along.	一人の老人がやってきた。
 Do you want to come along?	一緒に行かない？
 Do you want to come along?	一緒にくるかい。
@@ -1419,7 +1497,6 @@ It accounts for the fact.	それで説明がつく。
 I have heard the story.	その話は知っています。
 The subject is closed.	その問題はこれで終わり。
 Is that answer right?	その答えは正しいのですか。
-The war lasted two years.	戦争は２年続いた。
 I'm sure of the fact.	その事実を確信しています。
 Let's start right away.	すぐにはじめましょう。
 John is my best friend.	ジョンは私の親友です。
@@ -1429,6 +1506,9 @@ Judy smiled at me.	ジュディは私に向かって微笑んだ。
 Now, let's turn to work.	さあ仕事にかかろう。
 Put this into English.	これを英語で言いなさい。
 You can read this book.	この本を読んでもいい。
+Is this book Takeo's?	この本は健夫のものですか。
+How old this book is!	この本は何と古いのだろう。
+Where does this book go?	この本どこに置くの。
 This play has ended.	この公演はもう終わりました。
 Take this table away.	このテーブルをどけなさい。
 Keep this in mind.	このことをよく覚えておきなさい。
@@ -1445,7 +1525,9 @@ When do you leave here?	いつここを発ちますか。
 It is true in a sense.	ある意味でそれは正しい。
 Don't go into that area.	あの地域には入るな。
 Watch out for that man.	あの男に用心しなさい。
+You can speak English.	あなたは英語が話せます。
 I've heard about you.	あなたの噂は伺っています。
+I'll give you a book.	あなたに本をあげましょう。
 I ask you a question.	あなたに一つお尋ねします。
 I am leaving at four.	４時に帰らせてもらいます。
 Call her up at three.	３時に彼女に電話しなさい。
@@ -1462,8 +1544,10 @@ First, he takes a step.	彼がまずは一歩を踏み出す
 X is taken as the reason.	Xが理由に挙げられる
 Let's change the subject.	話題を変えましょう。
 Do you like Japanese food?	和食は好きですか。
+This is Mr Suzuki speaking.	鈴木と申します。
 Still waters run deep.	流れの静かな川は水が深い。
 In a word, life is short.	要するに人生は短い。
+Yumi has many books.	由美は本をたくさん持っている。
 Bring along your friend.	友達を連れてきなさい。
 My friends call me Beth.	友達は私をベスと呼ぶ。
 My friends call me Ken.	友達はぼくをケンと呼ぶ。
@@ -1474,9 +1558,12 @@ See things as they are.	物事はあるがままに見よ。
 My father is in good health.	父は元気です。
 She has a kind heart.	彼女は優しい心の持ち主です。
 She turned on the light.	彼女は明かりをつけた。
+She spoke up for him.	彼女は彼のために口添えした。
+She can speak Japanese.	彼女は日本語が話せます。
 I found her kind.	彼女は親切だという事がわかりました。
 She asked me a question.	彼女は私に質問をした。
 She is most kind to me.	彼女は私にとても親切だ。
+Does she speak English?	彼女は英語を話しますか。
 She hasn't turned up yet.	彼女はまだ現れない。
 She is not here yet.	彼女はまだここへ来ていません。
 She works very hard.	彼女はとても一生懸命勉強する。
@@ -1511,6 +1598,7 @@ He is by no means kind.	彼は決して親切ではない。
 He asked for some money.	彼は金をくれと頼んだ。
 He asked for the money.	彼は金がほしいといった。
 He is good for nothing.	彼は何の役にも立たない。
+He is speaking English.	彼は英語を話しています。
 He left Japan for good.	彼は永久に日本を離れた。
 He must work hard.	彼は一生懸命働かなければならない。
 Will he be here soon?	彼はまもなくここへ来ますか。
@@ -1541,6 +1629,7 @@ Keep to your own line.	自己の方針をあくまで守れ。
 Keep next Sunday free.	次の日曜は空けておいてね。
 What am I to do next?	次に何をしたらよいのですか。
 I'm younger than he is.	私は彼より若いんですよ。
+I gave him a few books.	私は彼に本を数冊与えた。
 I have met him before.	私は彼に会ったことがある。
 I made friends with him.	私は彼と友達になった。
 I made friends with him.	私は彼と親しくなった。
@@ -1550,14 +1639,16 @@ I have no money on me.	私は金の持ちあわせがない。
 I was born in Yokohama.	私は横浜で生まれました。
 I am able to read English.	私は英語が読める。
 I like love stories.	私はラブストーリーが好きです。
-I asked for Bob's help.	私はボブの助けを求めた。
+I can't speak French.	私はフランス語が話せません。
 I was just making sure.	私はただ確認しただけよ。
 I want to read the book.	私はその本が読みたい。
 I often go to London.	私はしばしばロンドンに行く。
 I am shorter than you.	私はあなたよりも背が低い。
 Are you against my plan?	私の計画に反対ですか。
 We are in the same class.	私たちは同級生です。
+We are not speaking.	私たちは今日は話をしていない。
 We gave up the plan.	私たちはその計画をあきらめた。
+All I have is books.	私が持っているのは本だけです。
 Death comes to all men.	死はすべての人に訪れる。
 Even a child can do it.	子供にでもそれはできる。
 We go there often.	最近われわれはしばしばそこへ行く。
@@ -1570,6 +1661,8 @@ Let's face the facts!	現実を直視しようじゃないか。
 To see is to believe.	見ることは信じることである。
 The plan has worked well.	計画はうまくいった。
 You'd better start now.	君は今でかけた方がよい。
+Can you speak French?	君はフランス語が話せますか。
+You have many books.	君はたくさんの本を持っている。
 You haven't any money.	君はお金を持っていません。
 I like the way you smile.	君の笑い方好きだな。
 Just follow your heart.	君の思うようにしなさい。
@@ -1622,6 +1715,8 @@ It is true in a sense.	それはある意味では本当だ。
 How do you feel about it?	それって、どう思う？
 Is this Canadian money?	それがカナダのお金なの？
 Both stories are true.	その話は二つとも真実です。
+Did you order the book?	その本を注文しましたか。
+You may take the book.	その本を持っていってよい。
 The girl has no mother.	その少女には母親がない。
 The door won't open.	そのドアはどうしても開かない。
 I'll leave that to you.	そのことは君に任せるよ。
@@ -1632,12 +1727,15 @@ You will be better soon.	すぐによくなりますよ。
 Call 110 right now.	すぐ１１０番に電話してください。
 I don't know for certain.	しかとは知りません。
 This is very important.	これは非常に重要である。
+This is a very old book.	これは大変古い本です。
 This is a kind of food.	これは食べ物の一種です。
 You can't bring this in.	これは持ち込めません。
 This is my account book.	これは私の出納帳です。
 Let's get off the subject.	この話題はよそう。
 Can you do this problem?	この問題が解けますか。
 This book is above me.	この本は私には難しすぎる。
+This book is very small.	この本はとても小さい。
+This book is very new.	この本はとても新しいです。
 Don't read in this room.	この部屋で本を読むな。
 Let's play this Sunday.	この日曜日はどうですか。
 This money goes for food.	この金は食費になる。
@@ -1649,10 +1747,15 @@ May I ask your name?	お名前は何とおっしゃいますか。
 My mother is well off.	お母さんは暮し向きが良い。
 Be kind to the old.	お年寄りに優しくしてあげなさい。
 How soon do you need it?	いつまでに必要ですか。
+Did you speak at all?	いったい君は口をきいたのか。
 I know nothing about it.	いっこうに存じません。
 How many stops from here?	いくつめの駅ですか。
+That book is a new book.	あの本は新しい本です。
 How hard he works!	あの人、ほんとによくはたらくこと！
 I'll drive you home.	お宅まで車でお送りしましょう。
+You have two books.	あなたは二冊の本を持っています。
+You can speak German.	あなたはドイツ語が話せます。
+Do you need the book?	あなたはその本が必要ですか。
 What you say is true.	あなたの言ったことは本当だ。
 How is your mother?	あなたのお母さんはいかがですか。
 May I talk with you?	あなたとお話ししていいですか。
@@ -1726,6 +1829,8 @@ He is a man of few words.	彼は口数の少ない人だ。
 He is a man of few words.	彼は口数が少ない男だ。
 He did what he was told.	彼は言われた通りにした。
 He has nothing to do.	彼は何もすることがありません。
+He speaks English well.	彼は英語を話すのが上手い。
+He speaks English well.	彼は英語をうまくしゃべる。
 He is no longer a child.	彼はもはや子供ではない。
 Has he gone already?	彼はもう行ってしまったのかしら。
 He has already gone home.	彼はもう帰宅しました。
@@ -1748,14 +1853,12 @@ I provided him with food.	彼に食物をあてがった。
 He gave me a hard time.	彼にひどい目に合わされた。
 I asked him to do that.	彼にそうしてくれと頼んだ。
 I hope that he will come.	彼が来るとよいと思う。
+Nara is a very old city.	奈良はとても古い都です。
 The call has come through.	電話がつながったよ。
 Who were you talking to?	誰に話しかけていたんだ。
 Who told you the story?	誰が君にこの話をしたのか。
 There is much water left.	多量の水が残っている。
 Let's start early, shall we?	早く出発しよう。
-What do you think of war?	戦争をどう思いますか。
-The war ended in 1945.	戦争は１９４５年に終わった。
-War broke out in 1939.	戦争は１９３９年に勃発した。
 Do come to the party.	是非パーティーへおこし下さい。
 Nature is a good mother.	親はなくとも。子は育つ。
 The new plan worked well.	新企画は図にあたった。
@@ -1799,6 +1902,7 @@ I don't need anything now.	今は何も要りません。
 I'll tell you my story.	私の身の上話をしましょう。
 Am I making sense?	私の言っていることがおわかりですか。
 Hear what I have to say.	私の言い訳を聞いてくれ。
+Get that book for me.	私にその本を取ってきて下さい。
 Why don't you come with me?	私と一緒に来ない？
 We watch TV every day.	私たちは毎日テレビを見ます。
 We live in a big city.	私たちは大都市に住んでいる。
@@ -1818,6 +1922,7 @@ Are you younger than him?	君は彼より若いのかい。
 You are free to go out.	君は勝手に出かけていいよ。
 You are free to go home.	君は自由に帰っていいよ。
 Did you read it at all?	君は一体それを読んだのか。
+You have some books.	君はいくつかの本をもっています。
 You and I are good friends.	君と僕は仲よしだ。
 I didn't know you cared!	気を使ってくれてどうも。
 Turn your face this way.	顔をこちらへ向けなさい。
@@ -1833,6 +1938,7 @@ What are you driving at?	何をなさるつもりですか。
 I want something to read.	何か読むものが欲しい。
 I'm living in the city.	俺は今、都会に住んでいる。
 There's nothing I can do.	俺はどうにもできない。
+You speak good English.	英語を話すのが上手ですね。
 Don't hold back anything.	隠さないで話してくれ。
 The day is almost over.	一日が終わろうとしている。
 It is no business of yours.	よけいなお世話だ。
@@ -1850,7 +1956,9 @@ He really turns me off.	ほんと彼にはうんざりだわ！
 Play the part of Hamlet.	ハムレットの役を演じろ。
 What are you driving at?	なにが言いたいのですか。
 What kind of test is that?	どんなテストですか。
+Which book is yours?	どちらの本があなたのものですか。
 I would rather go out.	どちらかと言えば出かけたい。
+Where would I find books?	どこで本が買えますか。
 Where should we meet?	どこで待ち合わせしましょうか。
 Where does it leave from?	どこから出るのですか。
 Will you open the door?	ドアを開けてくれませんか。
@@ -1893,13 +2001,13 @@ I always keep my word.	いつも約束を守っているだろ。
 One thing led to another.	あれは成り行きでした。
 In a sense, it is true.	ある意味ではそれは正しい。
 That story can be true.	あの話は真実かもしれない。
+Give that book back to me.	あの本を返してくれ。
 We were younger then.	あの頃の我々はもっと若かった。
-Can I call you Bob?	あなたをボブと呼んでもいいですか。
+Do you speak Japanese?	あなたは日本語を話しますか。
 Why do you think so?	あなたは何故そう考えるのですか。
+Can you speak German?	あなたはドイツ語を話せますか。
 I'm all for your plan.	あなたの計画には大賛成です。
 Time will do the rest.	あとは時が解決するでしょう。
-Oh, I have a good idea.	ああ、私にいい考えがある。
-War broke out in 1941.	１９４１年に戦争が起こった。
 I love mother nature.	私は母なる自然を愛しています。
 What time are you leaving?	何時ごろ出かけるの?
 I can't help making a sound.	私が思わず声を出す
@@ -1927,6 +2035,7 @@ She is as young as I am.	彼女は私と同じくらい若い。
 She is only hard on me.	彼女は私だけにつらく当たる。
 She left home just now.	彼女は今家を出たところです。
 She hasn't come here yet.	彼女はまだここに来ない。
+Does she speak French?	彼女はフランス語を話しますか。
 She was all smiles.	彼女はにこにこしてうれしそうだった。
 Will she get well soon?	彼女はすぐに良くなりますか？
 She will get well soon.	彼女はすぐに良くなるだろう。
@@ -1938,7 +2047,7 @@ They are short of food.	彼らは食料が不足しています。
 They asked for my help.	彼らは私に助けを求めてきた。
 They broke down the house.	彼らは家を取り壊した。
 They talked about love.	彼らは愛情についてはなした。
-They call Robert "Bob".	彼らはロバートをボブと呼ぶ。
+He was about to speak.	彼は話そうとするところだった。
 He is really a nitpicker.	彼は本当に愚痴愚痴言う。
 He wants a book to read.	彼は読むための本がほしい。
 He is about your age.	彼は大体あなたぐらいの年齢です。
@@ -1949,8 +2058,10 @@ He took over the business.	彼は仕事を引き継いだ。
 He is reading a book.	彼は今本を読んでいるところです。
 He was in time for school.	彼は学校に間に合った。
 He has just left home.	彼は家を出て行ったばかりです。
+Can he speak English?	彼は英語を話すことができますか。
 He is still full of energy.	彼はまだ元気盛んだ。
 He hasn't returned yet.	彼はまだ帰ってきていません。
+He can also speak French.	彼はフランス語も話せる。
 I know why he did it.	彼はなぜそれをしたか知っている。
 He left the door open.	彼はドアを開け放しにしていた。
 He left the door open.	彼はドアを開けっぱなしにした。
@@ -1975,7 +2086,6 @@ Sunday follows Saturday.	土曜日の次は日曜日がくる。
 I think it's by the Chuo Line.	中央線ですね。
 You must act like a man.	男らしく行動すべきである。
 That's really great!	前よりずーっと良くなっていますよ。
-The war is still going on.	戦争はまだ進行中です。
 I'm not as young as I was.	昔のような元気はない。
 Food works on our health.	食べ物は健康を左右する。
 The girl was in her best.	少女は晴れ着を着ていた。
@@ -1993,12 +2103,14 @@ I made him open the door.	私は彼に戸を開けさせた。
 I left the money with him.	私は彼にお金を貸した。
 I'm sure he will come.	私は彼が来ると確信しています。
 I practice early rising.	私は早起きを実行している。
+I have a book in my hand.	私は手に本を持っている。
 I know it for a fact.	私は事実としてそれを知っている。
 I watched TV last night.	昨夜はテレビを見てました。
 I can't do anything.	私には何もすることができないんだ。
 I am studying very hard.	私は一生懸命勉強している。
 I have met him before.	私は以前彼に会ったことがある。
 I am no longer a child.	私はもう子供ではありません。
+I can speak French.	私はフランス語を話すことが出来ます。
 I asked where to go.	私はどこへ行ったらよいのか尋ねた。
 That sounds good to me.	私はそれでもかまいませんよ。
 I should read the book.	私はその本を読むべきだった。
@@ -2013,7 +2125,9 @@ My room is just above.	私の部屋はちょうどこの上です。
 Keep my words in mind.	私のいうことを覚えときなさい。
 Don't ask me for money.	私にお金をせびらないでくれ。
 I get along well with her.	私と彼女は相性がいい。
+We kept our books closed.	私たちは本を閉じていた。
 We were at school together.	私たちは同窓生です。
+We spoke what we know.	私たちは知っている事を話した。
 All of us talk in English.	私たちは皆英語で話す。
 We must work hard.	私たちは一生懸命働かなければならない。
 We work to get money.	私たちはお金を得するために働く。
@@ -2024,6 +2138,7 @@ Be kind to the children.	子供たちに親切にしなさい。
 Let's get down to business.	仕事に取りかかろう。
 Are you here on business?	仕事で来られたのですか。
 Where were you last night?	昨日の夜どこにいたの？
+May I speak to Mr. Sato?	佐藤さんとお話出来ますか。
 Let's make a night of it.	今夜は大いに楽しもうよ。
 I'll be free this evening.	今晩は何も予定がない。
 How about next Saturday?	今度の土曜日はどうですか。
@@ -2035,6 +2150,7 @@ There is a man at the door.	戸口に男の人がいる。
 The door remained closed.	戸は閉まったままだった。
 The door opened by itself.	戸はひとりでに開いた。
 You must study hard.	君は熱心に勉強しなければならない。
+You may keep the book.	君はその本を持っていていいよ。
 Can you read this kanji?	君はこの漢字が読めますか。
 I'll give you this money.	君にこのお金を上げよう。
 You and I are the same age.	君と僕とは同じ年だ。
@@ -2047,14 +2163,15 @@ The meeting was held here.	会議はここで開かれた。
 The meeting is ten days away.	会議は１０日後。
 How many people in your party?	何人様ですか。
 What are you talking about!?	何言ってるんだよ！
+Must I speak English?	英語を話さなければなりませんか。
 There is no air in space.	宇宙空間には空気がない。
 Can the report be true?	一体その報告は本当だろうか。
 Lincoln died in 1865.	リンカーンは１８６５年に死んだ。
 Have you called her yet?	もう彼女に電話しましたか。
+Mary can speak Japanese.	メアリーは日本語が話せる。
 I met a friend of Mary's.	メアリーの友達にあった。
 Mike and Ken are friends.	マイクとケンは友達です。
 Did you hear that, Mike?	マイク、今の話聞いたかい。
-Bob and I are great friends.	ボブと僕は親友だ。
 I got next to nothing.	ほとんど得るところがなかった。
 Peter looks very young.	ピーターはとても若く見える。
 New York is a big city.	ニューヨークは大きな都市だ。
@@ -2077,7 +2194,12 @@ Call up Tom right away.	すぐトムに電話をかけなさい。
 I will bring it right away.	すぐにお持ちします。
 See you at the party.	じゃあパーティーで会いましょう。
 I haven't seen you for ages.	ご無沙汰しました。
+These are very old books.	これらは大変古い本です。
+These books are my books.	これらの本は私の本です。
 This is true of you, too.	これは君にも当てはまる。
+This is a very new book.	これはとても新しい本です。
+May I have this book?	この本をいただいてもいいですか。
+How small this book is!	この本は何と小さいのだろう。
 This room is large enough.	この部屋は十分大きい。
 Who owns this land?	この土地は誰が所有しているのですか。
 Get away from this city.	この町から立ち去りなさい。
@@ -2091,10 +2213,13 @@ It was her turn at last.	いよいよ彼女の番になった。
 Tell me when to start.	いつ出発するのか教えて下さい。
 Tell me when to stop.	いつやめたらよいか言って下さい。
 Jesus was born of Mary.	イエスはマリアから生まれた。
+That book is of no use.	あの本は何の役にも立たない。
 Keep watch on that man.	あの男を見張っていて下さい。
 I'm not about to ask him.	あの人に頼む気はないよ。
 You are too kind to me.	あなたは私にやさしすぎます。
 Do you need any food?	あなたは何か食べ物が必要ですか。
+Can you speak English?	あなたは英語がしゃべれますか。
+Can you speak French?	あなたはフランス語が話せますか。
 You must start soon.	あなたはすぐ出発しないといけない。
 I can't follow you.	あなたの話には付いていて行けません。
 I'll do what you ask.	あなたのおっしゃる通りにします。
@@ -2118,6 +2243,7 @@ I'll be free next Sunday.	来週の日曜なら空いてます。
 Did you call me last night?	ゆうべ私に電話くれた？
 All the money was gone.	有り金全部無くなってしまった。
 Don't turn off the light.	明かりを消さないで下さい。
+Did you take back the books?	本を返却しましたか。
 I don't have time to read.	本を読む暇がありません。
 I live above my means.	僕は収入を越えた生活をしている。
 My mother made me study.	母は私に無理矢理勉強させた。
@@ -2127,6 +2253,7 @@ My father is not home yet.	父はまだ帰っていません。
 My father came home at nine.	父は９時に帰宅した。
 My way is action not words.	不言実行が俺のやり方。
 There is always a next time.	必ず又の機会が来る。
+She spoke Japanese well.	彼女は日本語を上手に話した。
 She turned down my offer.	彼女は私の申し出を断った。
 She turned her back to me.	彼女は私に背中を向けた。
 She is very kind to us.	彼女は私たちにとても親切です。
@@ -2148,6 +2275,7 @@ They did not give up hope.	彼らはあきらめなかった。
 He stopped talking to them.	彼らに話すのをやめた。
 He does know the fact.	彼は本当にそのことを知っている。
 He stopped reading a book.	彼は本を読むのを止めた。
+He did not speak at all.	彼は全くものを言わなかった。
 He studies day and night.	彼は四六時中勉強している。
 Women didn't care for him.	彼は女に好かれなかった。
 He lives next door to us.	彼は私達の隣に住んでいる。
@@ -2163,6 +2291,7 @@ He studied English history.	彼は英国史を勉強した。
 Not a word did he speak.	彼は一言も口をきかなかった。
 He is no longer a child.	彼はもう子供ではありません。
 He was about to start.	彼はまさに出かけるところだった。
+He has few or no books.	彼はほとんど本を持っていない。
 He is in front of the door.	彼はドアの前にいます。
 He looked in at the door.	彼はドアからのぞきこんだ。
 He's sure to help you.	彼はきっと君を手伝ってくれるよ。
@@ -2181,6 +2310,7 @@ I fell into company with him.	彼と仲間になった。
 I met him for the first time.	彼とは初対面です。
 Tell me when he will come.	彼がいつ来るのか教えて。
 I'll call on you on Sunday.	日曜日にお伺いします。
+Don't speak in Japanese.	日本語で話してはいけません。
 All at once, he spoke out.	突然彼がしゃべり出した。
 Could you tell me the way?	道を教えてくれませんか。
 Tokyo is a very big city.	東京はとても大きな街です。
@@ -2199,13 +2329,14 @@ The water is deepest here.	水はここがいちばん深い。
 People learn from experience.	人は経験から学ぶ。
 Get off at the next stop.	次の停留所でお降り下さい。
 I hope you will hear me out.	私を支持して下さい。
-You can call me Bob.	私をボブと呼んでくださって結構です。
 I am seventeen years old, too.	私も１７歳です。
 I don't have any friends.	私は友達がほとんどいない。
 I heard my name called.	私は名前が呼ばれるのを聞いた。
 I was able to help her.	私は彼女を助けることができた。
 I hope that I'll see her.	私は彼女に会いたいと思う。
 I have a mind to help him.	私は彼を助けてあげたい。
+I know him like a book.	私は彼のことはよく知っている。
+I gave some books to him.	私は彼に数冊の本を与えた。
 I think him in good health.	私は彼が健康だと思う。
 I study Japanese history.	私は日本史を勉強している。
 I met Jane the other day.	私は先日ジェーンに会った。
@@ -2223,10 +2354,10 @@ I don't know for certain.	私ははっきりとは知らない。
 I know it well enough.	私はそれを十分良く知っています。
 I want to know the reason.	私はその理由を知りたい。
 I know nothing but this.	私はこれだけしか知りません。
-I am against this project.	私はこの計画に反対です。
 I don't have any money.	私はお金を全く持っていません。
 I have no money with me.	私はお金のもちあわせがない。
 I met an American girl.	私はアメリカ人の少女に会った。
+I found him the book.	私は、彼にその本を見つけてあげた。
 My friends aren't young.	私の友達は若くはありません。
 My time has not yet come.	私の時はまだ来ていません。
 I, for my part, don't care.	私のほうはかまわない。
@@ -2236,8 +2367,6 @@ I have no face to turn to.	私には合わせる顔がない。
 I have no money with me.	私には金の持ち合わせがない。
 I have nothing to say.	私には何も言うことがありません。
 We haven't met for ages.	私たちは長い間会っていない。
-We have seen three wars.	私たちは戦争を３回経験した。
-We called Robert "Bob".	私たちはロバートをボブと呼ぶ。
 We knew it all along.	私たちはそれを初めから知っていた。
 I read it to my family.	私それを家族に読んで聞かせた。
 I can't read your mind.	思ってるだけではわからないよ。
@@ -2317,7 +2446,6 @@ That sounds a little off.	それはちょっとずれてるよ。
 I think it's a good idea.	それはいい考えだとおもう。
 Part of the story is true.	その話の一部は本当です。
 The night was very still.	その夜はとても静かだった。
-The war ended in 1954.	その戦争は１９５４年に終わった。
 He was leaving then.	その時彼はちょうど帰ろうとしていた。
 What does this word mean?	その語はどんな意味ですか。
 How are you getting along?	その後どうしていますか。
@@ -2336,6 +2464,7 @@ Jim hasn't been home yet.	ジムはまだ帰宅していない。
 I hope to hear from you.	ご連絡をお待ちしております。
 What line of work are you in?	ご商売は何ですか。
 This makes no sense.	これは何のことかチンプンカンプンだ。
+I would like this book.	この本がいただきたいのですが。
 What does this word mean?	この語はどんな意味ですか。
 It always leads me here.	ここへとぼくを導いてくれる。
 How many stops from here?	ここから何番目の駅ですか。
@@ -2376,7 +2505,6 @@ A good idea presented itself.	良い考えが浮かんだ。
 You left your lights on.	明かりがつけっぱなしでしたよ。
 Nothing can come of nothing.	無から有は生じ得ない。
 I will do it at all costs.	万難を排してやり遂げよう。
-Oh, really? When did he leave?	本当？いつ出たの？
 To read books is important.	本を読むことは大切です。
 We have nothing in common.	僕らには何も共通点がない。
 Mother is calling me home.	母は私に帰れと呼んでいる。
@@ -2389,8 +2517,10 @@ She gave him the money.	彼女は彼にそのお金をあげました。
 She is kind to old people.	彼女はお年寄りに親切です。
 She spoke in a small voice.	彼女は小さい声で話した。
 She came to know the fact.	彼女は事実を知るに至った。
+She doesn't speak to me.	彼女は私に口もきいてくれない。
 She won't come just yet.	彼女は今すぐには来ないだろう。
 She is really in good health.	彼女は健康その物だ。
+She speaks good English.	彼女は英語を上手に話しますね。
 What a kind girl she is!	彼女はなんと親切な少女だろう。
 She left here right away.	彼女はすぐここを立ち去った。
 She always smiles at me.	彼女はいつも私に微笑みかける。
@@ -2421,7 +2551,9 @@ He made himself known to me.	彼は私に名を名乗った。
 He is on the point of death.	彼は死にかかっている。
 He himself was not the light.	彼は光ではなかった。
 People say he never dies.	彼は決して死なないそうです。
+He can't speak English.	彼は英語を話すことができません。
 He started to speak English.	彼は英語を話し始めた。
+He speaks English a little.	彼は英語を少し話します。
 He thought of a good idea.	彼はよい考えを思いついた。
 He never stops to think.	彼はゆっくり考えることしない。
 He is no longer in business.	彼はもはや仕事がない。
@@ -2439,6 +2571,7 @@ Will he ever come back?	彼はいつかは帰ってくるだろうか。
 He doesn't read many books.	彼はあまり本を読まない。
 He acted well in Hamlet.	彼は「ハムレット」で好演した。
 He has a good art of talking.	彼は、話術が巧みだ。
+He speaks Japanese well.	彼は、日本語を上手に話します。
 He is a kind man at heart.	彼は、根は、親切な男です。
 He is always talking big.	彼の大風呂敷はいつものこと。
 Why don't you call him up?	彼に電話したらどうですか。
@@ -2462,7 +2595,6 @@ Why didn't you call me up?	電話くれればよかったのに。
 Many businesses closed down.	多くの会社が休業した。
 I believe in early rising.	早起きをよいと思っている。
 I believe in rising early.	早起きはよいと信じている。
-The war broke out in 1939.	戦争は１９３９年に起きた。
 There is a little water left.	水は少し残っている。
 People call him Dave.	人々は彼をいつもデーブと呼んでいる。
 We have run short of food.	食べ物をきらしてしまった。
@@ -2487,8 +2619,10 @@ I'm the youngest in the family.	私は末っ子です。
 I almost never met her.	私は彼女とほとんど会わなかった。
 I will make a friend of him.	私は彼を味方にしよう。
 I go to school with him.	私は彼と一緒に学校にいきます。
+I couldn't speak Japanese.	私は日本語を話せなかった。
 I really like city life.	私は都会の生活が本当に好きだ。
 I believe in early rising.	私は早起きはよいとおもう。
+I speak a little Japanese.	私は少し日本語を話します。
 I don't have any money.	私は少しもお金を持っていません。
 I took your word for it.	私は君の言葉をそのまま信じた。
 I want you to come at once.	私は君にすぐ来てほしい。
@@ -2499,6 +2633,7 @@ I don't have any money.	私ははまったくお金がありません。
 I think that Tom is kind.	私はトムは親切だと思います。
 I don't know either girl.	私はどちらの少女も知らない。
 I don't have much money.	私はたいして金を持っていない。
+I keep the book at hand.	私はその本を座右に置いている。
 I put this question to him.	私はこの質問を彼にした。
 I have a few friends here.	私はここに友達が数人いる。
 I once lived in Rome.	私はかつてローマに住んだことがある。
@@ -2548,6 +2683,7 @@ I'm the witchfinder general.	我こそ魔女がりの大将。
 Take every possible means.	可能な限りの手段を講じろ。
 What are you talking about?	何のことを言っているの？
 Where's your better half?	奥さんはどこに行っちゃたの。
+Where is English spoken?	英語はどこで話されていますか。
 It is time to go to school.	もう学校に行く時間です。
 It's about time to start.	もうそろそろ出発の時間です。
 Has Father come home yet?	もうお父さんは帰ってきたの。
@@ -2564,6 +2700,7 @@ No sound was to be heard.	なんの物音も聞こえなかった。
 Why are you short with me?	なぜ君は僕に冷たいんだい？
 Any child could do that.	どんな子供でもそれはできよう。
 Tom and I are good friends.	トムと私はよい友達です。
+Tony speaks English well.	トニー君は上手に英語を話す。
 Why don't you ever say it?	どうして言ってくれないの？
 I had no idea what to do.	どうしていいのか分からない。
 You must not open the door.	ドアを開けてはならない。
@@ -2589,9 +2726,15 @@ I hope you'll soon get well.	すぐ良くなって欲しい。
 You had better leave at once.	すぐに出た方が良い。
 Stop speaking right now.	すぐにしゃべるのをやめなさい。
 You'll be a good player soon.	すぐにうまくなるよ。
+I'd like to speak to John.	ジョンは今お手すきですか。
 Good day. See you soon.	じゃさよなら、また近いうちにね。
 Shall we take a short rest?	しばらく休憩しませんか。
+Are these books Kenji's?	これらの本は健二のものですか。
 These facts are certain.	これらの事実は疑う余地はない。
+What an old book this is!	これは何と古い本なのだろう。
+This is a very small book.	これはとても小さい本です。
+Is this your book, Mike?	これ、あなたの本なの、マイク？
+Take this book back to him.	この本を彼に返しなさい。
 This method is sure to work.	この方法でうまくいく。
 Don't play in this room.	この部屋で遊んではいけないよ。
 What does that word mean?	この単語は何を意味しますか。
@@ -2617,6 +2760,7 @@ Sure. That's a good idea.	いいとも、それはいい考えだ。
 Who will hear the case?	あの事件は誰が審理するのですか。
 I was born to love you.	あなたを愛する為に私は生まれた。
 Do you really want it?	あなたは本当にそれがほしいですか。
+Do you have two books?	あなたは二冊の本を持っていますか。
 Do you live in the city?	あなたは都市に住んでいますか。
 Who do you want to talk to?	あなたは誰と話したいの？
 Do you have any money?	あなたは少しお金を持っていますか。
@@ -2636,8 +2780,8 @@ Many people acted together.	多くの人が行動をともにした
 That has 2 new functions.	それには２つの新機能が有ります
 He has a 6-year-old child.	彼は６歳のお子様を持っている
 He didn't ask their name.	彼はその人の名前を聞かなかった
+He spoke out X in that way.	彼がXをそのまま口に出した
 X doesn't really bother me.	Xがあまり気にならなかった
-War had already broken out.	既に戦争が始まっていました
 I'm sure something will change.	きっと何かが変わる
 All the leaves have fallen.	すっかり木の葉が落ちました
 That doesn't sound right to me.	それが腑に落ちない
@@ -2661,6 +2805,7 @@ Leave the room as it is.	部屋をそのままにしておきなさい。
 My father may be at home now.	父は今家にいるだろう。
 She lives next door to him.	彼女は彼の隣に住んでいる。
 She brought up two children.	彼女は二人の子を育てた。
+Who is she speaking to?	彼女は誰に話しかけているのですか。
 She looks as young as ever.	彼女は相変わらず若々しい。
 She worked on my account.	彼女は私のために働いてくれた。
 She read the book all night.	彼女は一晩中本を読んだ。
@@ -2677,6 +2822,7 @@ She has no money about her.	彼女には手持ちの金がない。
 I know nothing about her.	彼女については何も知りません。
 They have left school now.	彼女たちはたった今下校した。
 Can any girl like him?	彼を好きになる女の子がいるだろうか。
+They can think and speak.	彼らは話したり考えたりできる。
 They are as strong as us.	彼らは僕たちと同じくらい強い。
 They started a new business.	彼らは新規事業を始めた。
 They are about the same age.	彼らは同じくらいの年だ。
@@ -2686,6 +2832,7 @@ They close the door at five.	彼らは５時に戸を閉める。
 He got paid under the table.	彼は裏金をもらいました。
 He used to read at night.	彼は夜いつも読書をしたものだ。
 He calls her up every night.	彼は毎晩彼女に電話する。
+Does he have many books?	彼は本をたくさん持っていますか。
 He is holding up her work.	彼は彼女の仕事を妨げている。
 He never turned back again.	彼は二度ともどらなかった。
 He left Tokyo for Kyoto.	彼は東京を離れて京都に向かった。
@@ -2698,12 +2845,15 @@ He played an important part.	彼は重要な役割を演じた。
 He is six years older than I.	彼は私より６才年上だ。
 He told me a long story.	彼は私に長い物語を話してくれた。
 He asked me for some money.	彼は私に金をくれと言った。
+He was given a book by me.	彼は私から本をもらいました。
 He is leaving in three days.	彼は三日したら出発する。
 He'll be here any moment.	彼は今にもここに来るでしょう。
 He will be back in a second.	彼は今すぐ帰ってきます。
 He lives next door to us.	彼は我々のとなりにすんでいる。
 He lived there by himself.	彼は一人でそこに住んでいた。
+He can speak Russian as well.	彼はロシア語も話せる。
 He hasn't come of age yet.	彼はまだ成年に達していない。
+He can speak French well.	彼はフランス語を上手に話せる。
 He was enamored of the girl.	彼はその娘にほれこんだ。
 He took part in the meeting.	彼はその会議に参加した。
 He will get well very soon.	彼はすぐによくなるだろう。
@@ -2720,6 +2870,7 @@ The same is true of Japan.	同じ事は日本にもあてはまる。
 I haven't seen you for ages.	長いこと会わなかったね。
 Night always follows day.	昼の後には必ず夜がやってくる。
 A man is as old as he feels.	男の年齢は気持ち次第だ。
+Who can speak English?	誰が英語を話すことが出来るのですか。
 Who helps your mother?	誰がお母さんの手伝いをするのですか。
 You'll get used to it soon.	大丈夫、じきに慣れますよ。
 I believe in getting up early.	早起きは良いと思う。
@@ -2753,6 +2904,7 @@ I heard my name called.	自分の名前を呼ばれるのが聞こえた。
 I work in the field of art.	私は芸術畑で働いています。
 I can take a rest at last.	私はやっと休むことができる。
 I looked it over once more.	私はもう一度それを調べた。
+I booked through to Paris.	私はパリまでの切符を買った。
 I am never free on Sundays.	私はどの日曜日も暇でない。
 I really don't want to go.	私はどうしても行きたくない。
 I have nothing to do with it.	私はそれと関係がない。
@@ -2806,6 +2958,7 @@ What are you talking about?	何の話をしているのですか。
 What has brought you here?	何の用でここに来たのですか。
 What are you talking about?	何のことを話しているのか。
 Do you have anything in mind?	何か特にお考えですか。
+If only I could speak English!	英語が話せたらなあ。
 The image is out of focus.	映像はピントがあっていない。
 I'll put you up for the night.	一晩泊めてあげよう。
 I haven't met him even once.	一度も会ったことがない。
@@ -2873,13 +3026,16 @@ Let it be done at once.	すぐそれが行われるようにしなさい。
 John and Beth are of an age.	ジョンとベスは同い年だ。
 Let me tell you something.	じゃあ、言わせてもらうけど。
 May I leave this with you?	これを預かってもらえますか。
+What old books these are!	これらは何と古い本なのだろう。
 Learn these names by heart.	これらの名を暗記しなさい。
+This book is of great use.	この本はたいへん有益である。
 This city is hard to live in.	この町は暮らしにくい。
 What does this word mean?	この単語はどういう意味ですか。
 I'll leave this work to you.	この仕事は君に任せるよ。
 What does this word mean?	この言葉はどういう意味ですか。
 This place used to be a field.	ここは昔、畑だった。
 How long do we stop here?	ここでどのくらい止まりますか。
+Who do you want to speak to?	お話になる方のお名前は。
 Might I ask your name?	お名前をお伺いしてもよろしいですか。
 Is your father about yet?	お父さんはもう起きていますか。
 I will hope for the best.	うまく行くといいなと思います。
@@ -2895,7 +3051,6 @@ You had better go at once.	あなたはすぐ行くほうがよい。
 What are your strong points?	あなたの長所は何ですか。
 How old is your father?	あなたのお父さんはおいくつですか。
 Have you met each other?	あなたたち、前に会ったことある？
-Oh, how kind you are!	ああ、なんとあなたは親切なのでしょう。
 Long on A and short on B.	Ａは十分にあるがＢは足りない。
 Ten years is a long time.	１０年というのは、長い年月だ。
 Two from ten leaves eight.	１０から２を引くと、８残る。
@@ -2917,12 +3072,12 @@ You are not to break the law.	法律を犯してはいけない。
 Mother told Father about me.	母は私のことを父に話した。
 Hear and see and be still.	聞け、見よ、しかし黙っていよ。
 The cost of living has gone down.	物価が下がった。
-My father has gone to China.	父は中国へ行ってしまった。
 My father drives very well.	父は車の運転がとてもうまい。
 My father helped me study.	父は私の勉強を手伝ってくれた。
 They remained good friends.	彼等はずっとよい友達だった。
 She has a rose in her hand.	彼女は薔薇を手に持っている。
 She provided for her old age.	彼女は老後の備えをした。
+She has two thousand books.	彼女は二千冊本を持っている。
 She died before coming of age.	彼女は成人前に死んだ。
 She may know the facts.	彼女は真実を知っているかもしれない。
 She is particular about food.	彼女は食べ物にうるさい。
@@ -2953,6 +3108,7 @@ He got off at the next stop.	彼は次のバス停で降車した。
 He took me for my mother.	彼は私を、私の母と思い違いした。
 He is one of my best friends.	彼は私の親友の一人です。
 He did what he had been told.	彼は言われたことをした。
+He has to speak English.	彼は英語を話さなければなりません。
 He works hard. So he does.	彼はよく働くね。まったくです。
 He is no longer in business.	彼はもう商売をしていない。
 He lived there by himself.	彼はひとりでそこに住んでいた。
@@ -2962,10 +3118,12 @@ He is at the head of the class.	彼はその組の首席だ。
 He took hope from that fact.	彼はその事実でホッとした。
 He didn't go for the idea.	彼はその考えに賛成しなかった。
 He took over the business.	彼はそのビジネスを引き継いだ。
+He always speaks well of her.	彼はいつも彼女を誉める。
 He worked harder than ever.	彼はいつもより熱心に働いた。
 He's always short of money.	彼はいつもお金に困っている。
 He won't be a good player.	彼はいい選手にならないだろう。
 He will leave Japan in April.	彼は４月に日本を離れる。
+I don't like the way he speaks.	彼の話し方は嫌いだ。
 Don't tell him the answer.	彼に答えを教えてはいけません。
 Why don't you call him up?	彼に電話してみたらどうですか。
 He is no longer full of activity.	彼に気力がない。
@@ -2985,6 +3143,7 @@ He never turned back again.	二度と彼はふりむかなかった。
 Don't say such a thing again.	二度とそんな事を言うな。
 No two men are of a mind.	同じ心をもった人は２人といない。
 Tokyo is bigger than Yokohama.	東京は横浜より大きい。
+No one will speak for you.	誰もあなたを弁護しないだろう。
 Now, this is really important.	大切なことなんだから。
 I hope you'll get well soon.	早く元気になって下さいね。
 I hope you'll have a great year.	素晴らしい一年を。
@@ -2993,10 +3152,12 @@ Your party is on the line.	先方が電話にお出になりました。
 Would you like me to explain it?	説明しましょうか。
 I'm not good at meeting people.	人に会うのは苦手だ。
 I don't care what people say.	人が何を言おうと平気だ。
+I am working on my new book.	新しい本に取り組んでいる。
 Do it as soon as possible.	出来るだけ早くそれをしなさい。
 The meeting broke up at seven.	集会は７時に解散した。
 In fact, I did not know it.	実際私はそれを知らなかった。
 Tell us what to do next.	次になにをしたらいいか教えてくれ。
+I gave him what books I had.	持っていた本を彼に与えた。
 We presented a watch to him.	私達は彼に時計を贈呈した。
 We will start when he comes.	私達は彼が来たら出発する。
 We get together once a year.	私達は年に一回集まります。
@@ -3027,13 +3188,12 @@ I believe him an American.	私はアメリカ人だと信じている。
 I don't have much money.	私はあまりお金を持ってないんです。
 I won't leave you behind.	私はあなたを置き去りにはしない。
 I was in an IAA meeting.	私はＩＡＡのミーティングに行った。
-I was meeting Bob at six.	私は６時にボブに会う予定だった。
 I heard my name called.	私の名前が呼ばれるのが聞こえました。
+What did you do with my book?	私の本はどうしましたか。
 You are to do as I tell you.	私の言った通りにしなさい。
 I have several good friends.	私にはよい友達が数人いる。
 We must keep the law.	私たちは法の定めに従わなければならない。
 We heard the door close.	私たちはドアの閉まる音が聞こえた。
-We are in on the project.	私たちはその計画に関係している。
 We took a rest for a while.	私たちはしばらく休憩をした。
 Will you tell us a story?	私たちにお話をしてくれませんか。
 Death is the great leveler.	死は偉大な平等主義者である。
@@ -3057,6 +3217,7 @@ Would you care to come with us?	君も一緒に来たいか。
 You must face the facts.	君は事実を直視しなければならない。
 You must face the facts.	君は事実を直視しなくてはならない。
 You must face the facts.	君は事実を直視しなくてはいけない。
+How many books do you have?	君は何冊の本をお持ちですか。
 What are you driving at?	君は一体何を言おうとしているのか。
 Are you able to type?	君はタイプライターを打つことができるか。
 You must do it at once.	君はそれをすぐにしなければならない。
@@ -3112,6 +3273,7 @@ What'll they think of next?	それって、すごいじゃないの。
 The room is full of people.	その部屋は人々でいっぱいだ。
 I don't like either of them.	その二つとも好きではない。
 The man spoke in a low voice.	その男は低い声で話した。
+The book is of great value.	その書物は非常に価値がある。
 That child has few friends.	その子はあまり友人がいない。
 I don't like that idea much.	その考えはあまり好まない。
 I have enough time for that.	そのための時間は十分ある。
@@ -3120,7 +3282,6 @@ You must not leave right now.	すぐ出発してはいけない。
 Will I be able to get well soon?	すぐに治りますか。
 You had better do it at once.	すぐにやったほうがよい。
 I'll be with you in a second.	すぐそちらへまいります。
-Jack is one of my friends.	ジャックは私の友人の一人です。
 Can I stop over in Chicago?	シカゴで途中下車できますか。
 I have nothing more to say.	これ以上言うことは何もない。
 I've read both these books.	これらの本を２冊とも読んだ。
@@ -3128,6 +3289,8 @@ This is the very best method.	これは真に最善の方法だ。
 What a big book this is!	これはなんて大きな本なんでしょう。
 This is the end of my story.	これで私の話は終わりです。
 How much do you ask for this?	これ、いくらで売りたい？
+I will give you this book.	この本をあなたにあげましょう。
+Are all these books yours?	この本はみなあなたの物ですか。
 Did you go to the last class?	この前の授業に出たかい？
 When can I see you next time?	この次はいつ会えますか。
 What do you say to this plan?	この計画はどうでしょう。
@@ -3184,7 +3347,6 @@ The leaves have all fallen.	木の葉はみんな落ちてしまった。
 Will you turn on the light?	明かりをつけていただけません？
 When will Mother come home?	母はいつ帰宅するのでしょうか。
 Let me put it in another way.	別の言い方で言ってみよう。
-My father is used to travelling.	父は旅慣れしている。
 My father lives in the country.	父は田舎に住んでいる。
 Father has just come home.	父は今ちょうど帰宅したところだ。
 My father came home just now.	父はたった今帰宅しました。
@@ -3201,16 +3363,20 @@ She is at home in the subject.	彼女はその問題に詳しい。
 She lived there for years.	彼女はそこに何年間も住んでいた。
 Does she work in this city?	彼女はこの町で働いていますか。
 She left on Christmas Day.	彼女はクリスマスの日に出発した。
+She speaks a little Arabic.	彼女はアラビア語が少しわかる。
 She studies as hard as ever.	彼女はあいかわらず勉強する。
 She was born in the 1950s.	彼女は１９５０年代の生まれです。
 Her life is free from care.	彼女の人生は、何の心配もない。
 Her actions are to the point.	彼女の行動は的を得ている。
 Her actions are to the point.	彼女の行動は的を射ている。
 Her words were as follows.	彼女の言葉は次のとおりであった。
+She has no one to speak to.	彼女には話し掛ける人がいない。
 I haven't seen her in years.	彼女には何年も会っていない。
 They found out a new method.	彼らは新しい方法を発見した。
 They have something in common.	彼らは似たところがある。
+Are they speaking English?	彼らは英語をしゃべっていますか。
 They were free at that moment.	彼らはそのとき暇だった。
+They can speak Spanish.	彼らはスペイン語を話すことができます。
 They are sure to fall in love.	彼らはきっと恋におちる。
 Some of them are my friends.	彼らの何人かは私の友人です。
 Follow close behind them.	彼らのすぐ後ろに付いて行きなさい。
@@ -3222,6 +3388,7 @@ He has fewer friends than I.	彼は僕より友達の数が少ない。
 He is a very important person.	彼は非常に重要な人物だ。
 He got away with her watch.	彼は彼女の時計を持ち逃げした。
 He is short, but he is strong.	彼は背が低いが力持ちだ。
+He can speak Chinese a little.	彼は中国語を少し話せる。
 He is a most important person.	彼は大変重要な人物です。
 He came up to Tokyo on business.	彼は商用で上京した。
 He was experienced in business.	彼は商売の経験がある。
@@ -3231,6 +3398,7 @@ He asked me for some money.	彼は私に金をいくらか要求した。
 He couldn't make it in business.	彼は仕事で失敗した。
 He was made much of at school.	彼は学校で重んじられた。
 He is a big man in the company.	彼は会社の重要人物だ。
+He speaks English very well.	彼は英語をとてもうまく話す。
 He is not strong as before.	彼は以前のように丈夫ではない。
 He has started for London.	彼はロンドンへ向かって出発した。
 He would often come to see me.	彼はよく私に会いに来た。
@@ -3255,6 +3423,7 @@ It is certain that he will come.	彼が来るのは確かだ。
 He told her and she smiled.	彼が彼女に話すとにっこりした。
 I can't go until he comes.	彼が来るまで私は行けないんです。
 Have you ever been to Japan?	日本に来たことはありますか。
+She speaks Spanish well.	彼女はスペイン語を喋ることが出来る。
 I will never change my mind.	断じて私は考えを変えません。
 I don't know who to turn to.	誰に頼っていいかわからない。
 Who should I meet but Tom?	誰かと思えばなんとトム君だった。
@@ -3286,6 +3455,7 @@ I hope she will get well.	私は彼女が元気になればいいと思う。
 She gave me several books.	私は彼女から数冊の本をもらった。
 I will do anything for him.	私は彼のためなら何でもします。
 I told him what to do.	私は彼に何をしたらよいのか教えてやった。
+I have as many books as he.	私は彼と同数の本をもっている。
 I am to meet him at six.	私は彼と６時に会うことになっている。
 I have a deep love for Japan.	私は日本を深く愛している。
 I want many books to read.	私は読むための沢山の本がほしい。
@@ -3296,6 +3466,7 @@ I only did as I was told.	私は言われたとおりにしただけです。
 I asked Ken to help me.	私は健に手伝ってくれるようにたのんだ。
 You were going to the school.	私は学校に行ってきました。
 I have met him many times.	私は何度も彼に会ったことがある。
+I have a few English books.	私は英語の本を少し持っている。
 I looked but saw nothing.	私はよく見たが、何も見えなかった。
 I'd like to talk with Tony.	トニー君と話をしたいのですが。
 I know both of the girls.	私はその少女の両方とも知っている。
@@ -3308,6 +3479,7 @@ I want to see your mother.	私はあなたのお母さんに会いたい。
 My father is away from home.	私の父は家を留守にしている。
 My father's room is very big.	私の父の部屋はとても広い。
 We call him Goro-san.	私のうちでは、「五郎さん」って呼ぶんです。
+Will you show me the book?	私にその本を見せてくれませんか。
 We go to school to study.	私たちは勉強するために学校へ行く。
 We made friends with them.	私たちは彼らと親しくなりました。
 We get together once a year.	私たちは年に一度集まります。
@@ -3357,13 +3529,16 @@ We took turns with the driving.	我々は交代で運転した。
 We talked of many things.	我々はいろいろなことを話し合った。
 May I bring my family along?	家族もつれてきていいですか。
 How many children do you have?	何人の子どもがいますか。
+I can speak a little English.	英語を少ししか話せません。
+English is spoken in Canada.	英語はカナダで話されている。
 I have no time to watch TV.	テレビを見る時間が無いんだよ。
-We have seen three wars.	わたしたちは戦争をさんかい経験した。
+I ordered a book from London.	ロンドンから本を注文した。
 Have you ever gone to Paris?	パリに行ったことはあるかい？
 We hope to see you again.	もう一度お目にかかりたいものです。
 Would you say it once more?	もう１度言っていただけますか。
 I'd like to call a meeting.	ミーティングを開きたいのだが。
 We will take a rest soon.	まもなく私たちは、休憩を取ります。
+Mike speaks good Japanese.	マイクは日本語を話すのが上手だ。
 Mr White is about my age.	ホワイトさんは私とほぼ同じ年です。
 I am no younger than you are.	ぼくは君と同じく若くない。
 Where are the other girls?	ほかの女の子たちはどこにいるの。
@@ -3388,6 +3563,7 @@ It is by no means certain.	それは決して確実なことではない。
 It is true of every case.	それはあらゆるケースに当てはまる。
 I have an idea what it is.	それが何かぼくにはわかっている。
 We won't take up the problem.	その問題は取り上げません。
+I got the book back from him.	その本を彼から取り返した。
 The report is only too true.	その報告は残念ながら事実だ。
 The door was closed for good.	その扉は永久に閉ざされた。
 The fact was brought to light.	その真実が明るみに出た。
@@ -3409,6 +3585,7 @@ Can I put this up for you?	これ荷物を上にあげてもよろしい。
 How often have you been here?	これまで何回行きましたか。
 This is a watch made in Japan.	これは日本製の時計です。
 Where should I put this?	これはどこに置けばよろしいのですか。
+What is the book about?	この本は何について書いてあるのですか。
 This method is sure to work.	この方法はきっとうまくいく。
 This product is made in Italy.	この製品はイタリア製だ。
 Can you answer this question?	この質問に答えられますか。
@@ -3416,9 +3593,12 @@ We had better not remain here.	ここにはいない方がよい。
 Ken's story was as follows.	ケンの物語は次のとおりでした。
 Shall I call Ken back?	ケンにあとでこちらから電話しましょうか。
 Is there practice every day?	クラブ活動は毎日ありますか。
+English is spoken in Canada.	カナダでは、英語が話される。
+May I speak with you?	お話させていただいてもよろしいでしょうか。
 Bring your friends with you.	お友達を連れていらっしゃい。
 Might I ask your name?	お名前をお伺いしてもよろしいでしょうか。
 Get back to where you started.	おまえがもといた故郷へ。
+Ellen does not speak English.	エレンは英語を話しません。
 I hope it'll come out good.	うまく写っているといいですが。
 I'm always at your service.	いつでも私にお申しつけ下さい。
 A good idea came into my head.	いい考えが頭に浮かんだ。
@@ -3440,10 +3620,10 @@ I will call for you at seven.	７時にきみを迎えに行くよ。
 The 5th May is Children's Day.	５月５日は子供の日です。
 Our rates increased in April.	４月に給料があがりました。
 I'll call for you at three.	３時にあなたを迎えに行きます。
-A century is one hundred years.	１世紀は１００年です。
 People above 18 may drive.	１８歳以上の人は車を運転できる。
 I don't know either of them.	私は彼らの両方とも知らない。
 My past self is another person.	昔の自分は他人である。
+How many books does he have?	彼は何冊本を持っていますか。
 He doesn't really care about X.	彼がXをあまり気にしない
 There are two types of people.	人には二つタイプが有ります
 X is included with every product.	Xが各商品につきます
@@ -3463,7 +3643,6 @@ There is a time for all things.	物には時節、番茶も出花。
 You are not to leave your room.	部屋を出てはいけません。
 My father drives very well.	父は自動車の運転がとても上手い。
 I'd like a room in the front.	表側の部屋に替えてください。
-I don't like traveling by air.	飛行機で旅行するのは嫌い。
 She looks young for her age.	彼女は年のわりには若く見える。
 She called me up from Tokyo.	彼女は東京から電話をしてきた。
 She is very free with her money.	彼女は大変気前がいい。
@@ -3477,15 +3656,18 @@ A watch was given to me by her.	彼女は私に時計をくれた。
 She lives next door to us.	彼女は私たちの隣の家にすんでいる。
 She has a love of learning.	彼女は学問を愛する気持ちがある。
 She was on her way to school.	彼女は学校へ行く途中だった。
+She has hundreds of books.	彼女は何百冊という本を持っている。
 She called me many a time.	彼女は何度も私に電話をかけてきた。
+She speaks English very well.	彼女は英語を上手に話します。
+She is good at speaking English.	彼女は英会話が得意だ。
 She put off going to Mexico.	彼女はメキシコ行きを延期した。
 She explained it over again.	彼女はそれを繰り返し説明した。
 She cared for the children.	彼女はその子供たちの世話をした。
 I am not sure but she may come.	彼女は来るかもしれない。
 She is not without money.	彼女はお金がないというわけではない。
+She always speaks in English.	彼女はいつも英語で話します。
 I saw her leaving the room.	彼女が部屋から出て行くのを見た。
 What she says may be true.	彼女が言うことは本当かもしれない。
-She took part in our project.	彼女が我々の計画に参加した。
 It is up to you to support him.	彼を養うのは君の責任だ。
 Do you mind their coming too?	彼らも来てもかまいませんか。
 They didn't die for nothing.	彼らは無駄に死んだのではない。
@@ -3503,6 +3685,7 @@ He is not very good company.	彼は付き合っていて面白くない。
 He is sure to come to see us.	彼は必ず私たちに会いに来る。
 He got no answer from her.	彼は彼女から返事を得られなかった。
 He is longing for city life.	彼は都会生活にあこがれている。
+He speaks Chinese very well.	彼は中国語をとても上手に話す。
 He didn't explain it at all.	彼は全然それを説明しなかった。
 He left the water running.	彼は水を出しっぱなしにしておいた。
 He is said to have been strong.	彼は丈夫だったそうです。
@@ -3515,12 +3698,14 @@ Was he in Hokkaido last year?	彼は昨年北海道にいましたか。
 He left home for Spain.	彼は故国を去ってスペインへ向かいました。
 He is not as young as he looks.	彼は見かけほど若くない。
 He thinks only of making money.	彼は金儲けしか頭にない。
-He is, in a word, a utopian.	彼は一言で言えば夢想家なのだ。
+He speaks English and French.	彼は英語とフランス語を話す。
+He can't speak much English.	彼は英語がほとんど話せません。
 He left Japan for Europe.	彼はヨーロッパに向けて日本を発った。
 He is kind to those around him.	彼はまわりの人に親切だ。
 He played the part of Hamlet.	彼はハムレットの役を演じた。
 He asked a very good question.	彼はとてもよい質問をした。
 How does he go to school?	彼はどうやって学校に通っていますか。
+He can speak a little English.	彼はちょっと英語が話せる。
 He is a little above himself.	彼はちょっとうぬぼれている。
 He got the book for nothing.	彼はただでその本を手に入れた。
 He gave it to me for nothing.	彼はそれを私にただでくれた。
@@ -3585,6 +3770,9 @@ I had to change my plans.	私は計画を変えなければならなかった。
 I don't like to run a risk.	私は危険を冒すのは好きではない。
 I'm studying art at school.	私は学校で美術を勉強しています。
 I met her on my way home.	私は家に帰る途中、彼女に会いました。
+I am good at speaking English.	私は英語を話すのが上手だ。
+I have some English books.	私は英語の本を何冊か持っています。
+I have few English books.	私は英語の本をほとんど持っていない。
 I was just in time for class.	私はやっと授業に間に合った。
 I like French food very much.	私はフランス料理が好きです。
 I am having a very hard time.	私はとても困っているのです。
@@ -3631,6 +3819,7 @@ She says she is seeing things.	幻覚が見えると言っている。
 Health is the most important thing.	健康が一番です。
 Let's leave the decision to Tom.	決定はトムに任せよう。
 The play ended all too soon.	劇は残念なくらい早く終わった。
+Can you speak English at all?	君は本当に英語が話せるのか。
 You may as well leave at once.	君は直に出発する方がいい。
 You must go home at once.	君は直ちに家へ帰らなければならない。
 How do you get to school?	君はどのようにして学校へ行きますか。
@@ -3651,6 +3840,8 @@ Don't you have anything better to do?	暇なやつだ。
 What led you to believe so?	何があなたにそう信じさせたのか。
 Is it hard to speak English?	英語を話すことは難しいですか。
 Learning English is hard work.	英語を学ぶのは骨が折れる。
+English is not spoken here.	英語はここでは話されていません。
+Can you speak English at all?	一体君は英語が話せるのかね。
 What ever do you want with me?	一体この私に何の用ですか。
 The party set out for Kobe.	一行は神戸へ向けて出発しました。
 I am good friends with Beth.	わたしはベスと大の仲良しです。
@@ -3666,7 +3857,6 @@ Mary has a social nature.	メアリーは社交的な気質を持っている。
 Either Mary or you is to go.	メアリーかあなたが行くべきだ。
 First of all, I will read this.	まず最初にこれを読もう。
 Look, here comes your mother.	ほら、お母さんが来られたよ。
-Bob wasn't in on the plan.	ボブはその計画には関与しなかった。
 I know almost nothing about it.	ほとんど何も知りません。
 Can you give me some money?	ぼくにいくらかお金をくれないか。
 Have you ever been to Paris?	パリへ行ったことがありますか。
@@ -3696,6 +3886,7 @@ You shall have it for nothing.	それをただで君にあげよう。
 I think she made up that story.	それは彼女の創作だろう。
 That was the end of the class.	それは授業の終わりだった。
 That is no business of yours.	それは君には関係ないことだ。
+Isn't that an English book?	それは英語の本ではありませんか。
 It has nothing to do with you.	それはまったく関係がない。
 That reads two different ways.	それは２通りに解釈できる。
 I would do anything but that.	それだけは勘弁してください。
@@ -3704,7 +3895,9 @@ The old man has enough money.	その老人は金には事欠かない。
 The old man lives by himself.	その老人は一人で住んでいる。
 The old man is above ninety.	その老人は９０歳を超えている。
 Read the book again and again.	その本を何度も読みなさい。
+Are you through with the book?	その本は読み終えましたか。
 I have already read the book.	その本はもう読んでしまった。
+Have you done with the book?	その本はもう読み終えたのかい。
 I have not read all the books.	その本はどれも読んでない。
 When did you hear the sound?	その物音をいつ聞いたのですか。
 The land came into the market.	その土地が売りに出された。
@@ -3714,6 +3907,7 @@ My heart wasn't in the work.	その仕事に興味がもてなかった。
 The meeting room is in use now.	会議室は現在使用中です。
 I explained the process to him.	その過程を彼に説明した。
 It will soon come out all right.	そのうち何とかなるさ。
+You can't have both books.	その２冊の本の両方ともはだめです。
 Don't talk about such a thing.	そういうことは口にするな。
 How about some Spanish food?	スペイン料理なんかどうですか。
 We will take care of this for you.	すぐに処理します。
@@ -3724,9 +3918,13 @@ Jim has learned to like Japan.	ジムは日本が好きになった。
 Jim is in my black book.	ジムは私のブラックリストに載っている。
 However, I have no money.	しかし、わたしにはお金はありません。
 Let's break up the party.	さあ、パーティーをおしまいにしよう。
+You have all these books!	こんなにたくさん本を持っているのか。
 I will do anything but this.	これ以外のことなら何でもする。
+What good books these are.	これらは、なんと良い本なのだろう。
+These books are used by him.	これらの本は彼が使っています。
 This is by far the best method.	これは断然最善の方法だ。
 This has nothing to do with you.	これは君に関係がない。
+This is a book about England.	これは英国についての本です。
 This book is far above me.	この本は私にはとうていわからない。
 What does this word mean?	この単語の意味はどういう意味ですか。
 Where is the end of this line?	この線の終点はどこですか。
@@ -3769,7 +3967,6 @@ You shall want for nothing.	あなたには何も不自由はさせない。
 There is no school during August.	８月には授業がない。
 I will answer within three days.	３日以内に返事します。
 May I ask a few questions?	２、３質問をしてもよろしいですか。
-In 1943, Japan was at war.	１９４３年に日本は戦争をしていた。
 That word has fallen out of use.	この語はもう死語です。
 He was called away on business.	彼は仕事で呼び出された。
 He holds those kinds of views.	彼がそういう見方をしています
@@ -3793,6 +3990,7 @@ She will be seventeen next year.	彼女は来年１７歳になる。
 She has just turned twelve.	彼女は12歳になったばかりである。
 I haven't seen her for ages.	彼女は長いことお会いしてません。
 She knew it by a sixth sense.	彼女は第六感でそれが分かった。
+She can speak Spanish well.	彼女は上手にスペイン語を話せます。
 She is like a mother to me.	彼女は私に母親のようにしてくれる。
 She asked me about my mother.	彼女は私に母についてたずねた。
 She provided me with some food.	彼女は私に食べ物をくれた。
@@ -3844,7 +4042,6 @@ He believes in Santa Claus.	彼はサンタクロースを信じてるんだ。
 He always leaves home at seven.	彼はいつも７時に家をでる。
 He has designs on that girl.	彼はあの女性に下心を抱いている。
 He leaves for school at seven.	彼は７時に学校に向かいます。
-He was born in the 19th century.	彼は１９世紀に生まれた。
 He asked me who I was.	彼は、私に、あなたは誰ですか、と尋ねました。
 He had the room to himself.	彼は、その部屋をひとりじめしてた。
 He is two years older than you.	彼はあなたより２歳年上だ。
@@ -3858,6 +4055,7 @@ The days are becoming shorter.	日がだんだん短くなっている。
 I don't even have time to read.	読書をする時間さえもない。
 Do you go to school on Saturday?	土曜に学校がありますか。
 You need not have called me.	電話をくれる必要はなかったのに。
+A man came up and spoke to me.	男が近づいて私に話しかけた。
 No one could find the answer.	誰もその答えが分からなかった。
 Who left the door open?	誰がドアをあいたままにしておいたんだろう。
 You must be kind to others.	他人には親切にしなければならない。
@@ -3885,6 +4083,7 @@ I don't believe him at all.	私は彼をまったく信用していません。
 I have nothing to do with them.	私は彼らと全く関係がない。
 I asked him if he would go too.	私は彼も来るかとたずねた。
 I didn't believe him at all.	私は彼の言葉を全然信じなかった。
+I could not speak to him.	私は彼に話しかけることができなかった。
 I couldn't put up with him.	私は彼には我慢がなりませんでした。
 I got the money back from him.	私は彼からお金を取り返した。
 I have a few friends in Tokyo.	私は東京に数人の友人がいる。
@@ -3903,6 +4102,7 @@ I worked as hard as possible.	私はできるかぎり熱心に働いた。
 I am going to tell you that.	私はそれをあなたに話すつもりだ。
 I am not certain about that.	私はそれについてはよく知らない。
 I have often been there.	私はしばしばそこへいったことがあります。
+I want some of these books.	私はこれらの本のうち何冊か欲しい。
 I allowed Kate to go home.	私はケイトに、家に帰るのを許可した。
 I have nothing to do now.	私はいまはなにもすることができません。
 I was born in Osaka in 1977.	私は１９７７年に大阪で生まれた。
@@ -3931,6 +4131,7 @@ Yamamoto is one of my friends.	山本君も私の友人の一人です。
 Did you watch TV last night?	昨夜あなたはテレビを見ましたか。
 I didn't believe him at first.	最初は彼のこと信じなかった。
 That will be enough for now.	差し当たり、あれで十分でしょう。
+Mr Sato speaks English well.	佐藤さんは英語をじょうずに話す。
 Mr Sato called at eleven.	佐藤さんから１１時に電話がありました。
 What's on the air this evening?	今晩の番組で何かあるかい。
 I'm going to Paris this fall.	今年の秋はパリへ行くつもりだ。
@@ -3943,7 +4144,6 @@ In a sense, she is right, too.	見様によっては彼女は正しい。
 Ken will be fifteen next year.	健は来年で１５歳になります。
 The hard work has run him down.	激務で彼はすっかり参った。
 You are too young to be in love.	君は恋するには若すぎる。
-Do you believe war will start?	君は戦争が起こると思うかね。
 You must clear the table.	君は食卓の上を片づけなければならない。
 Have you ever seen a UFO?	君はユーフォーを見たことがありますか。
 You had better do it at once.	君はそれをすぐしたほうがよい。
@@ -3954,8 +4154,6 @@ What are you talking about?	君たちは何の話をしているのですか。
 Ask, and it shall be given you.	求めよ、さらば与えられん。
 How did she tell them?	彼女はそれをどのようにして知らせたのですか。
 Is there enough food to go around?	皆に食物は足るかい。
-The meeting closed at four p.m.	会議は午後四時に終わった。
-We must not go to war again.	我々は再び戦争をしてはいけない。
 We need action, not words.	我々は言葉ではなく行動が必要なのだ。
 We are getting on first-rate.	我々はとても仲良くやっている。
 We have to start at once.	我々はすぐに出発しなければなりません。
@@ -3965,6 +4163,8 @@ We need money to do anything.	何をするにもお金がかかります。
 What led you to believe it?	何で君はそれを信じる気になったの。
 Can I do anything for you?	何かお役に立つことはございませんか。
 English is the world's language.	英語は世界の言語である。
+Is English spoken in Canada?	英語はカナダで話されていますか。
+English is spoken in America.	英語はアメリカで話されている。
 It is no use your holding me back.	引き止めても無駄だ。
 You must learn step by step.	一歩一歩学ばなければなりません。
 Little remains to be done.	やることはもうほとんど残っていない。
@@ -3974,13 +4174,14 @@ I should have left earlier.	もっと早く出発しておけばよかった。
 I will help you if possible.	もしできたら手助けしてあげよう。
 Would you explain it again?	もう一度説明してくださいませんか。
 We hope to meet you again.	もう一度お会いできればいいんですが。
+They speak Spanish in Mexico.	メキシコではスペイン語を話す。
 You will soon hear from him.	まもなく彼から便りがありますよ。
 I hope to see you again.	またお目にかかれることを期待しています。
 Mike has two girl friends.	マイクには２人の女性の友人がいます。
-Oh, you'll get used to it soon!	まあ、直ぐになれますわよ。
 It's really coming down out there!	ほんとに降ってきた！
 Mr White has gone to Canada.	ホワイト氏はカナダへ行きました。
 Mr White has gone to Canada.	ホワイト氏はカナダに行きました。
+French is spoken in France.	フランス語はフランスで話されます。
 Brian left the door open.	ブライアンはドアを開けっぱなしにした。
 Nora looks up to her mother.	ノラは彼女の母を尊敬しています。
 Why did he come with her?	なぜ彼は彼女といっしょに来たのですか。
@@ -4031,6 +4232,7 @@ You had better set off at once.	すぐに出発した方がいいよ。
 You may as well start at once.	すぐに出発したらどうですか。
 I may as well start at once.	すぐに出かけるほうがよさそうだ。
 Let's go as soon as John comes.	ジョンが来次第出発しよう。
+I'd like to speak to Judy.	ジュディさんとお話ししたいのですが。
 Jim studies far into the night.	ジムは夜遅くまで勉強する。
 Jim is short for James.	ジムというのはジェームスを短くしたものだ。
 But he doesn't know it yet.	しかし彼はそのことをまだ知らない。
@@ -4040,6 +4242,8 @@ It is something my mother made.	これは母の作品の一つです。
 I might well tell you this.	これは申し上げた方がよいでしょう。
 This has nothing to do with you.	これは君には関係がない。
 This book is meant for children.	この本は子ども向けです。
+This book is of great use to us.	この本は我々に役にたつ。
+Are you through with this book?	この本はもうお済みですか。
 This room is for individual use.	この部屋は個人専用です。
 The room is anything but small.	この部屋は決して狭くない。
 Put this Japanese into English.	この日本語を英訳しなさい。
@@ -4058,9 +4262,12 @@ How is your work coming along?	お仕事は順調にいってますか。
 How is your work getting along?	お仕事の調子はどうですか。
 Have you ever been to India?	インドに行ったことがありますか。
 There's no turning back now.	いま引き返せっていっても無理だ。
+They speak English in America.	アメリカでは英語を話します。
 You must not go out at night.	あなたは夜外出してはならない。
 You are not watching TV now.	あなたは今テレビを見ていません。
 You need not run the risk.	あなたは危険を冒す必要はありません。
+How many books do you have?	あなたは何冊の本を持っていますか。
+You have to speak English.	あなたは英語を話さなければならない。
 How do you account for that?	あなたはそれをどう説明しますか。
 Do you believe it at all?	あなたはそれをいったい信じているのか。
 I will give you the money.	あなたにそのお金を差し上げましょう。
@@ -4076,6 +4283,7 @@ The children made faces at him.	彼が子どもにいやな顔をされた
 He focuses on the power of water.	彼が水の機能性を重視する
 The government should focus on X.	政府はXに的を絞るべきだ
 Take care lest you should fall.	落ちないように注意しなさい。
+Yumi speaks English very well.	由美は英語をとても上手に話す。
 Where there is life, there is hope.	命有っての、物だね。
 While there is life, there is hope.	命ある限り希望あり。
 Hope to see you again next year.	又来年会えるといいですね。
@@ -4091,6 +4299,7 @@ My father has just come home.	父はちょうど帰ってきたところだ。
 Put it on my father's account.	父の勘定につけといてください。
 She is two years younger than me.	彼女は僕より２歳年下だ。
 She talked about her family.	彼女は自分の家族について話をした。
+She has as many books as I.	彼女は私と同じくらい本を持っている。
 She is all right at the moment.	彼女は今のところ大丈夫です。
 She was out of Japan last year.	彼女は去年日本を離れていた。
 She is now well enough to work.	彼女はもう働けるほど健康だ。
@@ -4113,6 +4322,7 @@ He called her every other day.	彼は彼女に一日おきに電話した。
 He told her that he loved her.	彼は彼女に愛してるよと言った。
 He asked her some questions.	彼は彼女にいくつか質問をしました。
 He started from Tokyo to Paris.	彼は東京からパリへ出発した。
+He didn't speak to me at all.	彼は全然私にものを言わなかった。
 He was kind enough to help me.	彼は親切にも私を助けてくれた。
 He is full of new ideas.	彼は新しいアイデアをたくさん持っています。
 He is sound in both mind and body.	彼は心身ともに健康だ。
@@ -4131,11 +4341,12 @@ He'll do anything for money.	彼は金のためなら何でもするだろう。
 He said nothing as to money.	彼は金に関しては何も言わなかった。
 I hear he is looking for work.	彼は勤め口を探しているそうだ。
 He presented himself at the meeting.	彼は会に出席した。
+He can't speak English, can he?	彼は英語が話せないんですね。
 He would often come to see me.	彼はよく遊びにきたものだった。
 He comes here almost every day.	彼はほとんど毎日ここへくる。
 He didn't believe Ben's words.	彼はベンの言葉を信じなかった。
 He found the door closed.	彼はドアが閉まっていることに気がついた。
-He is the best for this project.	彼はこの計画に最適である。
+He speaks English very well.	彼はたいへん上手に英語を話します。
 He is said to have died here.	彼はここで死んだと言われている。
 When did he return from Osaka?	彼はいつ大阪に戻ったのですか。
 He always says the same thing.	彼はいつも同じこと言ってるよ。
@@ -4147,6 +4358,7 @@ It's no use asking him for help.	彼に助けを求めても無駄だ。
 He had no friend to talk to.	彼には話しかける友人がいなかった。
 He did not have enough money.	彼には必要なだけの金がなかった。
 He has no friend to play with.	彼には一緒に遊ぶ友達がいない。
+Don't speak to him like that.	彼にああいう口の効き方をするな。
 I am meeting him next Friday.	彼と来週の金曜日あうつもりです。
 I have known him for ten years.	彼とは１０年来の知り合いだ。
 He put the idea into my head.	彼が僕にそう思い込ませたのです。
@@ -4166,7 +4378,6 @@ Could you turn off the lights?	電気を消していただけませんか。
 I have to take the test again.	追試を受けなくてはいけません。
 I've got to take a make-up test.	追試を受けなきゃならない。
 May I share this table with you?	相席させていただけますか。
-I hope war doesn't break out.	戦争が起こらなければいいと思う。
 The other day, I met him in Kyoto.	先日京都で彼にあった。
 Have you ever been to Canada?	カナダへ行ったことがありますか。
 Do what you believe is right.	正しいと信じることをやりなさい。
@@ -4181,7 +4392,6 @@ Don't leave your things behind.	持ち物を置き忘れないように。
 We met him on the way there.	私達はそこへ行く途中で彼に会った。
 We met him on the way there.	私達はそこにいく途中で彼に会った。
 When I heard it, I was dumbfounded.	私は呆気にとられた。
-I don't like traveling by air.	私は飛行機の旅が好きではない。
 I have known her for two years.	私は彼女を２年間知っている。
 I will make him do it at once.	私は彼にすぐそれをやらせよう。
 I'm thinking he was a kind man.	私は彼が親切な人だと思った。
@@ -4191,6 +4401,7 @@ I am a Japanese high school girl.	私は日本の女子高生です。
 I'm used to working all night.	私は徹夜で働くのに慣れている。
 I have not seen you for ages.	私は長い間あなたにあっていない。
 I have a good idea in my mind.	私は心によい考えを持っている。
+I can speak English a little.	私は少し英語を話すことができる。
 I'm going to Paris in the fall.	私は秋にパリへ行く予定です。
 I don't know what to do next.	私は次に何をすべきかわからない。
 I don't know what to do next.	私は次にどうすべきか分からない。
@@ -4199,6 +4410,7 @@ I didn't want to bring you in.	私は君をまき込みたくなかった。
 I met him on my way to school.	私は学校へいく途中彼に会った。
 I call on him every other day.	私は一日おきに彼を訪問します。
 I have little money with me.	私はほとんど金の持ち合わせがない。
+I can't speak French at all.	私はフランス語を少しも話せません。
 I thought that Tom was kind.	私はトムは親切であると思いました。
 I'll do my best on the test.	私はテストで最善を尽くすでしょう。
 I don't know if it is true.	それが本当かどうかは分からないんだ。
@@ -4206,6 +4418,7 @@ I know the whole of the story.	私はその話の全体を知っている。
 I've read many kinds of books.	私はいろんな種類の本を読んだ。
 I'm three years younger than you.	私はあなたより３歳若い。
 I will go along with your plan.	私はあなたの計画に賛成です。
+I will give you this book.	私はあなたにこの本をさしあげましょう。
 I was born on April 3, 1950.	私は１９５０年４月３日に生まれた。
 One of my friends knows you.	私の友達の一人は君を知っています。
 My father is not home yet.	私の父はまだ家に帰ってきておりません。
@@ -4230,8 +4443,10 @@ Turn left at the first light.	最初の信号を左へ曲がって下さい。
 What's on the air this evening?	今晩どんな番組がありますか。
 I'll call you up this evening.	今晩そちらにお電話いたします。
 I was asked a question in my turn.	今度は私が質問された。
+Now is the time I got to speak out.	今自分を見つめ直し。
 We have no information as yet.	今までのところ何の情報もない。
 I have been reading this book.	今までこの本を読んでいたのだ。
+You should think before you speak.	考えてから言いなさい。
 May I help you clear the table?	後片づけを手伝いましょうか。
 Given health, one can do anything.	健康なら何でもできる。
 Nothing is more important than health.	健康が第一だ。
@@ -4239,6 +4454,7 @@ The plans are still up in the air.	計画はまだ未定である。
 Keiko is at the head of her class.	恵子はクラスで首席だ。
 I'll hear all of you in turn.	君達全部のいう事を順番に聞こう。
 You will do well to leave him.	君は彼と別れるのが賢明だろう。
+You can't speak English, can you?	君は英語が話せませんね？
 You have only to study hard.	君は一生懸命勉強しさえすればよい。
 You need to study harder.	君はもっと一生懸命勉強をする必要がある。
 What do you need the money for?	君はなぜこの金が必要なんだ。
@@ -4259,17 +4475,17 @@ I was called on in English class.	英語の時間に当てられた。
 What do you say to taking a rest?	ちょっと一服しませんか？
 I still haven't heard from him.	依然として彼から便りがない。
 Put it back where you found it.	もとの所へ戻っておきなさい。
-I am against the war, of course.	もちろん、戦争には反対だ。
 Can you hold on a little longer?	もう少しの間頑張れるかい？
 It's already time to go home.	もう帰らなければならない時間だ。
 It is about time we were leaving.	もうそろそろ帰る時間だ。
 Miho is the girl I like best.	ミホは私が一番好きな女の子です。
 Mr White has gone to India.	ホワイト氏はインドへ行ってしまった。
-Bob is kind to those around him.	ボブはまわりの人に親切だ。
 Ben is not as young as he looks.	ベンは見かけほど若くない。
 Helen got off at the next stop.	ヘレンは次の停留所で降りた。
 Have you ever gone to Venice?	ベニスに行ったことがありますか。
 Have you heard from Freddie?	フレディーから連絡がありましたか。
+French is spoken by many.	フランス語は多くの人々によって話される。
+If only I could speak French.	フランス語が話せさえすればなあ。
 Brian left for New York.	ブライアンはニューヨークに向けて出発した。
 Shall I ask Peter for help?	ピーターに手伝ってもらいましょうか。
 Have you ever been to Hawaii?	ハワイへ行ったことがありますか。
@@ -4282,6 +4498,7 @@ How much do you believe him?	どの程度まで彼を信用していますか。
 Every country has its own history.	どの国にも歴史がある。
 How soon can I get to Tokyo?	どのくらいで東京に到着できますか。
 Has Tony been watching TV?	トニー君はテレビをずっと見ていますか。
+Who do you want to speak to?	どなたとお話しになりたいのですか。
 How can we put it into practice?	どうやって実行にうつそう。
 And why do you think that is?	どうして届かないのか分かってる？
 Why did you part with your house?	どうして家を手放したの。
@@ -4303,6 +4520,7 @@ That's a hard question to answer.	それは答えにくい質問だ。
 Is that what you have in mind?	それが君の考えてることですか。
 It turned out all for the best.	それが一番いい結果になった。
 The old man lives by himself.	その老人は一人暮らしをしている。
+I couldn't speak well that day.	その日はうまく話せなかった。
 You had better look up the word.	その単語は調べた方がいい。
 The idea is still in my mind.	その考えはまだ私の心にあります。
 The word is no longer in use.	その語は今はもう使われていない。
@@ -4312,6 +4530,7 @@ I couldn't hear the sound well.	その音がよく聞こえなかった。
 I want to talk to him about it.	そのことで彼と話し合いたい。
 He told me to go there at once.	そこへすぐ行けと彼が言った。
 You will soon get to like her.	すぐに彼女を好きになるだろう。
+English is spoken in Singapore.	シンガポールでは英語を話す。
 John was another great player.	ジョンもまたえらい選手だった。
 John gave Mary some money.	ジョンはメアリーに少しのお金を上げた。
 You may have it for the asking.	ご入用でしたらさしあげます。
@@ -4334,6 +4553,7 @@ You should always keep your word.	いつも約束は守るべきだ。
 May I call on you some day?	いつかあなたを訪問してもいいですか。
 Hope you'll have a great one.	いい誕生日を迎えられますように。
 Sure, but don't take your time.	いいわ、でもすぐに戻るのよ。
+What did you do with those books?	あの本はどうしましたか。
 Did you ever go to Okinawa?	あなたは沖縄へ行った事がありますか。
 You need to work very hard.	あなたは一所懸命働かないといけない。
 What subject do you like best?	あなたはどの学科が好きですか。
@@ -4364,9 +4584,9 @@ Yumi studied English last night.	由美はゆうべ英語を勉強した。
 Do you get on with your friends?	友達と仲良くやっていますか。
 The problem is what to do next.	問題は次に何をしたらよいのか。
 We looked, but saw nothing.	目を向けてみたが何も目に入らなかった。
-I heard the leaves rustling.	木の葉のサラサラという音が聞こえた。
 I found this at the risk of my life.	命がけで探し出した。
 I don't really care that much.	本当にそんなに気にはなりません。
+Look at me with your books closed.	本を閉じて私を見なさい。
 I can't leave work until five.	僕は５時まで仕事を離れられない。
 I don't know where my watch is.	僕の時計どこにあるか知らない。
 What subjects do you like the best?	勉強は何が好きですか。
@@ -4389,6 +4609,7 @@ She turned against her old friend.	彼女は古い友人を嫌った。
 She is not as young as she looks.	彼女は見かけほど若くない。
 She is not as young as she looks.	彼女は外見ほど若くはない。
 She called out to us for help.	彼女は我々に大声で助けを求めた。
+She speaks English very well.	彼女は英語をとても上手に話します。
 She is said to have been a model.	彼女はモデルだったそうだ。
 She didn't have much money.	彼女はほとんどお金を持っていなかった。
 She does not do things like that.	彼女はそんなことはしない。
@@ -4414,6 +4635,7 @@ He was so kind as to help us.	彼は親切にも私たちを助けてくれた�
 He is working on the new plan.	彼は新しい計画に取り組んでいる。
 He turned around and looked back.	彼は振り向いて後ろを見た。
 He is two years older than Ogawa.	彼は小川より二歳年上です。
+He has more books than I do.	彼は私よりもたくさん本を持っている。
 He is older than I by two years.	彼は私より２歳だけ年上です。
 He doesn't speak my language.	彼は私の言葉をしゃべらないのです。
 He gave in to my views.	彼は私の意見に屈した（私の意見を受け入れた）。
@@ -4454,7 +4676,6 @@ I say the same thing over and over.	同じ話を何度もします。
 Tell me what you did in Tokyo.	東京で何をしたか教えてください。
 Saturday is when my father is free.	土曜日は父が暇な時だ。
 Short accounts make long friends.	長い付き合いにかけは禁物。
-World War II ended in 1945.	第二次世界大戦は１９４５年に終わった。
 Big men are not always strong.	体の大きい人が強いとは限らない。
 Early rising is good for the health.	早起きは健康によい。
 I hope you'll get well soon.	早くよくなられるように祈っています。
@@ -4508,10 +4729,11 @@ I have some work to clear up.	私はかたづける仕事がいくつかある�
 I don't have any money on me.	私はお金の持ち合わせが少しもない。
 I need all money possible.	私はありとあらゆるお金を必要としている。
 I will go along with your plan.	私はあなたの計画に同調します。
+I have at least ten books.	私は、少なくとも１０冊の本を持っている。
+I have no less than ten books.	私は、１０冊もの本を持っている。
 My friends set off to America.	私の友達はアメリカへと出発した。
 My mother gets up earlier than I.	私の母は私より早く起きる。
 My mother does not speak English.	私の母は英語を話しません。
-My father likes traveling by air.	私の父は空の旅が好きです。
 My father asked when to start.	私の父はいつ出発するのか尋ねた。
 My watch is different from yours.	私の時計はあなたのと違う。
 My family are all in good health.	私の家族はみんな健康です。
@@ -4544,7 +4766,6 @@ You must do as you are told.	言いつけどおりにしなければならない
 Put it back where you found it.	元のところへ戻しておきなさい。
 Your health is more important.	健康のほうがもっと大事でしょう。
 They are as different as day and night.	月とすっぽん。
-Are you for the war or against it?	君は戦争に賛成か反対か。
 You won't be in time for school.	君は授業に間に合いませんよ。
 You must do as I tell you.	君は私の言うとおりにしなければならない。
 Did you call me up last night?	君は昨夜私に電話をかけましたか。
@@ -4593,7 +4814,6 @@ Almost no one believed him.	ほとんどだれも彼の言葉を信じなかっ�
 That is not my idea of him.	ぼくはかれをそう考えてはいないのです。
 I have no idea why it is so.	ぼくにはまるでその理由がわからない。
 Why don't you study French?	フランス語を勉強してみてはどうですか。
-Hitler led Germany into war.	ヒトラーはドイツを戦争に引き入れた。
 The party was almost over.	パーティーはほとんど終わるところでした。
 The party was held on May 22.	パーティーは５月２２日に行われた。
 What turned her against you?	なぜ彼女はあなたに反抗したのですか。
@@ -4617,6 +4837,7 @@ That is how I learned English.	それが私が英語を学んだ方法です。
 Is that what you have in mind?	それが君が考えていることですか。
 I haven't seen her since then.	それいらい彼女に会っていません。
 The story didn't sound true.	その話は本当に様には聞こえなかった。
+Give the book back to the owner.	その本を持ち主に返しなさい。
 I have read the book before.	その本は以前に読んだことがあります。
 That was the answer I wanted.	その返事は我が意を得たものだった。
 I have never heard of him since.	その後彼のうわさを聞かない。
@@ -4639,6 +4860,7 @@ I can't make any sense of this.	これはまったく理解できません。
 This is a very important meeting.	これはとても大切な会合だ。
 I'll study harder in the future.	これからはもっと勉強します。
 Even children can read this book.	この本は子供でも読めます。
+How long can I keep this book?	この本はどのくらい借りれますか。
 This report isn't to the point.	この報告書は要領をえていない。
 What is the meaning of this word?	この単語の意味は何ですか。
 This watch is meant for you.	この時計はあなたにあげるつもりです。
@@ -4656,7 +4878,6 @@ What a big house you have!	きみは何と大きい家を持っているんだ�
 I'm sure she will turn up soon.	きっと彼女はもうすぐ現れるよ。
 Do you have any money with you?	お金の持ちあわせがありますか。
 I think what you say is true.	おっしゃることは本当だと思います。
-War may break out at any moment.	いつ戦争になるかわからない。
 When do we hand in the report?	いつレポートを提出するのですか。
 Until when will you be in Japan?	いつまで日本にいるのですか。
 When are you leaving for Boston?	いつボストンにおたちですか。
@@ -4666,6 +4887,7 @@ One is never too old to learn.	いくつになっても学ぶことはある。
 I think we could be good friends.	いい友達になれそうですね。
 Ann has a little money with her.	アンはお金を少し持っている。
 I gave her all the money I had.	ありったけの金を彼女に与えた。
+English is spoken in America.	アメリカでは、英語が話されている。
 Have you ever been to Africa?	アフリカに行ったことがありますか。
 She isn't so against the idea.	あの娘だってまんざらじゃないさ。
 That old book is a real find.	あの古本はまったくの掘り出し物だ。
@@ -4689,6 +4911,7 @@ That had a ninety-year history.	それが９０年もの歴史を持っていた
 He had a bigger problem than that.	彼がそれ以前の問題に悩んだ
 I'll be able to see him next year.	来年は彼に会えるだろうか。
 I will be able to see you next year.	来年は会えるでしょう。
+Yoko speaks English, doesn't she?	洋子さんは英語を話しますね。
 I help my mother in the evening.	夕方は母の手伝いをしています。
 You will keep your word, won't you?	約束を守って下さるわね。
 A Mr Kimura is calling you.	木村さんという人からあなたにお電話です。
@@ -4696,6 +4919,7 @@ While there is life, there is hope.	命のある間は希望がある。
 Did you hear your name called?	名前を呼ばれるのが聞こえましたか。
 Did you hear your name called?	名前が呼ばれるのが聞こえましたか。
 The girl reading a book is Kate.	本を読んでいる少女はケートだ。
+The book was given to him by me.	本は私から彼に与えられました。
 I practiced my English on him.	僕は彼を相手にして英語を練習した。
 I don't like to speak in public.	私は人前で話をするのが嫌いだ。
 I studied my part in the play.	僕は芝居の自分の役の台詞を覚えた。
@@ -4707,7 +4931,6 @@ My father worked hard night and day.	父は不眠不休で働いた。
 My father used to be a strong man.	父は昔腕力のある人でした。
 My father has made me what I am.	父が私を今日の私にしてくれた。
 There is more money than is needed.	必要以上のお金がかかる。
-They are at war with the country.	彼等はその国と戦争中である。
 She led the old man into the room.	彼女は老人を部屋に導いた。
 She's far behind in her studies.	彼女は勉強が非常に後れている。
 She goes to a girls' high school.	彼女は女子高校に通っている。
@@ -4742,6 +4965,7 @@ Have they ever come on time?	彼らが時間どおり来たことがあります
 He was used to going out at night.	彼は夜の外出になれていた。
 He left the book on the table.	彼は本をテーブルの上に置き忘れた。
 He could not live out the year.	彼は年を越すことができなかった。
+He speaks Japanese very well.	彼は日本語をたいへん上手に話します。
 He has been in Tokyo for a year.	彼は東京に一年間ずっといます。
 He asked if I like Chinese food.	彼は中華料理がすきかたずねた。
 He's used to speaking in public.	彼は人前で話す事に慣れている。
@@ -4758,6 +4982,7 @@ He asked me which way to go.	彼は私にどっちへ行けばいいのか尋ね
 He will get back from school.	彼は五時までに学校から帰るでしょう。
 He left home never to return.	彼は故郷を去って２度と戻らなかった。
 He did it as he had been told.	彼は言われたとおりにそれをやった。
+He can speak English and French.	彼は英語とフランス語が話せる。
 He does nothing but play all day.	彼は一日中遊んでばかりいる。
 He does a kind act once a day.	彼は一日に一回は親切な行動をする。
 He didn't believe it at first.	彼ははじめそのことを信じなかった。
@@ -4807,6 +5032,8 @@ When shall we get together next?	次はいつ集まることにしようか。
 I'll ask you these questions.	次のようなことをあなたに質問したい。
 What to do next is the question.	次に何をすべきかが問題である。
 We talked over our problems.	私達は、自らの問題について話し合った。
+I don't like to be spoken to.	私は話しかけられるのが好きではない。
+I ordered some books from London.	私は本をロンドンに注文した。
 I told them to study harder.	私は彼らにもっと勉強するように告げた。
 I have nothing to do with them.	私は彼らとはまったく関係がない。
 I was born and brought up in Tokyo.	私は東京で生まれ育った。
@@ -4838,6 +5065,7 @@ I have no other friend than you.	私はあなた以外に友達がいない。
 I will tell you about Japan.	私はあなたに日本について話しましょう。
 I have lived here since 1990.	私は１９９０年からここに住んでいる。
 I read The New York Times.	私は「ニューヨークタイムズ」を読んでいる。
+I have no more than ten books.	私は、１０冊しか本を持っていない。
 My mother said to me, "Study."	私の母は僕に勉強するように言った。
 Our city has no water service yet.	私の町にはまだ水道が無い。
 My English is anything but good.	私の英語は決して上手ではない。
@@ -4889,67 +5117,9 @@ Does he have general common sense?	一般常識を持っていますか。
 Do you mind if I take a day off?	一日休みを取ってもいいですか。
 But love can break your heart.	愛は人の心を砕くこともできるのさ。
 Do your best in anything you do.	やることは何でも全力をつくせ。
-Would you care for more cookies?	もっとクッキーはいかがですか。
 If I were free, I could help you.	もし暇だったら手伝えるのに。
 Now it's time to say good night.	もう、おやすみを言う時間だね。
+Is Spanish spoken in Mexico?	メキシコではスペイン語が話されますか。
 Mary is in want of common sense.	メアリーには常識が欠けている。
 Mary and I are in the same class.	メアリーと私は同じクラスだ。
 The decision was still in the air.	まだ決断はついてなかった。
-To start with, who is that man?	まず第一に、あの男性は誰ですか。
-I will not let the story go out.	ぼくはその話は人にもらさない。
-France was at war with Russia.	フランスはロシアと戦争をしていた。
-What has brought you here so early?	なぜこんなに早く来たの？
-Feel free to ask any questions.	どんな質問でも遠慮なくしなさい。
-Tom lived in Japan for ten years.	トムは１０年間日本に住んだ。
-At any rate, I will do my best.	とにかくベストを尽くすつもりだ。
-How far are you going for a drive?	どこまでドライブに行くの？
-Where do you think I met her?	どこで私が彼女に会ったと思いますか。
-I hear from him once in a while.	ときたま彼から便りがあります。
-What led you to believe it?	どうして君はそれを信じる気になったのか。
-What do you learn Spanish for?	どうしてスペイン語を学ぶのですか。
-The girl at the door is Lucy.	ドアの所にいる女の子はルーシーです。
-Get it done as soon as possible.	できるだけ早く仕上げて下さい。
-You can't get anything for nothing.	タダほど高いものはない。
-But now, nothing is left for me.	だが今、俺には何も残ってない。
-About how much will it cost?	だいたいどのくらいの値段でいけますか。
-Hadn't we better be going soon?	そろそろ行ったほうがよくないか。
-This has nothing to do with you.	それはあなたと全然関係がない。
-Tell me the right answer to it.	それの正しいこたえを教えてくれ。
-I've never heard of that city.	その都市のことを聞いたことがない。
-Will I be able to get it before then?	その前に入りますか。
-I haven't seen her since then.	その時以来私は彼女に会っていない。
-Will the plan meet the need?	その計画はこの場にふさわしいだろうか。
-I met him then for the first time.	そのとき初めて彼と会った。
-And there is not even enough water.	そして十分な水さえない。
-Call me up when you get there.	そこに着いたら私に電話をしなさい。
-You don't need to leave right now.	すぐに出かける必要はない。
-Jim is coming to the party, too.	ジムもまたパーティーに来ます。
-I can't go along with Jim's plan.	ジムの計画には賛成出来ない。
-We now turn to a different problem.	さて別の問題に入ります。
-It's kind of you to say so.	ご親切にそう言ってくださってありがとう。
-Learn these words, one by one.	これらの単語を一つずつ覚えなさい。
-Have you ever loved a man?	これまでに男の人を愛したことがありますか。
-How often have you been there?	これまでに何回そこへ行きましたか。
-Never have I felt better.	これほど気分のよかった事は一度もありません。
-This is too good to be true.	これは話があまりよすぎて本当ではない。
-Can you tell me what this is?	これがどんなものか説明してください。
-This is how I learned English.	これがわたしが、勉強をした方法だ。
-This is how I learned English.	これが、私が英語を勉強した方法だ。
-This book is hard for me to read.	この本は私が読むには難しい。
-You are free to use this room.	この部屋を自由に使っていいですよ。
-I don't understand this word.	この単語の意味がわからないのですが。
-This subject is the most important.	この授業はとても重要だ。
-How would you take these words?	このことばを君はどう考えますか。
-I would like to have a rest here.	ここで一休みしたいものです。
-What time is it now by your watch?	きみの時計で今何時ですか。
-You must have been working too hard.	きっと働きすぎですよ。
-How old might your father be?	お父さんはおいくつになられましたか。
-I'm not in a position to answer.	お答えできる立場にありません。
-Do you have much money with you?	お金の持ち合わせは多いですか。
-What is more, he has a strong will.	おまけに彼は意志が強い。
-When will the law go into force?	いつその法律は施行されますか。
-Ann had no friends to play with.	アンには遊び友達がいなかった。
-That is the house where I was born.	あれは私が生まれた家だ。
-Don't get your hopes up too much.	あまり期待されても困ります。
-He is watching my every move.	あの人は私の一挙一動を見守っている。
-Tell me what that man is like.	あの人はどんな人物か教えて下さい？

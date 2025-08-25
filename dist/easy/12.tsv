@@ -1,9 +1,7 @@
 I'm sad.	悲しいです。
 Naturally.	当然だよ。
-Birds fly.	鳥は飛ぶ。
 Hurry up.	急ぎなさい。
 At ease.	安心しなさい。
-Birds sing.	鳥が囀る。
 I'm a hero.	俺は英雄。
 Hurry up.	さあ、急いで。
 My stars!	これは驚いた。
@@ -15,7 +13,6 @@ Stand at ease!	休め！
 Fire burns.	火は燃える。
 Yes, two.	はい、２個です。
 He is sick.	彼は病気です。
-Birds sing.	鳥は歌います。
 I can jump.	私は飛べます。
 Lunch is on.	お昼ですよ。
 He is a poet.	彼は詩人だ。
@@ -75,7 +72,6 @@ You look sick.	貴方は顔色が悪い。
 She looks sad.	彼女は悲しそうだ。
 He sang a song.	彼が歌を歌った。
 Meat, please.	お肉をお願いします。
-The birds sang.	鳥がさえずった。
 Let's do lunch!	昼メシにしよう。
 How wonderful!	素晴らしいですね！
 I want the fan.	扇風機がほしい。
@@ -110,7 +106,6 @@ He has long legs.	彼は足が長い。
 He seems honest.	彼は正直そうだ。
 He has long legs.	彼の足は長い。
 Grab the bottom.	底を持ってくれ。
-The birds sang.	鳥達がさえずった。
 Let's eat lunch.	昼食を食べよう。
 It may snow.	雪が降るかもしれません。
 I broke my leg.	私は足を骨折した。
@@ -186,6 +181,7 @@ Water is a liquid.	水は液体である。
 Keep off the grass!	芝生に入るな。
 Poets write poems.	詩人は詩を書く。
 I shook my head.	私は首を横に振った。
+Ought I to go?	私は行くべきでしょうか。
 I am a cat person.	私はネコ派です。
 Take my advice!	私の忠告に従いなさい。
 My legs still hurt.	脚がまだ痛む。
@@ -236,6 +232,7 @@ I am a bit drunk.	私は少し酔っている。
 Excellent reviews.	最高の舞台だった。
 All sugar is sweet.	砂糖は全て甘い。
 Are you free tonight?	今晩暇かな？
+Ought I to go?	行かなければなりませんか。
 You're wet through.	君はずぶぬれだ。
 The heat is intense.	強烈な暑さだ。
 Are you feeling sick?	気分悪いの？
@@ -261,6 +258,7 @@ Yes, please come.	ええ、どうぞ来てね。
 Do you bowl?	あなたはボウリングをしますか。
 Twice two is four.	２の２倍は４です。
 "Road under Repair."	「道路工事中」
+The cat is pooping.	ネコがウンコをする
 I sent the e-mail.	私がメールをしました
 I can't afford it.	なかなか手が出ません
 You should be careful.	注意が必要だ
@@ -268,7 +266,6 @@ It was all my fault.	私が全部悪かった
 Jump to the details.	詳細ページへ飛ぶ
 How about tomorrow?	明日はどうですか。
 Even I was defeated.	自分でも負けた。
-The lovers kissed.	恋人達はキスをした。
 The mail has arrived.	郵便が届いた。
 It'll snow tomorrow.	明日は雪だろう。
 See you tomorrow.	明日お会いしましょう。
@@ -361,7 +358,6 @@ He is very careful.	彼はとても用心深い。
 He has a camera.	彼はカメラを持っています。
 When does it arrive?	到着は何時ですか。
 It is bad to steal.	盗むのは悪いことだ。
-I wish I were a bird.	鳥になりたいな。
 The home team won.	地元のチームは勝った。
 Permit me to stay.	滞在を許可して下さい。
 It is going to snow.	雪になるでしょう。
@@ -391,6 +387,7 @@ Add a little milk.	牛乳を少し加えなさい。
 The milk has gone bad.	牛乳が腐った。
 Are you in a hurry?	急いでいるんですか。
 Have a nice flight.	楽しい飛行機の旅を！
+We ought to win.	我々は勝つに決まっている。
 The fire alarm rang.	火災警報が鳴った。
 What's biting you?	何をかりかりしてるの。
 Please sing a song.	一曲歌ってください。
@@ -410,12 +407,12 @@ Set your mind at ease.	ご安心下さい。
 This fits perfectly.	これはピッタリだ。
 This hat is mine.	この帽子は私のものです。
 My stomach is full.	お腹がいっぱいです。
-What's that bird?	あれは何という鳥ですか。
 You look so pale.	あなたは顔が真っ青です。
 A laugh slipped out.	思わず笑ってしまった
 This a recent photo?	これは、最近の写真？
 Low-fat milk for me.	あたし、低脂肪乳ね。
 My parents are old.	両親は歳を取っている。
+The medicine has worked.	薬が効いた。
 Turn off the alarm.	目覚ましを止めなさい。
 Fill it up, please.	満タンでお願いします。
 I think him a fool.	僕は彼は馬鹿だと思う。
@@ -438,7 +435,6 @@ I think he is honest.	彼は正直だと思う。
 He appeared honest.	彼は正直そうに見えた。
 He is no gentleman.	彼は紳士などではない。
 He grew no fatter.	彼は少しも太らなかった。
-He aimed at the bird.	彼は小鳥を狙った。
 He arrived in time.	彼は時間通り到着した。
 He couldn't lift.	彼は持ち上げられなかった。
 He seems to be sick.	彼は具合が悪そうだ。
@@ -448,7 +444,6 @@ He is very careful.	彼はたいへん注意深い。
 Shake hands with him.	彼と握手しなさい。
 My head is spinning.	頭がクラクラします。
 Silence gives consent.	沈黙は承諾の印。
-Birds fly in the sky.	鳥は空を飛びます。
 Breakfast is ready.	朝御飯ができています。
 Fold up the map.	地図を折りたたんでください。
 Everyone has faults.	誰にでも欠点はある。
@@ -510,7 +505,6 @@ You are under arrest.	おまえを捕縛する。
 It's self-evident.	おのずから明らかである。
 The engine died.	エンジンが止まってしまった。
 The engine gave out.	エンジンが故障した。
-Yes, I'll come, Bob.	うん、行くよ、ボブ。
 That is the bus stop.	あれはバス停です。
 That gray building?	あの灰色のビルですか。
 He fell asleep again.	彼が再び眠りについた
@@ -521,7 +515,6 @@ I'm satisfied already.	もう気が済みました
 The minister said ～.	〜と大臣が発言しました
 I feel very at ease.	とても心が落ち着きます
 "You with me?" "Yes"	「分かった？」「はい」
-A little bird told me.	風の便りに聞いた。
 History repeats itself.	歴史は繰り返す。
 The storm has died down.	嵐は静まった。
 It's behind schedule.	予定より遅れてます。
@@ -577,7 +570,6 @@ I arrived in London.	私はロンドンに着いた。
 I'm proud of you.	私はあなたを誇りに思います。
 Will you marry me?	私と結婚してくれませんか。
 We were in a hurry.	私たちは急いでいました。
-I wish I were a bird.	私が鳥であればなあ。
 The kids are asleep.	子供達は眠っているよ。
 My left foot is asleep.	左足がしびれた。
 I'm in a hurry today.	今日は急いでいます。
@@ -634,7 +626,6 @@ We guarantee you X.	私がXを皆さまに約束します
 Somehow, I'm bad with X.	Xがどうも苦手だ
 Actually, I'm sick.	実は私は病気を患っています
 This newspaper is free.	この新聞はロハだ。
-Lover, come back to me.	恋人よ、我に帰れ。
 Will it rain tomorrow?	明日雨が降りますか。
 It may rain tomorrow.	明日は雨かもしれない。
 Come tomorrow morning.	明日の朝、来なさい。
@@ -672,7 +663,6 @@ The meat has gone bad.	肉が腐ってしまった。
 I would like to arrive.	到着したいものだ。
 The weather turned fair.	天気が好転した。
 The weather turned bad.	天気が悪くなった。
-I dreamt I was a bird.	鳥になった夢を見た。
 Advice is like salt.	忠告は塩のようなものだ。
 No one can be a poet.	誰も詩人にはなれない。
 Come home early, Bill.	早く帰りなさいビル。
@@ -703,7 +693,6 @@ My orders are absolute.	私の命令は絶対だ。
 My camera was stolen.	私のカメラが盗まれた。
 I owe him some money.	私には彼に借金がある。
 Sing a song with me.	私と一緒に歌いましょう。
-I wish I were a bird.	私が鳥になれたらなあ。
 Send the kids to bed.	子供達を寝かせなさい。
 It's in peak condition.	最高の状態ですね。
 Are you free tonight?	今夜時間はありますか。
@@ -721,7 +710,6 @@ Give me the bill, please.	勘定を頼むよ。
 We have snow in January.	１月は雪が降る。
 My foot's asleep again!	また足がしびれた。
 Well, I'll be damned!	まあ、何て呆れたこと！
-Can Bob be sick?	ボブはいったい病気なのだろうか。
 Bill stopped smoking.	ビルはたばこを止めた。
 Let's call Bill up.	ビルに電話をかけてみよう。
 The bus will come soon.	バスはすぐ来ます。
@@ -746,7 +734,6 @@ Who is that gentleman?	あの紳士は誰ですか。
 Your pulse is normal.	あなたの脈は普通です。
 Pretend you're me.	あなたが私のふりをしなさい。
 There goes our bus.	あっ、バスが行ってしまう。
-Oh, yes, I remember.	ああそうそう思い出した。
 Both dogs are asleep.	２匹の犬は眠っている。
 Is that a recent photo?	それは最近の写真？
 I believe in magic.	わたしは魔法を信じている。
@@ -761,6 +748,7 @@ The request was granted.	要求は認められた。
 I'll check my schedule.	予定表を見ましょう。
 It's ahead of schedule.	予定より進んでいる。
 I really appreciate it.	有難うございました。
+Your medicine is ready.	お薬ができましたよ。
 Darkness is falling.	夜のとばりが下りつつある。
 Will it rain tomorrow?	明日雨が降るだろうか。
 How about for tomorrow?	明日ならどうですか。
@@ -840,7 +828,6 @@ What a wonderful idea!	実にすばらしい考えだ。
 I'm sick of hearing it.	耳にたこができたよ。
 I'll take the next bus.	次のバスに乗ります。
 We depend on you.	私達はあなたを頼りにしています。
-I saw a beautiful bird.	私は美しい鳥を見た。
 I shook hands with her.	私は彼女と握手した。
 I'm only a customer.	私は買い物に来たものです。
 I don't care for meat.	私は肉料理を好まない。
@@ -856,10 +843,7 @@ My car is under repair.	私の車は修理中です。
 My sister is married.	私の姉は結婚しています。
 My camera is a Nikon.	私のカメラはニコンです。
 I am to blame for it.	私にその責任があります。
-We let the bird fly.	私たちはその鳥を飛ばした。
 I am far from sad.	私が悲しいなんてとんでもない。
-I wish I were a bird.	私が鳥ならいいのになあ。
-I wish I were a bird.	私が鳥であればよいのに。
 Don't be soft with kids.	子供に甘くするな！
 Pass the sugar, please.	砂糖を取って下さい。
 Are you off duty tonight?	今夜非番ですか。
@@ -902,6 +886,7 @@ The bus is behind time.	バスがおくれている。
 Yes. Tony had it.	はい。トニーが持っていましたよ。
 Cut it with a knife.	ナイフでそれを切りなさい。
 Make yourself comfortable.	どうぞお楽に。
+The medicine took effect.	その薬はきいた。
 Can you climb the tree?	その木に登れますか。
 All the meat was bad.	その肉はみな腐っていた。
 Don't blame the guide.	そのガイドを咎めるな。
@@ -974,6 +959,7 @@ He asked for my advice.	彼は私の助言を求めた。
 He stole money from me.	彼は私から金を取った。
 He is free from pride.	彼は高慢なところがない。
 He is the soul of honor.	彼は高潔そのものだ。
+He practices medicine.	彼は開業医をやっている。
 He hurried to the station.	彼は駅へ急いだ。
 He arrived at the station.	彼は駅に着いた。
 He has a grip of steel.	彼は握力がとても強い。
@@ -991,8 +977,6 @@ Extension 45, please.	内線４５番をお願いします。
 The weather was ideal.	天候はこの上なしだった。
 The weather became warm.	天候が暖かくなった。
 Are we arriving on time?	定刻に到着しますか。
-Birds fly long distances.	鳥は長距離を飛ぶ。
-Birds have sharp eyes.	鳥は鋭い目をもっている。
 Are you eating lunch?	昼食を食べているんですか。
 Does anyone feel sick?	誰か気分が悪いのですか。
 Who sent me a wire?	誰が、私に電報をよこしたのか。
@@ -1038,7 +1022,6 @@ My reply was negative.	私の返事は否定的だった。
 My car needs repairing.	私の車は修理が必要だ。
 My left arm is asleep.	私の左腕がしびれている。
 My dog has a long tail.	私の犬はしっぽが長い。
-We bagged a wild bird.	私たちは野鳥をとらえた。
 We lay on the grass.	私たちは草の上に横になった。
 Let's split the bill.	支払いは分け合いましょう。
 I'm seeing them tonight.	今夜彼らに会います。
@@ -1048,6 +1031,7 @@ Let's eat out tonight.	今夜は外で食べましょう。
 I'm a lock without a key.	鍵のない錠のよう。
 The moon is already up.	月はもう上がっている。
 The wedding was put off.	結婚式は延期された。
+You ought to thank him.	君は彼に感謝すべきだ。
 I take my hat off to you.	君には脱帽するよ。
 Health is better than wealth.	金より体。
 Report to the emergency room.	緊急室へ。
@@ -1106,13 +1090,11 @@ This is a great apartment.	いいアパートね。
 Those photos are hers.	あの写真は彼女のものだ。
 Are you free tomorrow?	あなたは明日お暇ですか。
 It's your turn to sing.	あなたの歌う番ですよ。
-Oh, he eats like a bird.	あいつは小食なんだ。
 This knife cuts well.	このナイフはよく切れます。
 He was learning a poem.	彼は詩を暗記していた。
 The weather is excellent.	あまりにも天気が良い
 It was very comfortable.	とても居心地が良かった
 He has a passion for X.	彼がXに情熱を燃やします
-Even I can't endure it.	自分でも我慢ができない。
 Why don't you leg it?	なんだってずらからねえんだ！
 Give me a ring tomorrow.	明日電話を待ってるよ。
 Tomorrow is another day.	明日は明日の風が吹く。
@@ -1188,7 +1170,6 @@ It's raining cats and dogs.	土砂降りの雨だ。
 The weather turned better.	天気がよくなった。
 Steel is a key industry.	鉄鋼は基幹産業である。
 Can you get it repaired?	直していただけますか。
-I wish I were a bird.	鳥だったらよかったのになぁ。
 Everyone seeks happiness.	誰もが幸福を求める。
 I burnt myself on the leg.	足にやけどをした。
 My legs feel heavy as lead.	足が棒になった。
@@ -1320,7 +1301,6 @@ Are you going to sing?	あなたは歌うつもりですか。
 It will be fine tomorrow.	あすは晴れるだろう。
 The movie K-9 is showing.	Ｋ―９が上映中です。
 Come, Jesus replied.	「来なさい」イエスは言われた。
-"Oh, yes," he answered.	「うんうん」彼は言った。
 He stole money from me.	彼は私からお金を奪った。
 Hanako and I replied.	花子ちゃんとあたしが返事をする
 The newspaper will cover it.	新聞が記事にする
@@ -1397,6 +1377,7 @@ He has a strong personality.	彼は個性が強い。
 He married a rich girl.	彼は金持ちの娘と結婚した。
 He married for money.	彼は金に目がくらんで結婚した。
 He has already had lunch.	彼はもう昼食をとった。
+He visited Nara by bus.	彼はバスで奈良を見物した。
 How he has suffered!	彼はどんなに苦しんだことだろう。
 He is too sensitive.	彼はとても傷つきやすい性格です。
 He has already said yes.	彼はすでに承諾していた。
@@ -1415,7 +1396,6 @@ What is the arrival time?	到着時刻は何時ですか。
 Sadako gave a weak nod.	禎子は弱々しくうなずいた。
 Who destroyed the garden?	庭を荒らしたのは誰だ。
 Do not touch the exhibits.	陳列品に手を出すな。
-Let the bird fly away.	鳥を逃がしてやってください。
 Can we make a lunch date?	昼食を一緒にしないか。
 It's making a great stir.	大変評判になっている。
 Come home early, Bill.	早く帰ってらっしゃい、ビル。
@@ -1446,7 +1426,6 @@ I'm proud of my father.	私は父を誇りに思っている。
 I don't like sad movies.	私は悲しい映画は嫌いだ。
 I wish her happiness.	私は彼女が幸せであってほしい。
 I believe him honest.	私は彼を正直だと信じています。
-I wish I were a bird.	私は鳥であればいいのだがなあ。
 I have already eaten lunch.	私は昼食を食べた。
 I laid myself on the grass.	私は草の上に寝た。
 I arrived there too early.	私は早く着きすぎた。
@@ -1501,6 +1480,7 @@ Hurry up, or we'll be late.	急いで、遅れるわ。
 Survey the landscape below.	眼下の景色を見る。
 Have a nice flight.	楽しい空の旅を、いってらっしゃい。
 School begins tomorrow.	学校は明日から始まります。
+Some medicine does us harm.	害になる薬もある。
 Which way is the beach?	海岸はどちらの方向ですか。
 We stand for democracy.	我々は民主主義を維持する。
 Our team won the game.	我々のチームは試合に勝った。
@@ -1522,7 +1502,6 @@ We make butter from milk.	バターは牛乳から作る。
 Where can I catch a bus?	バス乗り場はどこですか。
 Should I take the bus?	バスに乗った方がいいですか。
 Yes, I like it very much.	はい、とても好きです。
-Yes, Bob helped me.	はい、ボブが手伝ってくれたんです。
 How sad a story this is!	なんと悲しい話でしょう。
 I'm kind of sick today.	なんか今日は気分が悪いな。
 Cut them with a knife.	ナイフでそれらを切りなさい。
@@ -1571,7 +1550,6 @@ Yes, I think it's okay.	ええ、大丈夫だと思います。
 I arrived there too early.	あまりに早く着いた。
 What fools they are!	あいつらはなんとばかなやつらだ。
 He has a smooth tongue.	あいつは口のうまいやつだ。
-I wish I were a bird.	ああ、私は鳥であればよいのに。
 Has Flight 123 arrived?	１２３便は到着しましたか。
 "Aah!" she sighed.	「ああ！」と彼女は溜息をつきました。
 I don't deserve to live.	私には生きる価値がない。
@@ -1611,7 +1589,6 @@ She is far from a fool.	彼女は愚か者どころではない。
 She turned pale with fear.	彼女は恐怖に青ざめた。
 She drank a cup of milk.	彼女はミルクを１杯飲んだ。
 She brushed away the dust.	彼女はほこりを払った。
-She looks so grand.	彼女はとても思いあがっているようだ。
 She paled at the sight.	彼女はその光景に青くなった。
 She is a wonderful woman.	彼女はすばらしい女性だ。
 Her new hat becomes her.	彼女の新しい帽子は似合う。
@@ -1663,14 +1640,12 @@ He left Africa forever.	彼は永久にアフリカを去った。
 He is nothing but a poet.	彼は一介の詩人ではない。
 He is not honest at all.	彼はまったく正直ではない。
 He repeated it again.	彼はもう一度繰りかえして言った。
-He lost sight of the bird.	彼はその鳥を見失った。
 He is always joking.	彼はいつも冗談を言ってばかりいる。
 When did he arrive here?	彼はいつここに着いたのか。
 He has a fear of the knife.	彼は、手術がこわい。
 He declined my proposal.	彼は、私の提案を拒絶した。
 He is twice as old as I.	彼は、私の２倍の年齢です。
 I want him to sing a song.	彼に一曲歌って欲しい。
-He can't endure anymore .	彼にはもう我慢できない。
 I know him to be honest.	彼が正直なのを知っている。
 I doubt if he is honest.	彼が正直か私は疑っている。
 A cat is lying in the sun.	猫が日なたで寝ている。
@@ -1680,7 +1655,6 @@ Do not touch the exhibits.	陳列物に手を触れるな。
 Wisdom is better than riches.	知恵は富に勝る。
 The fat will be in the fire.	大変な事になるよ。
 The sun has nine planets.	太陽は９つの惑星を持つ。
-Not all birds can fly.	全ての鳥が飛べるわけではない。
 Please fill up the front.	前の方に詰めてください。
 I got lost in the snow.	雪の中で道に迷ってしまった。
 It snowed for days on end.	雪が何日も降り続いた。
@@ -1692,7 +1666,6 @@ I don't feel like joking.	冗談を言う気になれない。
 The whole crew was saved.	乗組員全員が救助された。
 When does the movie start?	上映は何時からですか。
 That goes beyond a joke.	笑いごとではすまなくなる。
-The girl let the bird go.	少女は鳥を放してやった。
 Why don't you rest a bit?	少し休んだらどうですか。
 The hot weather turns milk.	暑いとミルクが腐る。
 I read novels at random.	手当たり次第小説を読んだ。
@@ -1751,6 +1724,7 @@ Cash or credit card?	現金ですかクレジットカードですか。
 There is no air on the moon.	月には空気がない。
 You did an excellent job.	君は見事にやってのけた。
 How high can you jump?	君はどのくらい高く跳べますか。
+You ought to have seen it.	君にも見せたかったよ。
 I take my hat off to you!	君にはシャッポを脱ぐよ。
 Air is a mixture of gases.	空気は気体の混合物だ。
 The bridge is being repaired.	橋は修理中です。
@@ -1794,12 +1768,11 @@ Keep the door locked.	ドアに鍵をかけたままにしておけ。
 But, I'm going steady.	でも、わたしには恋人がいるの。
 Jump as high as you can.	できるだけ高く跳びなさい。
 It is really wonderful.	それは本当にすばらしいです。
-It is quite a grand view.	それは実に雄大な眺めだ。
 They are the extreme cases.	それは極端な場合だ。
 What time is it, anyway?	それはそうと、今何時だい。
 The drug acts like magic.	その薬はてきめんに効く。
+The medicine took effect.	その薬の効きめが現れた。
 The day turned out wet.	その日は結局、雨降りだった。
-I can't endure the noise.	その騒音に我慢できない。
 The ship made for the shore.	その船は難破した。
 Fold the paper in four.	その紙を四つ折りにしなさい。
 The dog was burnt to death.	その犬は焼け死んだ。
@@ -1828,9 +1801,9 @@ I prefer coffee to tea.	お茶よりコーヒーが好きです。
 Is the kid still up?	お子さんはまだ起きているのですか。
 Pride goes before a fall.	おごれる者は久しからず。
 Pride comes before a fall.	おごりは破滅に先立つ。
-Oh, you're leaving tomorrow!	えっ、明日発つの。
 Shut up and listen, kid.	うるさい黙って聞きなさい。
 That's Bill all over.	いかにもビルのやりそうなことだ。
+Is there any good medicine?	いい薬はありますか。
 Look at that shooting star.	あの流れ星をごらん。
 That dog has a short tail.	あの犬はしっぽが短い。
 Give me a lift in your car.	あなたを車に乗せる。
@@ -1899,6 +1872,7 @@ She is already married.	彼女はもう既に結婚しています。
 She is a most wise mother.	彼女はとても賢い母親だ。
 She always looks pale.	彼女はいつも青白い顔をしている。
 She always buys milk.	彼女はいつもミルクを買っています。
+She majors in medicine.	彼女はいがくを専攻しています。
 Her hair is turning gray.	彼女の髪は白くなってきた。
 I doubt if he is a lawyer.	彼を弁護士でないと思う。
 They defended their country.	彼らは祖国を守った。
@@ -1956,8 +1930,6 @@ Please let the blind down.	日よけをおろして下さい。
 Virtue is its own reward.	徳はそれ自体が報いである。
 Don't work yourself sick.	働きすぎて体をこわすなよ。
 Tokyo was really wonderful.	東京はすばらしかった。
-You must endure the pain.	痛みに耐えねばなりません。
-Birds are flying in the air.	鳥が空を飛んでいる。
 Lunch will be ready soon.	昼食はまもなくできますよ。
 The lunch is on the table.	昼食の用意ができている。
 There is a cat in the kitchen.	台所に猫がいる。
@@ -1967,13 +1939,13 @@ The snow has just come on.	雪がちょうど降り出した。
 Please reply by return.	折り返しお返事をお願いします。
 The baby is fast asleep.	赤ちゃんはぐっすり寝ている。
 Where is the Customs Service?	税関はどこですか。
+Sleep is better than medicine.	睡眠は薬に勝る。
 Let's breathe the fresh air.	新鮮な空気を吸おう。
 Can we afford a new car?	新車を買う余裕がありますか。
 I said so by way of a joke.	冗談のつもりでいった。
-The boy set a bird free.	少年は、鳥を逃がしてやった。
 We're not a bit too soon.	少しも早すぎることはない。
-We must preserve birds.	小鳥を保護しなければならない。
 We fought hard for victory.	勝利をめざして闘った。
+You ought not to miss it.	出席しなくてはいけないよ。
 The moon is beautiful in fall.	秋は月が美しい。
 Is there any mail for me?	私宛に手紙が来ていますか。
 I live with my parents.	私は両親と一緒に住んでいます。
@@ -2092,7 +2064,6 @@ How's the weather there?	そちらの天気はいかがですか。
 How is the weather there?	そこでの天候はどうですか。
 All people breathe air.	すべての人は空気を吸っている。
 I missed the school bus!	スクールバスがいっちゃった！
-It seems that Jack is sick.	ジャックは病気らしい。
 I hear you have been sick.	ご病気だったそうですね。
 We appreciate your help.	ご援助ありがたくぞんじます。
 Sorry. Traffic was heavy.	ごめん。道が混んじゃって。
@@ -2120,6 +2091,7 @@ It has snowed for two days.	２日間雪が降りました。
 "Don't hurry," he added.	「急ぐな」と彼は言いたした。
 He walked at a quick pace.	彼は速いペースで歩いた。
 I don't deserve to live.	私は生きるに値しない人間だ。
+He observes the current trend.	彼が今の動きを見る
 He actually uses the camera.	彼が実際にカメラを使う
 He writes brief comments.	彼がちょろっとコメントを書く
 Small happiness brings more.	小さな幸せが幸せを呼ぶ
@@ -2218,7 +2190,6 @@ I'd like to call my parents.	親に電話したいのです。
 Put some salt on your meat.	肉に塩を少々かけなさい。
 The train arrived on time.	電車は時間どおりに着いた。
 The weather changed suddenly.	天気が急に変わった。
-The birds flew to the south.	鳥は南へ飛んで行った。
 You're taking a lot for granted.	虫がよすぎる。
 What do you want for lunch?	昼食に何がほしいですか。
 Don't pretend you don't know.	知らぬふりをするな。
@@ -2229,7 +2200,6 @@ The snow lasted four days.	雪は、４日間も降り続いた。
 The baby screamed all night.	赤ん坊は一晩中泣いた。
 Let me wish upon a shooting star.	星に願いを。
 Kobe is famous for its port.	神戸は港で有名である。
-The wood is alive with birds.	森は鳥でにぎやかだ。
 They have much snow in Niigata.	新潟は雪が多い。
 The crew jumped for joy.	乗組員たちは小躍りして喜んだ。
 The car ran along the shore.	車は海岸沿いに走った。
@@ -2256,6 +2226,7 @@ I believe you are honest.	私は君が正直だと信じている。
 Do you take me for a fool?	私は愚か者だと思いますか。
 I'm going to sell my house.	私は家を売るつもりです。
 I am blind in the right eye.	私は右の目が見えない。
+I am majoring in medicine.	私は医学を専攻しています。
 I appreciate good music.	私はよい音楽を正当に評価する。
 I am good friends with Bill.	私はビルと仲良しです。
 I'll send the book by mail.	私はその本を郵送します。
@@ -2297,6 +2268,7 @@ You are made to be a poet.	君は生まれながらの詩人だ。
 You seem to be an honest man.	君は正直者のようだ。
 Clear up your desk a bit.	君は机を少しは片づけなさい。
 You should be more careful.	君はもっと注意すべきだ。
+You ought to do it at once.	君はすぐそれをすべきだ。
 Give me a lift in your car.	君の車に乗せてください。
 I'll give you this camera.	君にこのカメラをあげよう。
 You didn't need to hurry.	君たちは急ぐ必要がなかった。
@@ -2310,8 +2282,6 @@ We have breakfast at seven.	我々は７時に朝食をとる。
 What newspaper do you read?	何新聞をとっていますか。
 I smell something burning.	何かが焦げてる匂いがする。
 You bit the hand that fed you.	恩をあだで返すな。
-I see a bird on the roof.	屋根の上には鳥が一羽みえる。
-We saw a bird in the distance.	遠くに鳥が見えた。
 I'll be with you forever.	永遠にあなたと一緒にいます。
 Has the movie started yet?	映画はもう始まりましたか。
 A cloud passed across the moon.	雲が月を過った。
@@ -2364,7 +2334,6 @@ And my hands were shaking.	そして手が震えていました。
 I arrived there too early.	そこに私は早く着きすぎた。
 That's not my favorite topic.	そういう話は苦手だ。
 Everything is on schedule.	すべて予定通り進んでいる。
-Not all birds can fly.	すべての鳥が飛べるとはかぎらない。
 Not all men are wise.	すべての人がかしこいとはかぎらない。
 I'm satisfied with everything.	すべてに満足です。
 George married my sister.	ジョージは私の妹と結婚した。
@@ -2372,7 +2341,6 @@ What a sad story this is!	これはなんと悲しい話だろう。
 This is superior to that.	これはあれよりも優れている。
 Sorry. It's all my fault.	ごめんなさい。私のせいです。
 This hat doesn't fit me.	この帽子は私には似合いません。
-What do you call this bird?	この鳥を何と呼びますか。
 This car needs repairing.	この車は修理する必要がある。
 Don't let this chance slip by.	この好機を逃すな。
 This classroom is cleaned.	この教室はきれいにされる。
@@ -2381,10 +2349,10 @@ Carlos climbed the mountain.	カルロスは山を登った。
 It is wrong to steal money.	お金を盗むのは良くない。
 I met him by happy accident.	いい具合に彼に会った。
 Don't drink any alcohol.	アルコール類は控えてください。
-Look at that flying bird.	あの飛んでいる鳥を見なさい。
 How high is that tower?	あの塔はどのくらいの高さですか。
 That shop has many customers.	あの店はお客が多い。
 That movie was shown on TV.	あの映画はテレビでした。
+You ought not to go out.	あなたは出かけるべきではない。
 You are my pride and joy.	あなたは私の自慢の宝物です。
 You can watch television.	あなたはテレビを見ていいよ。
 I agree to your proposal.	あなたの申し出に同意します。
@@ -2395,6 +2363,7 @@ I will stay home tomorrow.	あしたは家に居るつもりだ。
 We had a late lunch at two.	２時に遅い昼食をとった。
 Get on the bus one by one.	１人ずつバスに乗りなさい。
 I owe what I am to my mother.	私は母に借りがある。
+Have you taken your medicine yet?	お薬飲んだ？
 "Really?" "Yes, really."	「本当？」「はい、本当です。」
 Select action for Chris.	クリスの行動を選択して下さい。
 It's six degrees below zero.	気温は氷点下6度です。
@@ -2416,7 +2385,7 @@ My parents had me go there.	両親は私にそこへ行かせた。
 You should take liquid food.	流動食を取ってください。
 The storm stopped the train.	嵐のため列車は止まった。
 Desire is embraced in a dream.	欲望は夢に抱かれる。
-I am watching wild birds.	野鳥を観察しているところです。
+The medicine had no effect.	薬がまったく効かなかった。
 The eye is the mirror of the soul.	目は心の鏡。
 The eye is sensitive to light.	目は光に敏感である。
 See you tomorrow at the library.	明日図書館でね。
@@ -2445,6 +2414,7 @@ She married Tom last month.	彼女は先月トムと結婚した。
 She didn't marry the man.	彼女はその男と結婚しなかった。
 How long has she been sick?	彼女はいつから病気ですか。
 I will be able to marry her.	彼女と結婚できるだろう。
+You ought not to believe him.	彼を信じるべきでない。
 They let her marry him.	彼らは彼女を彼と結婚させてやった。
 They won by force of numbers.	彼らは数の力で勝った。
 They refused to help us.	彼らは我々を援助するのを拒んだ。
@@ -2492,10 +2462,10 @@ He is related to the family.	彼はその一族に縁がある。
 He married a pretty girl.	彼はきれいな女の子と結婚した。
 He married a pretty girl.	彼はかわいい女の子と結婚した。
 He struck me in a passion.	彼はかっとなって私を殴った。
+He starts for Nara tomorrow.	彼はあす奈良に出発する。
 He finished school in March.	彼は３月に学校を終えた。
 Waves are beating the shore.	波が浜に打ち寄せている。
 Heat expands most things.	熱はたいていの物を膨張させる。
-The cat sprang at the bird.	猫は鳥めがけて飛び跳ねた。
 Cats can see in the dark.	猫は暗いところでも目が見える。
 The cat slept on the table.	猫はテーブルの上で眠った。
 The cat prefers fish to meat.	猫は、肉より魚を好む。
@@ -2508,8 +2478,6 @@ What was the weather report?	天気予報はどうでしたか。
 Iron and oxygen are elements.	鉄や酸素は元素である。
 My brother watches television.	弟はテレビを見ます。
 He ran out into traffic.	通りに飛び出してしまったのです。
-The birds are flying around.	鳥がとびまわっています。
-A bird was caught by a cat.	鳥が１羽猫に捕まえられた。
 Move into the bus, please!	バスの中ほどへ詰めて下さい。
 No one is free from faults.	誰も欠点のない人はいない。
 A big tree fell in the storm.	大きな木が嵐で倒れた。
@@ -2524,6 +2492,7 @@ The snow is falling fast.	雪がひっきりなしに降っている。
 The baby was fast asleep.	赤ん坊はぐっすりと眠っていた。
 The blame rests with the cook.	責任はコックにある。
 Stars can be seen at night.	星は夜に見ることが出来る。
+It's the trend that counts.	世の中の動きが問題ですね。
 People differ in habits.	人にはそれぞれ違った習慣がある。
 He cleared the path of snow.	小道から雪を取り除いた。
 A stream flows into the lake.	小川が湖に注いでいる。
@@ -2568,6 +2537,7 @@ We all wish for happiness.	私たちはみんなの幸福を願う。
 We got on the bus there.	私たちはそこでバスに乗りました。
 Sing us a song, please.	私たちに歌を歌って聞かせて下さい。
 We have run out of sugar.	私たちには砂糖が不足している。
+I ought to ask, oughtn't I?	私が依頼すべきでしょうね。
 The top of the hill was bare.	山頂には木がなかった。
 This is a comfortable chair.	座り心地の良い椅子です。
 How much sugar do you use?	砂糖はどれぐらい使いますか。
@@ -2600,6 +2570,7 @@ How about going to a movie?	映画に行くのはどうですか。
 How about going to the movies?	映画に行きませんか。
 Please give me a cup of milk.	一杯のミルクを下さい。
 I will bite just a little bit.	一口で食べてみよう。
+You ought to see a doctor.	医者にみてもらうべきですよ。
 I prefer tea to coffee.	わたしはコーヒーよりも茶をこのむ。
 I'd think twice about this.	もう一度よく考えてみたら。
 Meg is preparing breakfast.	メグは朝食を作っています。
@@ -2643,7 +2614,6 @@ The picture was wonderful.	その絵は素晴らしかったです。
 This movie is worth seeing.	その映画は見る価値がある。
 The blow made me see stars.	その一撃で目から火が出た。
 Fill the bottle with water.	そのびんに水を詰めなさい。
-Not every bird can sing.	すべての鳥が歌えるとは限らない。
 Please write me a reply soon.	すぐに返信をください。
 Should I fill it in now?	すぐに書かなければなりませんか。
 John passed the examination.	ジョンは試験に合格した。
@@ -2685,10 +2655,10 @@ I have to buy one tomorrow.	あす買わなければならない。
 I hope it'll be fine tomorrow.	あすは天気だと思う。
 Look! There goes a shooting star.	あ、流れ星だ！
 Take three steps and jump.	３歩歩いてジャンプしなさい。
-A bird flew into the tree.	１羽の鳥が木に飛んでいった。
 Bill was killed by that man.	ビルはあの男に殺された。
 He forgot to lock the door.	彼はドアを閉め忘れました。
 It's six degrees below zero.	気温はマイナス6度です。
+The medicine has side effects.	薬には副作用が有ります
 He had a good impression on X.	彼がXに好印象を持った
 They got a golden opportunity.	彼らが絶好の機会を得た
 He will buy it by mail order.	彼がそれを通販で購入する
@@ -2699,12 +2669,13 @@ An old woman was burnt to death.	老婆が焼け死んだ。
 The train was delayed by snow.	列車は雪のため遅れた。
 The exception proves the rule.	例外は原則のある証拠。
 He can pull strings for you.	裏から手を回してくれるよ。
+Where can I get the medicine?	薬はどこで貰うんですか。
+You ought to keep your promise.	約束は守るべきです。
 Don't fail to call me tomorrow.	明日必ず電話してね。
 It will be fine tomorrow, too.	明日も晴れるでしょう。
 I'll come here again tomorrow.	明日もう一度参ります。
 Tomorrow I am going shopping.	明日は買い物に行きます。
 It seems it'll rain tomorrow.	明日は雨になるでしょう。
-Tomorrow morning will be OK.	明日の朝なら空いています。
 I see him tomorrow afternoon.	明日の午後彼に会います。
 How do you spell your name?	名前の綴りを言ってください。
 My daughter is barely fifteen.	娘はやっと１５歳です。
@@ -2878,7 +2849,6 @@ We need not have hurried.	私たちは急ぐ必要はなかったのに。
 We kept the fire burning.	私たちは火をずっとたいておいた。
 We're going to the movies.	私たちは映画に行くところです。
 Our house faces the beach.	私たちの家は海岸に面している。
-I wish I had been a bird.	私が鳥だったらよかったのになあ。
 Children filled the room.	子供で部屋中がいっぱいになった。
 My car was stolen last night.	昨晩、私の車が盗まれた。
 My wife is subject to moods.	妻は気分に支配されやすい。
@@ -2927,6 +2897,7 @@ I like going to the movies.	映画を見に行くのが好きです。
 I'm going to go to the movies.	映画に行くつもりです。
 A cat ran across the street.	一匹の猫が通りを横切った。
 I'll give you a piece of advice.	一言忠告をします。
+You ought to see a doctor.	医者に見てもらったほうがいい。
 The race was a photo finish.	レースは写真判定となった。
 Please turn down the radio.	ラジオの音を低くして下さい。
 Speak more quietly, please.	もっと静かに話してください。
@@ -2944,7 +2915,6 @@ A button came off my coat.	ボタンが１個コートから取れた。
 Betty arrived the latest.	ベティはいちばん遅れて来ました。
 Bill dealt Tom a sudden blow.	ビルは突然トムを殴った。
 Bill often goes to the park.	ビルはよくその公園へ行く。
-Bill is not as tall as Bob.	ビルはボブほど背が高くない。
 Bill turned on the television.	ビルはテレビをつけた。
 Bill called me last night.	ビルがゆうべ私に電話してきた。
 The bus was about to start.	バスは発車するところだった。
@@ -2965,6 +2935,7 @@ Show me the photos, please.	それらの写真を見せて下さい。
 It's a fact you can't deny.	それは紛れもない事実である。
 It is just your imagination.	それは君の思い過ごしだよ。
 It is characteristic of him.	それは、いかにも彼らしい。
+The medicine saved her life.	その薬が彼女の命を救った。
 I'll send the book by mail.	その本を郵便でお送りします。
 The hat fits her perfectly.	その帽子は彼女にぴったりだ。
 The ice is too hard to crack.	その氷は硬くて割れない。
@@ -2975,7 +2946,6 @@ The ship made for the shore.	その船は海岸の方へ進んだ。
 The baby was fast asleep.	その赤ん坊はぐっすり眠っていた。
 The dog didn't eat the meat.	その犬は肉を食べなかった。
 The house was destroyed by fire.	その家は焼失した。
-Birds flew away at the sound.	その音で鳥は飛び去った。
 The idea is typical of him.	その意見はいかにも彼らしい。
 Who coaches the team?	そのチームは誰がコーチしているのですか。
 There is no denying the fact.	そのことは否定できない。
@@ -3008,7 +2978,6 @@ Let's cut down our expenses.	うちの経費を切りつめよう。
 Don't tell a lie. Be honest.	うそをつくな、正直であれ。
 You have a good camera.	あんたはよいカメラを持っていますね。
 Is that a bus or a car?	あれはバスですか、それとも車ですか。
-Some kinds of birds can't fly.	ある種の鳥は飛べない。
 He makes a bad impression.	あの人はどうもイメージが悪い。
 That novel was widely read.	あの小説は広く読まれました。
 How did you like that movie?	あの映画はいかがでしたか。
@@ -3028,7 +2997,6 @@ He appeals the necessity of X.	彼がXの必要性を訴えます
 X will be selected by the person.	Xを本人が選択する
 He is always careful about X.	彼がXにいつも気を遣います
 It's absolutely impossible for me.	私には絶対無理だ
-Is this bread's best-by OK?	このパンって賞味期限大丈夫か？
 Traffic accidents happen daily.	連日交通事故が起きる。
 It may snow in the evening.	夕方には雪がふるかもしれない。
 It snowed a good deal last night.	夕べ大雪が降った。
@@ -3117,7 +3085,6 @@ He has just become a principal.	彼は校長になり立てだ。
 He's somewhere about the park.	彼は公園のどこかにいる。
 He met with a traffic accident.	彼は交通事故に遭った。
 He was wounded in the shoulder.	彼は肩を負傷していた。
-He is a great lover of music.	彼は音楽がとっても好きだ。
 He is a member of the committee.	彼は委員会の委員だ。
 He is leading a life of ease.	彼は安楽な生活をしている。
 He fell among bad companions.	彼は悪い仲間につかまった。
@@ -3140,7 +3107,6 @@ He was naturally very angry.	彼がとても怒ったのは当然だ。
 It is odd that he is so late.	彼がこんなに遅いのは変だ。
 The crops are up to the average.	農作物は平年並みだ。
 Do you deliver on Sundays?	日曜日に配達していただけますか。
-Japan is to the east of China.	日本は中国の東方にある。
 They both are wearing a hat.	二人とも帽子をかぶっている。
 The road was wet from the rain.	道路は雨でぬれていた。
 Hand in your examination papers.	答案を提出しなさい。
@@ -3149,7 +3115,6 @@ He deserves to be promoted.	当然彼は昇進させられるべきだ。
 When will we arrive in Tokyo?	東京には何時に着きますか。
 Does it snow much in winter?	冬に雪がたくさん降りますか。
 We had a long wait for the bus.	長いことバスを待った。
-Birds sing early in the morning.	朝早くに、鳥が歌う。
 You had better have breakfast.	朝食を食べるほうがよい。
 Have you eaten breakfast yet?	朝食はもう済ませましたか。
 What did you have for breakfast?	朝食は何を食べたの？
@@ -3212,13 +3177,14 @@ I thought him very honest.	私は、彼をとても正直だと思った。
 I rarely touch coffee.	私は、コーヒーを飲むことはめったに無い。
 My bedroom is just above.	私の寝室はちょうどこのま上にある。
 My watch needs to be repaired.	私の時計は修理が必要だ。
+We ought to help each other.	私たちは助け合うべきである。
 We came in view of the lake.	私たちは湖の見える所に来た。
+We ought to leave now.	私たちはもうおいとましなければならない。
 We will be together forever.	私たちはいつまでも一緒です。
 I'll give him a piece of advice.	私が彼に忠告しよう。
 I owe my success to you.	私が成功したのはあなたのおかげです。
 Kids can be kids.	子供が子供でいられる、子供が子供らしく振る舞える。
 The sands are running out.	残り時間があまりなくなってきた。
-Oh, you're going home tonight!	今夜帰省されるのですね。
 Please take me home tonight.	今夜は家につれていってくれ。
 Can you put me up tonight?	今夜お宅に泊めてもらえませんか。
 Let's have a few drinks tonight.	今晩少し飲まないか。
@@ -3250,7 +3216,6 @@ The hill lay covered with snow.	丘は雪に覆われていた。
 Nurses attend to sick people.	看護婦は病人の世話をする。
 We voted against the bill.	我々はその議案に反対投票をした。
 We seemed secure of victory.	我々の勝利は確実と思われた。
-Some of the birds didn't fly.	何羽かの鳥は飛ばなかった。
 We saw the tower in the distance.	遠くに塔が見えた。
 How about going to the movies?	映画を見に行きませんか。
 Let's stop off and see a movie.	映画でも見ていこうか。
@@ -3279,7 +3244,6 @@ Yes, that's the right answer.	はいそれが正しい答えです。
 Yes, he has already written it.	はい、もう書きました。
 Yes, it has already started.	はい、すでに始まっています。
 The cat listened to its steps.	ネコはその足音を聞いた。
-What a beautiful bird it is!	なんてきれいな鳥なんだろう。
 What's your impression, doctor?	どんな感じですか先生？
 Tom will go there tomorrow.	トムは明日そこへ行くでしょう。
 As Tom is honest, I like him.	トムは正直者なので好きだ。
@@ -3292,7 +3256,6 @@ Dick had a traffic accident.	ディックは交通事故に遭った。
 Just then, the bus stopped.	ちょうどその時バスが止まった。
 I'll be damned if it's true.	そんなことが本当でたまるか。
 Please bring it back tomorrow.	それを明日返して下さい。
-That is no fault of Jack's.	それはジャックのせいではない。
 People don't say that anymore.	それって死語じゃないの。
 That animal feeds on flesh.	その動物は肉を常食としている。
 She turned pale at the news.	その知らせに彼女は青ざめた。
@@ -3305,6 +3268,7 @@ The bridge is closed to traffic.	その橋は通行禁止だ。
 Let's sing the English song.	その英語の歌を歌いましょう。
 Make that a shared folder.	そのフォルダ、共有にしておいて。
 Who coaches the team?	そのチームは誰がコーチをしているのですか。
+Ought I to tell it to him?	そのことを彼に言うべきだろうか。
 I wish we had won the game.	そのゲームに勝っていればなあ。
 I saw a wonderful fall there.	そこですばらしい滝を見た。
 Do come and see us tomorrow.	ぜひ明日遊びにきてください。
@@ -3317,6 +3281,7 @@ Can you cash these for me?	これを現金に換えてもらえますか。
 This is a very rare case.	これは大変まれにしかないケースだ。
 This was an executive decision.	これは経営者の決定だ。
 This is a surprising discovery.	これは驚くべき発見だ。
+This medicine will help you.	この薬はあなたのためになる。
 This book sold well in Japan.	この本は日本でよく売れた。
 This meat can be preserved long.	この肉は保存がきく。
 Snow fell early this winter.	この冬は雪が早くから降った。
@@ -3346,7 +3311,6 @@ Your effort deserves praise.	あなたの努力は賞賛に値する。
 What's your favorite food?	あなたの好きな食べ物は何ですか。
 Thank you for your advice.	アドバイスありがとうございます。
 I'll be free all day tomorrow.	あしたは一日中ひまです。
-A bird was flying in the sky.	１羽の鳥が空を飛んでいた。
 Ten houses were burned down.	１０軒の家がすっかり燃えた。
 Count from 10 down to zero.	１０から０まで逆に数えなさい。
 This watch is shock-proof.	この時計は強い衝撃にも堪えます。
@@ -3359,6 +3323,7 @@ I got a Japanese impression.	私は日本的なイメージを受けます
 There is no cash at all on hand.	手元には現金が全く無い
 I really find happiness in X.	私はXにしみじみ幸せを感じる
 Be sure to fill in your name.	必ず自分の名前を入れましょう
+Don't take the medicine immediately.	すぐ薬を飲むな
 She gives off that impression.	彼女がそんな感じに見えます
 He eats lunch at a restaurant.	彼がレストランで昼食をとる
 It's much gentler to the skin.	そのほうが、肌にはやさしい
@@ -3477,7 +3442,6 @@ I wonder if the weather will hold.	天気は持つかなあ。
 The weather varies quite often.	天気が非常によく変わる。
 The garden is bare and brown.	庭は木の葉が落ちてとび色だ。
 I see your cat in the garden.	庭にあなたのネコが見えます。
-Birds fly south in winter.	鳥は冬になると南へ飛んでいきます。
 What did you eat for breakfast?	朝食に何をとりましたか。
 Do you have any advice for me?	注意することはありますか。
 The earth is one of the planets.	地球は惑星の１つです。
@@ -3507,7 +3471,6 @@ I'm very proud of my father.	私は父を大変誇りに思っている。
 I usually go to school by bus.	私は普段バスで通学します。
 I've climbed Mt. Fuji twice.	富士山に２度登ったことがある。
 I took care of my sick sister.	私は病気の姉をいたわった。
-I am a lover of the beautiful.	私は美を愛する人間である。
 I was more angry than sad.	私は悲しいというよりは腹が立った。
 I can't find fault with him.	私は彼を責めることは出来ない。
 I thought that he was honest.	私は彼を正直だと思っていた。
@@ -3525,12 +3488,12 @@ I can run as fast as Bill.	私はビルと同じくらい速く走れます。
 I sat in the front of the bus.	私はバスの前の席に座った。
 I feel sad every now and then.	私はときどき悲しく感じる。
 I have just eaten lunch.	私はちょうど昼食を食べ終えたところだ。
-I threw a stone at the bird.	私はその鳥めがけて石を投げた。
 I found the broken camera.	私はこわれたカメラを見つけました。
 I have just arrived here.	私はここにちょうど着いたばかりです。
 I take you for an honest man.	私はあなたを正直な人と思う。
 I've been to Paris twice.	私は2度パリに行ったことがあります。
 My hat is bigger than Jim's.	私の帽子は、ジムのより大きい。
+My father practices medicine.	私の父は医者を開業している。
 I owe my success to your help.	私の成功は君のおかげです。
 There are no faults on my part.	私のほうに落ち度はない。
 My camera loads easily.	私のカメラは簡単にフィルムを入れられる。
@@ -3554,7 +3517,6 @@ I locked myself out.	鍵を部屋においたままドアをしめてしまい�
 A cat contrasts with a dog well.	犬と猫は対照的である。
 The moon is behind the clouds.	月は雲の陰に隠れています。
 Marriage proposals flooded in.	結婚の申し込みが殺到した。
-Oh that I had never married.	結婚なんてしなければよかった。
 Keiko is proud of her family.	啓子さんは家族がご自慢です。
 You remind me of my mother.	君をみていると母さんを思い出す。
 You are too sensitive to noise.	君は騒音に神経質すぎる。
@@ -3592,7 +3554,6 @@ Betty managed to sing well.	ベティはうまく歌うことができた。
 Bill really drinks like a fish.	ビルは本当に飲んべえだ。
 Bill brought me the book.	ビルは私にその本を持ってきてくれた。
 Bill kept on crying for hours.	ビルは何時間も泣き続けた。
-Bill can run faster than Bob.	ビルはボブより速く走れます。
 That last comment was pushing it.	ひとこと多いんだよ。
 The bus leaves in five minutes.	バスは五分後に発車です。
 Will you go to Tokyo by bus?	バスで東京に行くつもりですか。
@@ -3615,6 +3576,8 @@ Don't give me such a sad look.	そんな悲しい目で見ないで。
 It is absolutely impossible.	そんなことは絶対に不可能です。
 That was no ordinary storm.	それはとても並の嵐ではなかった。
 It's a wonderful work of art.	それはすばらしい美術品です。
+That medicine worked well for me.	その薬はよく効いた。
+Does the medicine act quickly?	その薬はすぐに効きますか。
 The lawyer spoke on and on.	その弁護士はどんどん話を続けた。
 Fill the bottle with water.	その瓶を水でいっぱいにしなさい。
 I was surprised at the discovery.	その発見には驚いた。
@@ -3623,7 +3586,6 @@ The meat is smooth and soft.	その肉はすべすべして柔らかい。
 The tower was easy of access.	その塔には近づきやすかった。
 They sell sugar at the store.	その店では砂糖を売っている。
 The proposal came up last week.	その提案は先週だされた。
-Is the bird alive or dead?	その鳥は生きてますか死んでますか。
 The man connected two wires.	その男は二本の電線を連結した。
 The man connected two wires.	その男は２本の電線をつないだ。
 The girl brushed past me.	その少女は私の側をさっと通り過ぎた。
@@ -3642,6 +3604,8 @@ George hit him in the stomach.	ジョージは彼の腹を殴った。
 Could you press this button?	シャッターを押してくれますか。
 Can you cash these for me?	これを現金に換えていただけますか。
 This reminds me of home.	これを見ると私は故郷のことを思い出す。
+Must I take this medicine?	この薬を飲まなければ行けませんか。
+This medicine will do you good!	この薬はよく効きますよ。
 This hat is too small for me.	この帽子は私には小さすぎる。
 This line is parallel to that.	この線はあの線に平行です。
 This check was not honored.	この小切手は不渡りになりました。
@@ -3745,6 +3709,7 @@ She cared for her sick mother.	彼女は病気の母の看病をした。
 She cared for her sick father.	彼女は病気の父の世話をした。
 She sang with a beautiful voice.	彼女は美しい声で歌った。
 She sang to her heart's content.	彼女は心行くまで歌った。
+She ought to take a little rest.	彼女は少し休むべきです。
 She turned down our proposal.	彼女は私たちの提案を拒絶した。
 She mistook the sugar for salt.	彼女は砂糖を塩と間違えた。
 She is appearing on TV tonight.	彼女は今晩テレビに出ます。
@@ -3780,7 +3745,6 @@ Poverty drove him to steal.	彼は貧しいために盗みをはたらいた。
 He handed her up into the bus.	彼は彼女をバスに助けあげた。
 He gave her a piece of advice.	彼は彼女に一言忠告を与えた。
 He is a distant relation of hers.	彼は彼女の遠い親戚だ。
-He studied the flight of birds.	彼は鳥の飛び方を研究した。
 He has gone out for lunch already.	彼は昼食に出かけた。
 He replied that he did not know.	彼は知りませんと答えた。
 He said it merely as a joke.	彼は単に冗談としてそれを言った。
@@ -3801,6 +3765,8 @@ He is anything but a gentleman.	彼は決して紳士的ではない。
 He is anything but a poet.	彼は決して詩人などと言う者ではない。
 He has a passion for fishing.	彼は魚つりに情熱をもっている。
 He was burning to go home.	彼は家に帰りたくてむずむずしていた。
+He ought to have come by now.	彼はもう来てもいいはずなのに。
+He ought to have come by now.	彼はもうきていてもいいはずだ。
 He was not at all satisfied.	彼はまったく満足していなかった。
 He filled the bottle with water.	彼はビンに水を満たした。
 He may have missed the bus.	彼はバスに乗り遅れたかもしれない。
@@ -3851,7 +3817,6 @@ It's healthy to breathe deeply.	深呼吸するのは健康に良い。
 Bring me the newspaper, please.	新聞を持って来てください。
 Let me give you a bit of advice.	少し忠告したい事がある。
 Women are always buying hats.	女って帽子を買ってばかりいる。
-Let's endure till help comes.	助けが来るまで持ちこたえよう。
 Each country has its own customs.	所変われば、品変わる。
 The letter will arrive tomorrow.	手紙は明日着くでしょう。
 Letters are delivered every day.	手紙は毎日配達されます。
@@ -3876,6 +3841,7 @@ I have a dog and two cats.	私は犬を１匹と猫を２匹飼っています�
 I write poems in my free time.	私は暇な時間に詩を書きます。
 I married him against my will.	私は意に反して彼と結婚した。
 I like to listen to the radio.	ラジオを聴くのが好きなんだ。
+I was forced to take medicine.	私はやむなく薬をのまされた。
 I have already had my breakfast.	私はもう朝食を済ませた。
 I was involved in the trouble.	私はトラブルに巻き込まれた。
 I don't belong to any club.	私はどのクラブにも所属していない。
@@ -3896,7 +3862,6 @@ We lock our doors at night.	私たちは夜にはドアに鍵をかけます。
 We had to depend on trade.	私たちは貿易に頼らなければなかった。
 We agreed to her suggestions.	私たちは彼女の提案に同意した。
 We were supplied with uniforms.	私たちは制服を支給された。
-We can hear the bird sing.	私たちは小鳥のさえずりが聞こえます。
 We hurried to catch the bus.	私たちはバスに乗るために急いだ。
 We ate breakfast at seven.	私たちは７時にちょうしょくをとった。
 If I am a fool, you are another.	私が馬鹿なら君もそうだ。
@@ -3949,6 +3914,7 @@ There is no limit to the universe.	宇宙には限りはない。
 Let me give you a piece of advice.	一言苦言を呈したい。
 One word is enough for a wise man.	一を聞いて十を知る。
 Do you have medical insurance?	医療保険には入っていますか。
+The doctor gave him the medicine.	医者は彼に薬を与えた。
 The committee passed the bill.	委員会はその議案を可決した。
 A form appeared in the darkness.	暗闇の中に人影が見えた。
 We import tea from India.	わが国はインドから紅茶を輸入している。
@@ -3957,10 +3923,8 @@ We don't have any more bread.	もうこれ以上パンはありません。
 I want to climb Mt. Fuji again.	もう一度富士山に登りたい。
 Mary burst into the kitchen.	メアリーは台所へ飛び込んできた。
 Mary closed the door quietly.	メアリーはドアを静かに閉めた。
-Bob rushed into the classroom.	ボブは教室にかけこんできた。
 There are buttons on the coat.	ボタンがコートに付いている。
 I have push button phones.	プッシュホンの電話機を持っています。
-Bill is as tall as Jack.	ビルは、ジャックと同じくらいの身長です。
 I've caught a terrible cold.	ひどい風邪を引いてしまいました。
 Bread and milk are good foods.	パンやミルクはよい食べ物だ。
 I'd rather walk than take a bus.	バスよりむしろ歩きたい。
@@ -4015,6 +3979,7 @@ Shakespeare is a great poet.	シェイクスピアは偉大な詩人です。
 Columbus discovered America.	コロンブスはアメリカを発見した。
 Send this by special delivery.	これを速達で出してください。
 This done, we had lunch.	これがすんでから、われわれは昼食をした。
+This medicine will do you good.	この薬は君には効くだろう。
 This book is not sold here.	この本はここでは売られていません。
 This hat is too big for you.	この帽子はあなたには大きすぎる。
 Is this plane on schedule?	この飛行機はスケジュール通りですか。
@@ -4095,6 +4060,7 @@ I remember locking the door.	僕はドアに鍵をかけた覚えがあるよ。
 I would like to have this camera.	僕はこのカメラが欲しい。
 Mother prepared lunch for me.	母は私に昼食の準備をしてくれた。
 Try to write in plain English.	平易英語で書くようにしなさい。
+Prices ought to come down soon.	物価はまもなく下がるはずだ。
 I'm not sure I can afford it.	払えるかどうか分からないざます。
 The wind is blowing from the west.	風は西から吹いている。
 The wind is blowing from the east.	風は東から吹いている。
@@ -4213,7 +4179,6 @@ The weather varies with seasons.	天候は季節によって変わる。
 I guess it depends on the weather.	天気次第だと私は思う。
 We are sorry about the bad weather.	天気が悪くて残念だ。
 The pain shoots into my right leg.	痛みが右脚に走ります。
-Birds are flying above the trees.	鳥が木の上を飛んでいる。
 How about going out for lunch?	昼ご飯を食べに外に出ませんか。
 Tea is widely grown in India.	茶はインドで広く栽培されている。
 Slow and steady wins the race.	遅くとも着実なのが競争に勝つ。
@@ -4310,13 +4275,11 @@ Which club do you belong to?	君はどのクラブに所属していますか。
 Your eyes remind me of stars.	君の眼は、私に星を思い出させる。
 I have absolute trust in you.	君のことは完全に信用しています。
 Let me give you a bit of advice.	君に一つ忠告しておきたい。
-The express arrives at 6:30 p.m.	急行は午後６時３０分着だ。
 Hurry up, or you'll be late.	急ぎなさい、さもないと遅れますよ。
 The hat on the desk is Chama's.	机の上の帽子は、茶魔のです。
 The bill must be paid today.	勘定は今日支払わなければならない。
 There was a violent storm at sea.	海上では激しい嵐だった。
 Recovery was almost impossible.	回復はほとんど不可能だった。
-We are lovers of the beautiful.	我々は美を愛する人間である。
 I don't know where we'll arrive.	何処に着くかも分からない。
 The music gradually died away.	音は静まり次第に消えて行った。
 Yokohama is a beautiful port town.	横浜は美しい港町です。
@@ -4331,6 +4294,7 @@ I sold off all my records.	レコードは全部売り払ってしまったん�
 Fill it with regular, please.	レギュラー満タンでお願いします。
 Slow and steady wins the race.	ゆっくりと着実なのが結局勝つ。
 Tell me the more exact time.	もっと正確な時間を教えてください。
+You ought to eat more slowly.	もっとゆっくり食べた方がいいよ。
 I'd like some more bread, please.	もう少しパンをください。
 Could you repeat that, please?	もう一度言ってくださいますか。
 I will give you five days' grace.	もう５日間待ちましょう。
@@ -4359,7 +4323,6 @@ At last, the bus company gave in.	ついにバス会社が折れた。
 Let me give you some advice.	ちょっとアドバイスさせてください。
 Who is to blame for the failure?	だれにその責任があるのか。
 I only just saw the accident.	たった今その事故を見たばかりだ。
-Many birds are on the branch.	たくさんの鳥が枝にとまっている。
 That is a custom proper to Japan.	それは日本固有の習慣だ。
 I just meant it as a joke.	それはほんの冗談のつもりで言ったんだ。
 It was all covered with dust.	それはすっかり埃で覆われていた。
@@ -4374,7 +4337,6 @@ The proposal met with opposition.	その提案は反対を受けた。
 The district is short of water.	その地域は水が不足している。
 The man is anything but honest.	その男は決して誠実ではない。
 The man lay asleep all day long.	その男は一日中眠っていた。
-The people don't like the birds.	その人々は鳥が嫌いである。
 The boy made a fool of himself.	その少年は馬鹿なまねをした。
 The boy makes a fool of adults.	その少年は大人をばかにする。
 The letter was written by Bill.	その手紙はビルが書きました。
@@ -4399,13 +4361,13 @@ Yes, she'll be with you in a minute.	すぐに行かせます。
 The school bus could not run.	スクールバスが走れませんでした。
 Susan is two years my senior.	スーザンはわたしより２つ年上だ。
 John is admitted to be a fool.	ジョンは馬鹿だと思われている。
-Jack is wise beyond all others.	ジャックは他の誰よりも賢い。
 But human beings are different.	しかし、人間はちがっている。
 This isn't your hat, is it?	これはあなたの帽子ではありませんね。
 Is this your favorite song?	これはあなたのお気に入りの曲ですか。
 I have mixed feelings about this.	これには複雑な気持ちだ。
 Please fill out this form.	この用紙に必須事項を記入してください。
 Take this medicine twice a day.	この薬を１日２回飲みなさい。
+This medicine is good for a cold.	この薬は風邪に効きます。
 This story is founded on fact.	この物語は事実に基づいている。
 The current of this river is rapid.	この川の流れは急だ。
 Please fill out this form.	この書類に必要事項を書き込んで下さい。
@@ -4434,17 +4396,16 @@ How long has it been snowing?	いつから雪が降っているのですか。
 You should have seen the movie.	あの映画は見るべきだったね。
 I want you to meet my parents.	あなたを私の両親に紹介したい。
 I did not want to alarm you.	あなたを驚かせたくなかったのです。
+He said that you ought to go.	あなたは行くべきだと彼は言った。
 I am delighted at your success.	あなたの成功を喜んでいます。
 It is a privilege to meet you.	あなたにお会いできて光栄です。
 I feel ill at ease with her.	あたしは彼女といると落ち着かない。
 I burned my hand with an iron.	アイロンで手をやけどしました。
 That guy really burns me up.	あいつは、まったく頭にくるやつだ。
-Oh, just fill out this form.	あぁ、この用紙に書き込むだけです。
 It'll arrive in Chicago at 6:30.	６時半にシカゴに着きます。
 A yard is equal to three feet.	１ヤードは３フィートに等しい。
 Will you honor this check?	この小切手で支払いを認めてくれますか。
 The cat is sleeping on the chair.	猫は椅子の上で寝ている。
-Make it a normal packed lunch, OK?	普通のお弁当にしてね。
 He shares living expenses with me.	彼が私と生計を一にします
 The lighting creates an atmosphere.	照明が雰囲気を出します
 We rely on him heavily for X.	Xについては彼に頼るところが大きい
@@ -4468,7 +4429,6 @@ In short, he was too honest.	要するに、彼はあまりにも正直すぎた
 All the seats are sold in advance.	予約は全て前売りである。
 The schedule must be maintained.	予定は守らなければならない。
 The budget passed the Upper House.	予算案は上院を通過した。
-We are traveling on a tight budget.	予算が限られています。
 Speech is silver, silence is golden.	雄弁は銀、沈黙は金。
 The mail is delivered once a day.	郵便は１日１回配達される。
 We rarely come across big names.	有名人と偶然会うのは珍しい。
@@ -4499,7 +4459,6 @@ She is a reflection of her mother.	彼女は母親にそっくりだ。
 She will get married to a rich man.	彼女は富豪と結婚する。
 She brushed her husband's hat.	彼女は夫の帽子にブラシをかけた。
 She sat down and crossed her legs.	彼女は足を組んで座った。
-She watched the bird carefully.	彼女は小鳥を注意して見つめた。
 She forgot to mail the letter.	彼女は手紙を投函するのを忘れた。
 She takes pride in her daughter.	彼女は自分の娘が誇りである。
 She is proud of her sons.	彼女は自分の息子たちを誇りに思っています。
@@ -4533,7 +4492,6 @@ They have been married two years.	彼らは結婚して二年になる。
 They rushed out of the room.	彼らは急いで部屋から出ていきました。
 They cleared the street of snow.	彼らは街路の雪を取り払った。
 They were listening to the radio.	彼らはラジオを聞いていた。
-They married on Christmas Eve.	彼らはクリスマスイヴに結婚した。
 They shook hands with each other.	彼らはおたがい握手をした。
 Their wedding will be tomorrow.	彼らの結婚式は明日行われます。
 He gave a good piece of advice.	彼は良い忠告を一つしてくれた。
@@ -4609,7 +4567,6 @@ We had a long spell of fine weather.	長い晴天続きでした。
 Are you through with your breakfast?	朝食はお済みですか？
 She's getting breakfast ready.	朝食の用意をしているところです。
 What does breakfast include?	朝食の内容は、どのようなものですか。
-Bob cooks breakfast in the morning.	朝、ボブは朝食を作る。
 I will wire you when I get there.	着いたら電報で知らせるよ。
 The earth is shaped like a sphere.	地球は球の形をしている。
 Tell me who discovered air.	誰が空気を発見したのか、教えて下さい。
@@ -4626,7 +4583,6 @@ It has been snowing on and off.	雪が降ったりやんだりしている。
 I saw a house whose roof was red.	赤い屋根の家が見えました。
 Be quiet. The kids are asleep.	静かに、子供たちが眠っています。
 It is interesting to watch stars.	星をながめるのは興味深い。
-The stars were twinkling in the sky.	星が空に瞬いていた。
 Success depends mostly on effort.	成功はたいてい努力次第だ。
 Several people lay wounded.	数人の人たちが負傷して横たわっていた。
 Several people lay wounded.	数人に人たちが負傷して横たわっていた。
@@ -4681,10 +4637,12 @@ The problem is beyond my grasp.	私にはその問題が理解できない。
 We'll visit you tomorrow.	私たちは明日、あなたのところを訪問します。
 We take the same bus to work.	私たちは同じバスで仕事に行きます。
 Where shall we get on a bus?	私たちはどこでバスに乗りましょうか。
+We ought to love one another.	私たちはお互いに愛し合うべきです。
 The weather favored our travel.	私たちの旅行は天候に恵まれた。
 Our boat won by two lengths.	私たちのボートは２艇身の差で勝った。
 We welcome you to our club.	私たちのクラブへのご入会を歓迎します。
 I owe what I am to my friend.	私が今日あるのは友人のおかげです。
+Keep children away from medicine.	子供たちを薬に近付けるな。
 Shake the bottle before using.	使用する前に瓶を振ってください。
 I'm sorry I can't swear by him.	残念ながら彼を信頼できません。
 The peak rises above the clouds.	山頂が雲の上にそびえている。
@@ -4706,6 +4664,7 @@ You ought to ask him for advice.	君は彼に助言を求めるべきだ。
 Are you a senior high school student?	君は高校生ですか。
 You can get a loan from a bank.	君は銀行から金が借りられるよ。
 You are no longer a mere child.	君はもはや子供なんかではない。
+Have you taken your medicine yet?	君はもう薬を飲みましたか。
 Can you make sense of this poem?	君はこの詩が理解できるかい。
 Your work has greatly improved.	君の仕事はとても上達しました。
 Let me give you a bit of advice.	君に少し忠告したい事がある。
@@ -4740,7 +4699,6 @@ Will you give me a glass of milk?	ミルクを一杯いかがですか。
 Mayuko eats bread for breakfast.	マユコは朝食にパンを食べる。
 We will soon be having snow.	まもなく雪が降ってくることでしょう。
 Look! There's a cat in the kitchen.	ほら！台所に猫がいる。
-Bob must have had an accident.	ボブは事故にあったのに違いない。
 A button has come off the coat.	ボタンがコートから外れている。
 One of your buttons has come off.	ボタンが１つとれましたよ。
 How about going steady with me?	ぼくと付き合ってくれませんか。
@@ -4811,6 +4769,7 @@ This is the calm before the storm.	これは嵐の前の静けさだ。
 This is a camera made in Japan.	これは日本で作られたカメラだ。
 This is the same camera as yours.	これは君のと同じカメラだ。
 Is this the bus to Oxford?	これはオックスフォードへ行くバスですか。
+This medicine will do you good.	この薬はあなたに効くでしょう。
 This substance will mix with water.	この物質は水と混ざる。
 This is a story about a cat.	この物語はいっぴきの猫についてです。
 This road extends to the coast.	この道路は海岸まで伸びている。
@@ -4868,7 +4827,6 @@ My parents object to my opinion.	両親は私の意見に反対している。
 Neither of my parents is alive.	両親とも生きているわけではない。
 The budget must be balanced.	予算は均衡がとれていなければならない。
 Don't find fault with your friend.	友達のあらさがしをするな。
-Stars were twinkling in the sky.	夜空に星がきらきら輝いていた。
 We can see the tower above the trees.	木の上に塔が見える。
 I'll visit Mr. Brown tomorrow.	明日私はブラウンさんを訪問します。
 Can't you put it off until tomorrow?	明日まで延ばせないの？
@@ -4901,14 +4859,12 @@ How long will the flight time be?	飛行時間はどのくらいですか。
 The plane flew toward the west.	飛行機が西のほうへ飛んでいった。
 Call the police in an emergency.	非常の場合は警察を呼びなさい。
 The sad story moved us to tears.	悲しい知らせに涙をさそわれた。
-They endured many difficulties.	彼等は多くの苦難をたえしのんだ。
 She is good at climbing up a tree.	彼女は木登りが得意である。
 She cares for her sick mother.	彼女は病気の母親の世話をしている。
 She made believe that she was sick.	彼女は病気の振りをした。
 She is proud of being beautiful.	彼女は美しい事を自慢している。
 She has a very strong personality.	彼女は非常に個性的な人だ。
 All of a sudden, she began to laugh.	彼女は突然笑い出した。
-She wrote a book about the bird.	彼女は鳥についての本を書いた。
 She has been sick since last week.	彼女は先週から病気である。
 She has been blind from birth.	彼女は生まれつき眼が不自由である。
 She is not only kind but honest.	彼女は親切ばかりでなく正直だ。
@@ -4947,7 +4903,6 @@ Their coats were uniform in color.	彼らの上着は同じ色だった。
 He denied himself nothing.	彼は贅沢をし好き勝手なことをして暮らした。
 He is kind rather than gentle.	彼は優しいというよりむしろ親切だ。
 He made a speech in plain English.	彼は明白な英語で演説した。
-He will set out for China tomorrow.	彼は明日中国へ出発する。
 He will arrive in Paris tomorrow.	彼は明日パリにつくでしょう。
 He is studying to be a minister.	彼は牧師になる勉強をしている。
 He stole a kiss from her.	彼は彼女に気づかれないようにさっとキスした。
@@ -5001,10 +4956,8 @@ I'm not lying. I swear to God!	天地神明に誓って嘘ではありません�
 The weather varies from hour to hour.	天気は刻々と変わる。
 My brother depends on me for money.	弟は金を私に頼っている。
 The pain has started to ease now.	痛みは今は和らぎ始めている。
-The birds were flying in a group.	鳥は群れをなして飛んでいた。
 What time will you have breakfast?	朝食は何時にいたしますか。
 Where are you going to eat lunch?	昼食はどこで食べるんですか。
-China is rich in natural resources.	中国は天然資源が豊富だ。
 Someone has stolen all my money.	誰かが私の有り金全部を盗んだ。
 It was raining heavily in Osaka.	大阪で、激しい雨が降っていた。
 Many trees are bare in winter.	多くの木は冬になると葉がなくなる。
@@ -5046,7 +4999,6 @@ I usually have a light breakfast.	朝食はたいてい軽くとります。
 I made up my mind to marry her.	私は彼女と結婚することに決めた。
 I arrived on the night he left.	私は彼が出発した日の夜に着いた。
 I prefer red wine to white.	私は白ワインよりも赤ワインの方が好きだ。
-I saw a bird fly across the sky.	私は鳥が１羽空を飛ぶのを見た。
 I have no knife to cut with.	私は切るのに使うナイフを持っていない。
 I go to the movies once in a while.	私は時々映画を見に行く。
 I am proud of my pretty cat.	私は私の可愛い猫を自慢に思っています。
@@ -5148,7 +5100,6 @@ Warmest Easter wishes for you.	よいイースターを迎えられますよう�
 Have you arrived at a decision yet?	もう決断に至りましたか。
 We should respect our parents.	みな両親を尊敬しなければならない。
 We hope you enjoy the movie.	みなさま、どうぞ映画をお楽しみ下さい。
-Look! There's a bird in that tree.	ほら！あの木に小鳥がいる。
 We crossed the lake in a boat.	ぼくらはボートでその湖を横断した。
 I found the bed quite comfortable.	ベッドは寝心地満点だった。
 Except for Bill, they all made it.	ビル以外はみなあつまった。
@@ -5162,7 +5113,6 @@ The buses run every ten minutes.	バスは１０分ごとに通っている。
 Are the party preparations okay?	パーティーの用意はいいですか。
 How's the weather in New York?	ニューヨークのお天気はどうですか。
 I am used to driving a truck.	トラックを運転するのには慣れている。
-Tom takes good care of the birds.	トムは小鳥の世話をよくする。
 Tom speaks more slowly than Bill.	トムはビルよりゆっくり話す。
 It looks like Tom won the race.	トムはそのレースに勝ったらしい。
 The house Tom built is wonderful.	トムの建てた家はすばらしい。
@@ -5201,7 +5151,6 @@ The defenses of the city are strong.	その市の防御は堅固だ。
 The mountain is covered with snow.	その山は雪で覆われている。
 That country has natural resources.	その国は天然資源がある。
 The lake is deepest at this spot.	その湖はこの地点が一番深い。
-The express arrives at 6:30 p.m.	その急行は午後六時三十分着だ。
 The company suffered a great loss.	その会社は大損害を受けた。
 The company suffered big losses.	その会社は甚大な被害を被った。
 The movie moved her to tears.	その映画をみて彼女は泣いてしまった。
@@ -5222,6 +5171,8 @@ This is a bus which goes to Tokyo.	これは東京へ行くバスです。
 This is an exception to the rule.	これはその規則の例外である。
 This is twice as large as that.	これはあれの２倍の大きさがある。
 How is this connected to that?	これとあれはどういう関係があるの。
+This medicine will do good to you.	この薬を飲めば良くなるよ。
+This medicine will do you good.	この薬を飲めばよくなるでしょう。
 This book is worth reading twice.	この本は二度読む価値がある。
 Is a meal served on this flight?	この飛行機では食事がでますか。
 These fields produce fine crops.	この畑は良質の作物を産出する。
@@ -5293,6 +5244,8 @@ That girl loved climbing trees.	その女の子は木登りが大好きだった
 Yes, it seems it was a misdiagnosis.	うん、誤診だったみたい。
 The train gained speed gradually.	列車は徐々にスピードを上げた。
 The train has just arrived here.	列車はたった今ついたばかりです。
+I gave up keeping up with trends.	流行に付いて行くことはやめた。
+I gave up keeping up with trends.	流行についていくことはやめた。
 The storm caused a lot of damage.	嵐は多くの損害を引き起こした。
 A storm was approaching our town.	嵐が私たちの町に近づいていた。
 For God's sake tell me the truth.	頼むから本当のこといってくれ。
@@ -5316,6 +5269,7 @@ Don't you just hate this weather?	毎日うっとうしくていやですね。
 I guess I'm not as smart as you.	僕は君ほど優秀じゃないようです。
 Please remember to mail my letter.	忘れずに私の手紙を出してね。
 Mother is getting breakfast ready.	母は朝食の準備をしています。
+My mother made me take some medicine.	母は私に薬を飲ませた。
 We guarantee our products for one year.	保証は一年間です。
 Can the lawyer see me on Friday?	弁護士さんに金曜日に会えますか。
 Prices showed a tendency of going up.	物価は上がり目だった。
@@ -5425,8 +5379,6 @@ Weather reports rarely come true.	天気予報はめったにあたらない。
 What is a typical British dinner?	典型的な英国の食事は何ですか。
 Do you mind my making a suggestion?	提案してもよろしいですか。
 My brother has been friendly to him.	弟は彼に優しくしてきた。
-The birds are flying high in the sky.	鳥が空高く飛んでいる。
-A bird was flying high up in the sky.	鳥が空高く飛んでいた。
 Her long hair was completely wet.	長い髪の毛は完全に濡れていた。
 Everywhere in town it's getting dark.	町中が暗くなっている。
 Careful driving prevents accidents.	注意深い運転は事故を防ぐ。
@@ -5468,7 +5420,6 @@ I talked her into marrying him.	私は彼女を説得して彼と結婚させた
 I noticed her hands shaking.	私は彼女の手が震えているのを見て取った。
 I have never heard her sing.	私は彼女が歌を歌うのを聞いたことがない。
 I cast about for a suitable reply.	私は適当な答えを探し求めた。
-I listened to the music of birds.	私は鳥のさえずりに耳を傾けた。
 I read about him in the newspaper.	私は新聞で彼について読んだ。
 I must have my car repaired.	私は車を修理してもらわなければならない。
 I will define happiness as this.	私は幸福を次のように定義しよう。
@@ -5533,7 +5484,6 @@ You seem to be a little under the weather.	元気ないね。
 The moon was reflected in the lake.	月が湖に映し出されていた。
 The economy is in a slight depression.	経済はやや不景気だ。
 Have you ever climbed Mt. Fuji?	君は富士山に登った事がありますか。
-You will not take Bob's advice.	君はボブの忠告に従おうとはしない。
 You're forever making mistakes.	君はしょっちゅう間違いをしている。
 If only I had taken your advice.	君の忠告に従ってさえいればなあ。
 You have no one but yourself to blame.	君の身から出た錆だ。
@@ -5595,6 +5545,8 @@ TV has taken the place of radio.	テレビがラジオに取って代わった�
 The cat on the table is sleeping.	テーブルの上の猫は眠っている。
 The dealer wants to sell a car.	ディーラーは車を売りたがっている。
 At last, we arrived at the village.	ついに私たちは村に着いた。
+You ought not to sit up so late.	そんな夜更かしするべきではない。
+You ought not to say such a thing.	そんなこと言うべきではない。
 He must be a fool to do so.	そんなことをするとは彼はばかにちがいない。
 I sighed with relief to hear it.	それを聞いて安心の吐息をはいた。
 Can you afford the time for it?	それをする時間の余裕はありますか。
@@ -5625,16 +5577,16 @@ It would be a satisfaction to me.	そうしてもらったら私は満足だ。
 Thank you for the wonderful gift.	すばらしい贈り物をありがとう。
 Steve is getting on the bus.	スティーブはバスに乗り込もうとしている。
 The switch didn't work on time.	スイッチは時間通りに働かなかった。
-Jack is three years senior to me.	ジャックは私より3つ年上です。
 Gestures are not used by them.	ジェスチャーは彼らに使われていない。
 The favor of a reply is requested.	ご返事いただければ幸いです。
 I'll leave it up to your imagination.	ご想像にお任せします。
 I greatly appreciate your advice.	ご助言を本当に感謝いたします。
 I appreciate what you've done for me.	ご好意感謝いたします。
 I don't like any of these hats.	これらの帽子はどれも気に入らない。
-These cookies are star-shaped.	これらのクッキーは星の形をしている。
 This is the tallest tower in Japan.	これは日本で一番高い塔だ。
 This feels soft and smooth.	これは手触りが柔らかくて、なめらかですね。
+Do I have to take this medicine?	この薬を飲まないといけませんか。
+This medicine does not agree with me.	この薬は僕に合わない。
 Give me your impression of this book.	この本の印象をどうぞ。
 This insurance covers everything.	この保険は何もかもカバーする。
 There is a television in this room.	この部屋にはテレビがある。
@@ -5647,7 +5599,6 @@ I must learn this poem by heart.	この詩を暗記しなければならない�
 The lake is deepest at this point.	この湖はこの箇所が一番深い。
 This style of hat is now in fashion.	この型の帽子が今流行だ。
 The sky promises fair weather.	この空模様ではよい天気になりそうだ。
-This bridge will not endure long.	この橋は長くは持たないだろう。
 Could you hold these valuables?	この貴重品を預かってもらえますか。
 I'm fed up with this wet weather.	この雨天にはうんざりしている。
 What is the price of this radio?	このラジオの値段はいくらですか。
@@ -5686,6 +5637,7 @@ I saw her somewhere two years ago.	２年前どこかで彼女に会った。
 Flight 226 takes off at 10:30.	２２６便は１０時３０分に離陸します。
 The fire burned down ten houses.	１０軒の家がその火事で焼失した。
 My father runs a restaurant.	お父さんはレストランを経営しているのよ。
+This medicine has no side effects.	この薬に副作用はありません。
 Can foreign students be in the club?	留学生も入れるのかしら。
 I barely made the 9:20 train.	９時２０分の電車にようやく間に合った。
 I do not have a proud past at all.	誇らしい過去が、私には全く無い
@@ -5710,7 +5662,6 @@ You should mind your parents.	両親の言うことには従わなくてはな�
 The storm became even more violent.	嵐はもっと激しくなってきた。
 The storm caused a lot of damage.	嵐は、多くの災害を引き起こした。
 The storm prevented me from leaving.	嵐のため出発できなかった。
-Watching wild birds is great fun.	野鳥を観察するのはとても面白い。
 It's so obvious we don't need proof.	明白すぎて証明を要しない。
 I will go out if it is fine tomorrow.	明日天気なら外出します。
 I'll give you a ring tomorrow morning.	明日の朝、電話するよ。
@@ -5740,6 +5691,7 @@ A thing of beauty is a joy forever.	美しきものは永遠の喜びなり。
 The plane climbed to 4,000 feet.	飛行機は四千フィートまで上昇した。
 The defendant was sentenced to death.	被告は死刑判決を受けた。
 The cat is well out of the bag.	秘密はもうすっかり知れ渡っているよ。
+You ought not to make fun of them.	彼等をからかってはいけません。
 She is sensitive to current fashions.	彼女は流行に敏感である。
 She solved the problem with ease.	彼女は容易にその問題を解決した。
 Her eyes were filled with tears.	彼女は目に涙をいっぱいためていた。
@@ -5776,7 +5728,6 @@ She was ready to jump ship.	彼女がライバル会社に転職しそうだっ�
 We adopt him as our representative.	彼を私たちの代表として選ぶ。
 They are leaving for Tokyo tomorrow.	彼らは明日東京に発ちます。
 They are having a party tomorrow.	彼らは明日パーティーを開きます。
-They introduced a bill in Congress.	彼らは法案を議会に提出した。
 They split their sides laughing.	彼らは腹の皮がよじれるほど笑った。
 They can overcome their fear.	彼らは自分の恐怖に打ち勝つことができる。
 They are having breakfast now.	彼らは今、朝食をとっているところです。
@@ -5840,9 +5791,6 @@ The only reward of virtue is virtue.	徳の唯一の報酬は徳である。
 The night view of Tokyo is wonderful.	東京の夜景はすばらしい。
 Let's give up our plan to climb it.	登る計画はあきらめましょう。
 They're 30 minutes behind schedule.	定刻に３０分も遅れるなんて。
-I wish I could fly like a bird.	鳥のように空を飛べたらいいのになあ。
-Birds came flying by twos and threes.	鳥が２羽３羽飛んできた。
-China is rich in natural resources.	中国は天然資源に富んでいる。
 The earth is shaped like a sphere.	地球は球のような形をしている。
 My son owes what he is to you.	息子が今日あるのはあなたのおかげです。
 A wonderful idea occurred to me.	素晴らしい考えが私にふと浮かんだ。
@@ -5852,6 +5800,7 @@ We can deliver the product in June.	製品は６月にお届けできます。
 The front door remained locked.	正面のドアは鍵がかかったままだった。
 An honest man never steals money.	正直な人は決してお金を盗まない。
 The weather stayed hot for a few days.	数日間暑い日が続いた。
+You ought to be quiet in a library.	図書館では静かにするべきだ。
 The newspaper reflects public opinion.	新聞は世論を反映する。
 I felt my heart beating rapidly.	心臓が速く鼓動しているのを感じた。
 On going to bed, he fell asleep.	床につくとすぐに彼は眠りにおちた。
@@ -5888,7 +5837,6 @@ I never get sick of dancing.	私はダンスに決して飽きることはあり
 I missed the point of the joke.	私はその冗談の意味がわからなかった。
 I gave the dog two pieces of meat.	私はその犬に肉を２切れやった。
 I heard the song sung in Italian.	イタリア語で歌われる歌を聞いた。
-I have no liking for such birds.	私はそのような鳥は全く好きでない。
 I know nothing to the contrary.	私はそうではないことは何も知らない。
 I arrived in Kobe around two-thirty.	私は２時半頃神戸に着いた。
 I lost my camera the other day.	こないだ、カメラをなくしてしまった。
@@ -5917,12 +5865,14 @@ What is the most popular movie now?	今人気のある映画は何ですか。
 I'm satisfied with my current income.	今の収入に満足している。
 The crops were damaged by the flood.	穀物は洪水の被害を受けた。
 Countries vary in customs and habits.	国によって習慣は異なる。
+I ought to go there, but I won't.	行くべきなのだが、私は行かない。
 Stop hiding your head in the sand.	現実を回避するのはもうやめろ。
 Health is essential to happiness.	健康は幸福に欠くことができない。
 Imagine yourself to be on the moon.	月の上にいると想像しなさい。
 The police looked into that incident.	警察は事件の捜査をした。
 You must be accurate in counting.	計算に間違いがあってはならない。
 Did you actually see the accident?	君は実際に事故を見たのですか。
+You ought not to have done that.	君はそれをすべきではなかったのに。
 You are deeply involved with this.	君はこのことに深い関係がある。
 I'll find someone to fill in for you.	君の代行者を見つけよう。
 I liked your idea and adopted it.	君の考えが気に入って、採用した。
@@ -5973,10 +5923,12 @@ Tom is coming to our school tomorrow.	トムが明日本校へ来ます。
 Everywhere seems to be crowded.	どこもかしこも人が混んでいるようだ。
 We barred the door and locked it.	ドアにかんぬきをし、錠をかけた。
 None were listening to the speaker.	だれも話を聞いていなかった。
-Most birds can see only by day.	たいていの鳥は昼間しか目が見えない。
 Such words are so typical for him.	そんな発言はいかにも彼らしい。
 She must be a fool to say so.	そんな事を言うとは彼女が馬鹿に違いない。
 If you bite at it, you're a fool.	そんなものに飛びつくのはばかだ。
+You ought not to smoke so much.	そんなにたばこをすってはいけません。
+You ought not to say such a thing.	そんなことを言うべきではない。
+You ought not to say such a thing.	そんなことは言うべきではない。
 That requires careful consideration.	それは慎重な考慮を要する。
 Does the medicine act on the stomach?	その薬は胃にききますか。
 The issue fell between the cracks.	その問題はまったく無視された。
@@ -5998,7 +5950,6 @@ The company suffered a heavy loss.	その会社は大きな損害を被った。
 The company was founded in 1974.	その会社は１９７４年に設立された。
 The noise caused me to jump back.	その音で私はおもわずとびのいた。
 The wet shirt will soon dry up.	そのぬれたシャツはすぐに乾くだろう。
-It will kill two birds with one stone.	そうすれば一挙両得だ。
 Have a wonderful eating experience.	すばらしい食事を経験下さい。
 Jill is smart as well as pretty.	ジルはかわいいだけでなく頭もよい。
 John is senior to me by two years.	ジョンは、私より２歳年上です。
@@ -6008,6 +5959,7 @@ I hope this fine weather holds.	こんなすばらしい天気が続けばと思
 This is a map of the Toyono district.	これは豊能郡の地図です。
 This is the temple where he stays.	これが彼の泊っているお寺です。
 Is lunch included in this price?	この料金に昼食代は入っていますか。
+This medicine will do you good.	この薬はあなたの病気に効くでしょう。
 This problem deserves considering.	この問題は考慮する価値がある。
 This hat is too small for me.	この帽子は小さすぎて、私にはかぶれない。
 We've had a lot of storms this winter.	この冬は嵐が多かった。
@@ -6070,6 +6022,7 @@ He writes X just as it is in a poem.	彼がXをそのまま詩に書きます
 There are no Japanese customers coming.	全然日本人の客が来ない
 We sell products at local prices.	商品を現地価格で皆様にお届けします
 It takes little space for storage.	それは収納にあまり場所をとらない
+Both are showing an increasing trend.	共に増加の傾向が見られます
 It somehow looks different from usual.	どうもいつもと様子が違う
 You will get rewards just by writing.	書くだけで必ず報酬が貰える
 A committee member will act as chair.	委員が会長の職務を代行する
@@ -6137,7 +6090,6 @@ They were satisfied with the meals.	彼らはその食事に満足していた�
 They arrived in England a week ago.	彼らは１週間前に英国に着いた。
 Their proposal is out of the question.	彼らの提案は問題外です。
 He is making preparations for a trip.	彼は旅行の支度をしている。
-He will set out for China tomorrow.	彼は明日中国に向けて出発する。
 I understand him to be satisfied.	彼は満足しているものと思っている。
 He has twice as many books as I do.	彼は僕の２倍も本を持っている。
 He is afraid of becoming sick.	彼は病気になるのではないかと恐れている。
@@ -6172,7 +6124,6 @@ All at once it began to rain heavily.	突然雨が激しく降り出した。
 Suddenly, Hiroko burst into tears.	突然にヒロコはわっと泣き出した。
 There is no telling about the weather.	天気のことはわからない。
 I hope the weather stays this way.	天気がこのまま続くといいですね。
-Some birds are flying high in the sky.	鳥が空を高く飛んでいる。
 All of the town was destroyed by a fire.	町は火事で全焼した。
 I'd like to have breakfast with you.	朝食を御一緒したいのですが。
 The morning rush is at its peak now.	朝のラッシュは今がピークだ。
@@ -6189,10 +6140,8 @@ He was caught in the act of stealing.	窃盗の現場を押さえられた。
 The Stone Age ruins were discovered.	石器時代の遺跡が発見された。
 The students bowed to their teacher.	生徒達は先生におじぎをした。
 An honest man is the noblest work of God.	正直の頭に神宿る。
-The stars were twinkling in the sky.	星が空できらきら光っていた。
 Uniforms differ from school to school.	制服は学校によって違う。
 The world is split into two camps.	世界は二つの陣営に分かれている。
-Several birds were flying in the air.	数羽の鳥が空を飛んでいた。
 Shinko disputed with him about it.	進子はそのことで彼とやりあった。
 Don't go by what the newspapers say.	新聞のいうことを信用するな。
 Lock the window before going to bed.	寝る前に窓に鍵をかけなさい。
@@ -6225,8 +6174,6 @@ I'm taking off. See you tomorrow.	私は出発します。明日会いましょ�
 I held the party at my own expense.	私は自費でパーティーを開いた。
 I don't blame you for doing that.	私は君がそうしたことをとがめない。
 I met her at the station by accident.	私は偶然彼女に駅で会った。
-I saw a white bird on my way home.	私は家に帰る途中で白い鳥を見た。
-I caught sight of hundreds of birds.	私は何百羽もの鳥を見つけた。
 I would like to brush up my English.	私は英語にみがきをかけたい。
 I want to go somewhere in Europe.	私はヨーロッパのどこかに行きたい。
 I can't deal with her anymore.	私はもうこれ以上彼女にがまんできません。
@@ -6235,7 +6182,6 @@ I remember one poem in particular.	私はとくに一つの詩を覚えている
 I mostly have fruit for breakfast.	私はたいてい朝食に果物を食べる。
 I refuse to discuss the question.	私はその問題について論じたくない。
 I remember mailing the letter.	私はその手紙を投函したことを覚えている。
-I've never seen this sort of bird.	私はこの種の鳥は見たことがない。
 I must learn this poem by heart.	私はこの詩を暗記しなければならない。
 I'm a big fan of American cooking.	私はアメリカの料理が大好きです。
 I regarded your offer as a joke.	私はあなたの申し出を冗談だと思った。
@@ -6309,13 +6255,13 @@ We found the front door locked.	我々は玄関が締まっているのが分か
 Our meeting was just an accident.	我々が出会ったのは全く偶然だった。
 No poverty can catch up with industry.	稼ぐに追いつく貧乏なし。
 Some boys came into the classroom.	何人かの少年が教室に入ってきた。
-Many kinds of birds live in Japan.	何種類もの鳥が日本に住んでいる。
 What time will the bus pick us up?	何時にバスは迎えに来るのですか。
 How wonderful a time we have had!	何と素晴らしい時を過ごしたことか。
 I hope there are some music clubs.	音楽関係のクラブがあるといいな。
 Music affords us much pleasure.	音楽は私たちを大いに楽しませてくれる。
 The roof declines at a sharp angle.	屋根は鋭い角度で傾斜している。
 The driver gestured him out.	運転手は彼に車から降りろと身振りで要求した。
+I'll explain how to take this medicine.	飲み方をご説明します。
 We are able to deliver within a week.	1週間以内にお届けします。
 Could you say that in plain English?	易しい英語で言ってください。
 Don't carry a practical joke too far.	悪ふざけはほどほどにしろ。
@@ -6337,6 +6283,9 @@ I had my money stolen somewhere.	どこかでお金を盗まれてしまいま�
 Who will take care of your cat then?	では、猫の世話は誰がするの。
 Someone is tapping at the door.	だれかがドアをこつこつとたたいている。
 It's a very good newspaper, isn't it?	たいへん立派な新聞ですね。
+You ought not to go to such a place.	そんな場所へ行くべきでない。
+You ought not to stay up so late.	そんなに夜更かしするべきでないよ。
+You ought not to sit up so late.	そんなに夜ふかしをするべきではない。
 She must be a fool to say so.	そんなことを言うとは彼女は馬鹿に違いない。
 It happened completely by accident.	それはまったく偶然に起こった。
 I was just in time for the flight.	その飛行機にちょうどまにあった。
@@ -6405,6 +6354,7 @@ This movie is worth seeing again.	あの映画はもう一度見る価値があ�
 Are you going to school tomorrow?	あなたは明日学校に行く予定ですか。
 You are now on the way to recovery.	あなたは今回復しつつあります。
 What do you think, Miss West?	あなたはどうお思いになって、ウェストさん？
+You ought to have read the book.	あなたはその本を読むべきだったのに。
 Your suggestion seems reasonable.	あなたの提案は、ごもっともですよ。
 Can I be of any assistance to you?	あなたの助力に慣れるでしょうか。
 Your advice counted for much.	あなたのアドバイスは大いに役に立ちました。
@@ -6432,6 +6382,7 @@ It took all night to climb Mt Fuji.	富士山に登るのに丸一晩かかっ�
 The parents named their baby Akira.	両親は赤ん坊をアキラと名づけた。
 Please remember me to your parents.	ご両親によろしくお伝えください。
 Import goods are subject to high taxes.	輸入品は高い課税対象だ。
+You ought not to break your promise.	約束を破るべきではありません。
 Not a star was to be seen in the sky.	夜空には星一つ見えなかった。
 I don't know if it will rain tomorrow.	明日雨が降るかわからない。
 When it clears up tomorrow it is good.	明日は晴れるといいですね。
@@ -6491,7 +6442,6 @@ I often heard her sing that song.	彼女がその歌を歌うのがよく聞こ�
 They blamed him for the accident.	彼らは事故の責任は彼にあると言った。
 They burst out into a storm of abuse.	彼らは激しくののしり始めた。
 They will cut down on their expenses.	彼らは経費を節減するだろう。
-They had to endure a hard life.	彼らは苦しい生活に耐えねばならなかった。
 They are plotting to kill the king.	彼らは王の殺害をたくらんでいる。
 They all answered "Yes" to a man.	彼らは一人残らず「そうだ」と答えた。
 They don't belong under that category.	彼らはその範疇に属さない。
@@ -6531,7 +6481,6 @@ He was established as Foreign minister.	彼は外務大臣に収まった。
 He is terrible at speaking English.	彼は英語を話すのがとても苦手だ。
 He has been sick in bed all week.	彼は一週間ずっと病気で寝ていました。
 He slipped into the bad habit again.	彼はまたも悪い習慣をはじめた。
-He is wiser and more careful than Bob.	彼はボブより賢明で慎重だ。
 He is capable of teaching French.	彼はフランス語を教えることができる。
 He is capable of doing such a thing.	彼はそんなことをやりかねない。
 He is responsible for the accident.	彼はその事故に対して責任がある。
@@ -6555,10 +6504,10 @@ The instant he came in, he fell down.	入ってくるなり、彼は倒れた。
 The dry spell continued into September.	日照りは９月まで続いた。
 Both of them arrived at the same moment.	二人とも同時に着いた。
 There is a yard between the two houses.	二つの家の間に庭がある。
+Where is the Internal Medicine Department?	内科はどこですか。
 The lights have been burning all night.	灯りが一晩中ついている。
 There was a sudden change in the weather.	天候が急に変化した。
 Bad weather kept us from going out.	天気が悪くて出かけられなかった。
-The birds flew away in all directions.	鳥は四方八方に飛び立った。
 When and where is breakfast served?	朝食はどうしたらよいでしょうか。
 What do you usually have for breakfast?	朝ご飯に何を食べますか。
 What would you like for breakfast?	朝ごはんにはなにがよろしいですか。
@@ -6576,11 +6525,10 @@ The world will change in an instant.	世の中は瞬く間に変わるだろう�
 The chemical formula for water is H2O.	水の化学式はH2Oである。
 The human race is dominant on earth.	人類は地球上で最も優勢である。
 I will labor in the cause of humanity.	人類のために働くつもりだ。
-The birds are flying near the people.	人々の近くで鳥が飛んでいる。
 The burden is light on the shoulder.	人の痛いのは三年でも辛抱する。
 You should not depend on your parents.	親をあてにしてはいけない。
+Take this medicine before each meal.	食前ごとにこの薬を飲みなさい。
 You are carrying your joke a bit too far.	冗談が少し過ぎるぞ。
-The boy captured the bird with a net.	少年はその鳥を網で捕まえた。
 I'd like to have smaller bills mixed in.	小銭を混ぜてください。
 The facts bear out this hypothesis.	諸事実がこの仮説を実証している。
 We have had a long spell of hot weather.	暑い天気が長く続いた。
@@ -6601,11 +6549,11 @@ We named the boat the Half Moon.	私達はその船をハーフムーンと名�
 We spent the entire day on the beach.	私達は１日中浜辺で過ごした。
 Our trip is dependent on the weather.	私達の旅行は天候次第である。
 We owed our success to their help.	私達の成功は彼らの助力のおかげだ。
-I have run out of my traveling expenses.	私は旅費がなくなった。
 I am going to call on her tomorrow.	私は明日彼女を訪ねるつもりです。
 I will be fourteen years old tomorrow.	私は明日１４才になります。
 I don't care a bit about the future.	私は未来については関心がない。
 I don't know my father's annual income.	私は父の年収を知らない。
+I ought to have told her the truth.	私は彼女に真実を話すべきだった。
 I am going to call on him tomorrow.	私は彼を明日訪問するつもりです。
 I must prepare their breakfast.	私は彼らの朝食をつくらなければならない。
 I burned my fingers on a hot iron.	私は熱いアイロンで指をやけどした。
@@ -6660,6 +6608,7 @@ I want to keep a cat instead of a dog.	犬の代わりに猫を飼いたい。
 The moon came out from behind the clouds.	月が雲の間から出た。
 I hear tell you're going to get married.	結婚されるそうですね。
 I am not any more to blame than you are.	君も同様僕も悪くない。
+You ought to get to work on time.	君は時間どおりに仕事を始めるべきだ。
 You had better speak more naturally.	君はもっと自然に話す方がよい。
 You should have been more careful.	君はもう少し注意すべきだったのに。
 Your parents didn't come, did they?	君の両親は来なかったんでしょう。
@@ -6692,6 +6641,7 @@ Prices depend on supply and demand.	価格は需要と供給によって決ま�
 There appears to have been an accident.	何か事故があったらしい。
 Look at the house with the red roof.	屋根の赤い家を見てご覧なさい。
 It began to rain and she got wet.	雨が降りだして彼女はぬれてしまった。
+Take this medicine three times a day.	一日三回この薬を飲みなさい。
 Let's sing some English songs together.	一緒に英語の歌を歌おう。
 I'll give you a piece of good advice.	一つ良い忠告をしてあげよう。
 Medical science is always on the march.	医学は常に進歩している。
@@ -6738,7 +6688,6 @@ The sick man's life is in danger.	その病人の生命は危険にひんして�
 The street is somewhere along here.	その道はこのあたりのどこかです。
 The land is out of crop this year.	その土地は今年は作付けしていない。
 The store opens for business tomorrow.	その店は明日から開業する。
-The man shot three birds with a gun.	その男は銃で３羽の鳥を撃った。
 Tell me how to spell the word.	その単語をどうつづるか私に教えてください。
 The player contributed to the victory.	その選手は勝利に貢献した。
 The new model clicked with the public.	その新型車は大衆にうけた。
@@ -6770,13 +6719,14 @@ This is the outcome of our research.	これは私たちの研究の成果です�
 This is the only camera I've got.	これは私が持っている唯一のカメラだ。
 In relation to this, I am to blame.	これに関しては私にも責任がある。
 This is an exact copy of the original.	これが原本の正確な写しだ。
+Take this medicine between meals.	この薬を食事と食事の間に飲みなさい。
+The medicine will soon put you right.	この薬を飲めばすぐよくなる。
 There is no going out in this weather.	この天気では外出できない。
 There is heavy traffic in this street.	この通りは交通量が激しい。
 This technical journal is above me.	この専門紙は私には理解できない。
 This custom began in the Edo Period.	この習慣は江戸時代に始まった。
 This custom is unique to America.	この習慣はアメリカ独特のものである。
 This fact is of little consequence.	この事実はほとんど重要ではない。
-There are many birds in this park.	この公園にはたくさんの鳥がいます。
 The lake is the deepest in Japan.	この湖は日本でいちばん深い湖である。
 This firm has a hundred employees.	この会社には従業員が１００人いる。
 This music suits my present mood.	この音楽は私の今の気分に合っている。
@@ -6785,8 +6735,9 @@ This bus will take you to the station.	このバスに乗れば駅に出る。
 Does this bus go to the train station?	このバス、駅に行きますか。
 I think it's somewhere around here.	このあたりにあると思うのですが。
 How many cats are there in this house?	ここの家、何匹猫がいるの？
-Grand Central Station, please.	グランド・セントラル駅までやってください。
 Every member of the club was present.	クラブの全員が出席していた。
+You ought not to smoke so much.	きみはそんなにタバコを吸うべきではない。
+You ought not to go there alone.	きみはそこへひとりで行くべきではない。
 There's no point in taking a camera.	カメラを持っていっても無駄だ。
 Do you remember buying me lunch?	お昼をおごってくれたのを覚えてますか。
 May I have the honor of asking you?	お尋ねしてもよろしいでしょうか。
@@ -6807,6 +6758,7 @@ What is your favorite TV program?	あなたの好きなテレビ番組は何で�
 Don't lay your fault at my door.	あなたの過失を私のせいにしないでくれ。
 I'd like to give you a piece of advice.	あなたに一言忠告したい。
 I'm afraid it will rain tomorrow.	あした雨が降るんじゃないかと心配だ。
+Take this medicine every six hours.	６時間ごとにこの薬を飲みなさい。
 It seemed that the bus had been late.	バスは遅れていたらしかった。
 "Yes, I was," said the student.	「いいえ、いました」とその学生は答えた。
 He can't afford to buy a new car.	彼は新しい車を買う余裕がありません。
@@ -6826,6 +6778,7 @@ My parents will jump all over me.	両親にこっぴどくしかられてしま�
 Owing to the storm, they arrived late.	嵐のため彼らは遅れて着いた。
 Your eyes are bigger than your stomach.	欲張っても食べきれないよ。
 I'd like to reconfirm my flight.	フライトのリコンファームをお願いします。
+I will find out how the medicine works.	薬の効き目を調べてみます。
 We found a beam of light in the night sky.	夜空に光線が見えた。
 The gate was too narrow for the truck.	門はトラックにはせま過ぎた。
 The problem was where to eat lunch.	問題はどこで昼食をたべるかだった。
@@ -6854,6 +6807,7 @@ You should have breakfast every day.	あなたは毎日朝食をとるべきで�
 Where do you get on the bus every day?	毎日どこでバスに乗りますか。
 We had our photo taken on the beach.	僕達は浜辺で写真を撮って貰った。
 I meet him on occasion at the club.	僕は時おりクラブで彼に出会います。
+Sleep is the best medicine for a cold.	風邪には睡眠が最良の薬です。
 My father is a good speaker of English.	父は上手に英語を話します。
 My father bought this hat for me.	父は私のためにこの帽子を買ってくれた。
 My father doesn't lift a finger at home.	父は家では何もしません。
@@ -7013,13 +6967,11 @@ I offered him odds of 3 to 1.	私は彼に３対１の有利な歩を与えよ�
 I share with him in the enterprise.	私は彼ともどもその企業に参加した。
 I go to my father's place twice a year.	私は年に二度父の所へ行く。
 Rural life appeals to me very much.	私は田舎の生活にとてもあこがれる。
-I am not a bird, but I'd like to be.	私は鳥ではないが、鳥になりたい。
 I visit my friend's house at intervals.	私は時々友達の家を訪ねる。
 I took the lift to the third floor.	私は四階までエレベーターで行った。
 As soon as I sat down, I fell asleep.	私は腰をおろすとすぐ寝込んだ。
 I am proud to work with you.	私は皆さんと仕事を共にすることを誇りに思います。
 I prefer working to doing nothing.	私は何もしないよりは働く方が好きだ。
-I could hardly endure the pain.	私はその痛みをほとんどがまんできなかった。
 I was waiting for the bus at that time.	私はそのバスを待っていた。
 I arrived here at eight this morning.	私はここに今朝は８時についた。
 Both of my parents love each other.	私の両親はお互いに愛し合っている。
@@ -7065,7 +7017,6 @@ The trouble may lie in the engine.	故障はエンジンにあるのかもしれ
 Language changes as human beings do.	言語は人間と同じように変化する。
 Nothing is more valuable than health.	健康は他の何よりも価値がある。
 You should be careful about your health.	健康には注意すべきです。
-Just imagine traveling to the moon.	月へ旅行することを想像してごらん。
 Police officers wear blue uniforms.	警官は青いユニフォームを着ている。
 The management refused to come to terms.	経営者は妥協を拒絶した。
 You should follow the doctor's advice.	君は医者の忠告に従うべきだ。
@@ -7140,6 +7091,7 @@ It is like the air we breathe.	それは私たちが呼吸する空気のよう�
 It produced strange visual effects.	それは奇妙な視覚効果を産み出した。
 The old man begged me for money.	その老人は私にお金を恵んでくれと言った。
 The old man possesses great wealth.	その老人は巨万の富を所有している。
+The medicine didn't do me any good.	その薬は私のからだに効かなかった。
 The problem bears heavily on us.	その問題は私たちに重くのしかかっている。
 Its surface was as flat as a mirror.	その表面は鏡のように平らだった。
 The sick person had the best of care.	その病人は最上の看護を受けた。
@@ -7175,6 +7127,9 @@ How are your parents getting along?	ご両親はいかがお過ごしでしょ�
 On hearing this, he turned pale.	これをきいたとたん、彼は真っ青になった。
 This is a car imported from Germany.	これはドイツから輸入した車です。
 This is the best camera in the store.	これが店で一番いいカメラです。
+This medicine will clear up your cold.	この薬を飲めば風邪は治るよ。
+Take this medicine three times a day.	この薬を一日に三回飲みなさい。
+I think this medicine will do you good.	この薬は効くと思いますよ。
 I am quite comfortable in this room.	この部屋はとても気に入っている。
 This weather is not good for the crops.	この天気は作物によくない。
 We get a lot of snow here in winter.	この地方では冬になると雪が多い。
@@ -7209,6 +7164,7 @@ Are you satisfied with the result?	あなたはその結果に満足していま
 It is you that is to blame for it.	あなたはそのことに対して責任がある。
 You are nodding over your work.	あなたはお仕事しながらこっくりしてますよ。
 Your parents kept an eye on us.	あなたの両親が私たちを見守ってくれました。
+Take this medicine every four hours.	４時間おきにこの薬をのみなさい。
 The cold weather extended into April.	４月になって寒い天気が続いた。
 Lie down and make yourself comfortable.	横になって楽にして下さい。
 All men naturally hate each other.	すべての人間は自然に互いを憎み合う。
@@ -7417,7 +7373,6 @@ I met him on the day I arrived here.	私はここに到着した日に彼に会�
 I don't want to get married too early.	私はあまり早く結婚したくない。
 I am relying on you to be honest.	私はあなたが正直であると信頼しています。
 I leave for London tomorrow morning.	私はあすの朝ロンドンへ出発します。
-I saw a bird flying over a tree.	私は１羽の鳥が木の上を飛んでいるのを見た。
 I got married when I was 19 years of age.	私は１９の時に結婚した。
 Don't say 'but' to my suggestion.	私の提案に「しかし」といってはいけない。
 I can't afford the time for a journey.	私には旅行する暇がありません。
@@ -7528,14 +7483,12 @@ How can you afford another suit?	どうしてスーツがもう１着買える�
 Please remember to mail the letter.	どうか忘れずに手紙を出してください。
 See to it that the door is locked at 10.	ドアは１０時に閉めなさい。
 We can do without a television, can't we?	テレビなんかなくてすむ。
-Many stars are twinkling in the sky.	たくさんの星が空にきらめいている。
 That is how the accident occurred.	そんなふうにして事故が起こったのです。
 That will do us a fat lot of good.	それはどんな役にも立ちはしないだろう。
 It is you that is to blame for it.	それについてはあなたに責任があります。
 Let's leave the problem until tomorrow.	その問題は明日まで延ばそう。
 The bill passed at the last moment.	その法案は土壇場になって可決された。
 Can I book two seats on that flight?	その便に座席を２つ予約できますか。
-The boy observed the birds all day.	その男の子は一日中鳥を観察していた。
 It is evident that the man is wrong.	その男が間違っているのは明らかだ。
 The teacher turned out to be sick.	その先生は病人だということが分かった。
 We ought to take the teacher's advice.	その先生の忠告を聞くべきです。
@@ -7608,9 +7561,9 @@ Are you satisfied with your job?	あなたは、あなたの仕事に満足し�
 Could you spell your name, please?	あなたのお名前のスペルをお願いします。
 If it rains tomorrow, I will stay at home.	明日雨なら家にいるよ。
 Achilles was an ancient Greek hero.	アキレスは古代ギリシアの英雄だった。
-Oh, yes. I sometimes see him on TV.	ああ、そうだね。時々テレビで見るよ。
 March comes between February and April.	３月は２月と４月の間にある。
 At the end of March we'll marry.	３月の終わりに私たちは結婚するつもりです。
+Take the medicine three times a day.	１日に３回、この薬を服用しなさい。
 Does the 19 bus go to Main Street?	１９番バスはメイン大通りへ行きますか。
 Peter has decided to leave tomorrow.	ピーターは明日出発する事に決めた。
 Ishida advances to third on a stolen base.	石田盗塁で３塁に進む。
@@ -7635,6 +7588,7 @@ Many trees were blown down by the storm.	嵐で多くの木が吹き倒された
 Careful preparations ensure success.	用意にぬかりがなければ成功は確実だ。
 The shaking began to slowly get less.	揺れはゆっくりと弱くなりはじめた。
 Could you give me back my valuables?	預けていた貴重品を返却してください。
+Please explain how to take the medicine.	薬の飲み方を教えてください。
 Tomorrow we will receive our report cards.	明日成績表をもらいます。
 I'll meet you down at the station tomorrow.	明日駅で会いましょう。
 I don't think that it will rain tomorrow.	明日は雨が降らないと思う。
@@ -7682,6 +7636,7 @@ She ended up getting married to him.	彼女は結局彼と結婚することに�
 She prefers staying home to going out.	彼女は外出するより家にいたがる。
 She refused my offer to help her.	彼女は援助しようという私の申し出を断った。
 She pretended to be hard of hearing.	彼女はよく耳が聞こえないふりをした。
+She ought to be at the office by now.	彼女はもう会社に着いているはずだ。
 She's still dependent on her parents.	彼女はまだ親のすねをかじっている。
 She would not follow my advice.	彼女はどうしても私の忠告を聞こうとしなかった。
 She burst into tears at the news.	彼女はその知らせを聞いてわっと泣き出した。
@@ -7694,12 +7649,14 @@ Her composition was free from mistakes.	彼女の作文には誤りがなかっ�
 With all her faults, I like her.	彼女の欠点にも関わらず、私は彼女が好きです。
 She may well be proud of her son.	彼女が息子のことを自慢するのももっともだ。
 There is little hope of her recovery.	彼女が回復する望みはほとんどない。
+You ought not to treat him like that.	彼をあんなふうに扱うべきではない。
 They finished the project on schedule.	彼らは予定通りその計画を終えた。
 They are going off by plane tomorrow.	彼らは明日の飛行機で行ってしまう。
 They caught up with him at the entrance.	彼らは入口で彼に追いついた。
 They denied the humanity of slaves.	彼らは奴隷が人間であることを否定した。
 They blamed the failure on George.	彼らは失敗したのをジョージのせいにした。
 They made for the scene of the accident.	彼らは事故の現場へ急行した。
+They forced me to take the medicine.	彼らは私にその薬を無理矢理飲ませた。
 They married on the third of this month.	彼らは今月の３日に結婚した。
 They communicate with each other by mail.	彼らは互いに文通している。
 They are satisfied with a simple life.	彼らは簡素な生活で満足している。
@@ -7769,6 +7726,7 @@ Have you ever argued with your parents?	親と言い合いした事あります�
 Newspapers influence the current of time.	新聞は世の動向を左右する。
 My new car will arrive here next week.	新しい車が来週ここにくるのだよ。
 I've been worrying myself into depression.	心配で気がめいっている。
+Please give me some airsickness medicine.	乗り物酔いの薬をください。
 The girl stood looking into the mirror.	少女は立って鏡をのぞきこんだ。
 Lake Towada is famous for its beauty.	十和田湖はその美しさで有名である。
 Don't drive under the influence of alcohol.	酒気帯び運転をするな。
@@ -7830,7 +7788,6 @@ I will put up at my friend's tonight.	今夜は、友人の所に泊まるつも
 We have an examination in English today.	今日、英語の試験があります。
 You must not run in the school buildings.	校舎内で走ってはならない。
 The gift-giving custom dies hard.	御中元や御歳暮の習慣はなかなかすたれない。
-There were hundreds of birds on the lake.	湖には何百羽もの鳥がいた。
 He told me to be careful in speech.	言葉に気をつけなさいと彼は私に言った。
 I had no difficulty breaking the lock.	鍵を壊すのに困難は全くなかった。
 He was wise enough to take her advice.	賢明にも彼は彼女の忠告に従った。
@@ -7870,6 +7827,7 @@ It is important to strengthen the basis.	基礎を固めることは大切です
 The more danger, the more honor.	危険が大きければ大きいほど名誉も大きくなる。
 It won't be long before they get married.	間もなく彼らは結婚します。
 To make a long story short, we married.	簡単に言うと、私達は結婚した。
+Give medicine to the patient right away.	患者にすぐ薬を飲ませなさい。
 We have had a long spell of cold weather.	寒い気候が長く続いている。
 The students learned this poem by heart.	学生たちはこの詩を暗記した。
 School uniforms are just out of fashion.	学校の制服は全く時代遅れだ。
@@ -7902,7 +7860,6 @@ Milk is of great value to babies.	ミルクは赤ちゃんにとってとても�
 Soon we saw a house whose roof was red.	まもなく屋根の赤い家が見えた。
 I should sell it while it still runs.	まだ動くうちに売ってしまわなきゃ。
 First of all, learn the formula by heart.	まずは公式を暗記しなさい。
-Bob sang loudest at the party.	ボブはパーティーでいちばん声をはりあげて歌った。
 Most houses were destroyed to pieces.	ほとんどの家屋が粉々に破壊された。
 Is this the right bus for Boston?	ボストンに行くにはこのバスで良いのですか。
 I'm not familiar with French poets.	フランスの詩人についてはよく知らない。
@@ -7970,7 +7927,7 @@ This is the coldest weather in ten years.	こんな寒さは１０年ぶりだ�
 These facts bear out my hypothesis.	これらの事実は私の仮説の裏付けになる。
 By whom were these poems written?	これらの詩はだれによって書かれたのですか。
 None of these buses go to Shinjuku.	これらのバスはどれも新宿へ行きません。
-Look at this grand view of the ocean.	この雄大な海の眺めをごらんなさい。
+This medicine will take the pain away.	この薬を飲むと痛みがやわらぐよ。
 This book contains a lot of photos.	この本にはたくさんの写真が入っている。
 This hat does match the brown dress.	この帽子は茶色のドレスにぴったりだ。
 This hat is a little too small for me.	この帽子は私には少し小さすぎる。
@@ -7981,6 +7938,7 @@ We have had a lot of snow this winter.	この冬は雪がたくさん降りま�
 How long will this nice weather last?	この天気はどのくらい持つのだろう。
 Take a no. 5 bus at this bus stop.	この停留所から５番目のバスに乗りなさい。
 Who is ultimately responsible for this?	この責任は結局だれにあるのか。
+This new medicine has a lasting effect.	この新薬は効果が永続的である。
 This custom dates from the Edo period.	この習慣は江戸時代からのものだ。
 Please mail this letter for me at once.	この手紙をすぐだしてください。
 There is much sugar in this black box.	この黒い箱に砂糖がたくさんある。
@@ -8045,7 +8003,6 @@ He will post a comment on this article.	彼がこの記事にコメントを投�
 On the 12th, the newspaper reported that ～.	〜と新聞が１２日に報じた
 Why can't I sing like they can?	どうして俺は彼らのように歌うことが出来ないんだ。
 My husband and daughter are fast asleep.	夫と娘はぐっすりと眠っている。
-The lovers were walking arm in arm.	恋人たちはお互いに腕を組んで歩いていた。
 The train arrived ten minutes behind time.	列車は十分遅れて到着した。
 You should combine theory with practice.	理論と実際を結び付けるべきだ。
 The storm brought about a lot of damage.	嵐は多大の被害を引き起こした。
@@ -8147,7 +8104,6 @@ He showed me how to use this camera.	彼はこのカメラの使い方を教え�
 He is not what is called a gentleman.	彼はいわゆる紳士というものではない。
 He is always finding fault with me.	彼はいつも私のあらさがしばかりしている。
 He ate twice the amount that you ate.	彼はあなたが食べた２倍の量を食べた。
-He responded by giving the "OK" gesture.	彼はＯＫのしぐさをして答えた。
 He is by far the wisest of the three.	彼は３人のなかでずば抜けて一番賢い。
 He had three sons who became lawyers.	彼には弁護士になった息子が３人いた。
 It is evident that he has made a mistake.	彼が誤りを犯したのは明白だ。
@@ -8157,7 +8113,6 @@ The economy of Japan is still stable.	日本の経済は依然として安定し
 Japan is not rich in natural resources.	日本では天然資源が豊富ではない。
 It's rare to find big yards in Japan.	日本では広い庭はなかなかありません。
 Meat won't keep long in this heat.	肉はこの暑い天気では長くはもたないだろう。
-I started with two traveling companions.	二人の道連れと一緒に出立した。
 On arriving in Tokyo, I called him up.	東京に着くとすぐ彼に電話をかけた。
 The picture of the tower was out of focus.	塔の写真はピンぼけだった。
 The man is quite capable of telling lies.	奴はうそもつきかねない男だ。
@@ -8167,8 +8122,6 @@ The weather was going from bad to worse.	天候はますます悪くなってき
 Weather permitting, I'll start tomorrow.	天候が許せば、明日出発します。
 The weather was as fine as it could be.	天気はこの上なく素晴らしかった。
 He slipped while crossing the street.	通りを横断する際に彼は足を滑らせた。
-Birds usually wake up early in the morning.	鳥は普通、朝早く起きる。
-The bird flew away and was lost to sight.	鳥は飛び去り見えなくなった。
 The president has grave responsibilities.	大統領には重大な責任がある。
 The sun is about to sink in the west.	太陽が今まさに西に沈もうとしている。
 Being fat is a serious problem for me.	太っているのが私の切実な問題です。
@@ -8183,7 +8136,6 @@ Can you tell me the exact time, please?	正確な時間を教えてくれませ�
 May I see two pieces of identification?	身分証明書を二枚拝見できますか。
 Food supply shows steady improvement.	食料の供給は着実な改善を示している。
 The boy lay listening to the radio.	少年はラジオを聞きながら横になっていた。
-The little birds broke forth in song.	小鳥たちがいっせいにさえずりだした。
 Each society has a different institution.	社会ごとに違った習慣がある。
 Would you mind repeating the question?	質問を繰り返していただけませんか。
 You are honest to admit your mistake.	自分の非を認めるなんて君は正直だね。
@@ -8198,3 +8150,47 @@ I was not conscious of her presence.	私は彼女がいたことに気が付か�
 I'm prepared for the entrance examination.	私は入試の準備をしている。
 I am leaving Japan tomorrow morning.	私は日本を明日の朝発つことにしている。
 I don't remember mailing the letter.	私は手紙を投函したことを覚えていない。
+I had an excellent breakfast at seven.	私は七時にすばらしい朝食をとった。
+I'll leave Tokyo for Osaka tonight.	私は今晩東京を出発して大阪に向かいます。
+I am not satisfied with my present lot.	私は今の境遇に甘んじてはいない。
+I like dogs, but my sister likes cats.	私は犬が好きだが、妹は猫が好きだ。
+I didn't blame you for hitting him.	私は君が彼をたたいたことを責めなかった。
+I found a beautiful shell on the shore.	私は岸辺で美しい貝殻を見つけた。
+I entered a restaurant and had lunch.	私はレストランに入って昼食を食べた。
+I spent my time listening to the radio.	私はラジオを聞いて時を過ごした。
+I soon grew to love my apartment.	私はまもなく自分のマンションが好きになった。
+I'm sure I can overcome any difficulty.	私はどんな困難にも耐えてみせる。
+I sometimes look back on my childhood.	私はときどき子供のころを振り返る。
+I slipped on the paper and hurt my leg.	私はその新聞で転んで足を痛めた。
+I could not but laugh at the joke.	私はその冗談を聞いて笑わざるを得なかった。
+I got my right leg hurt in the accident.	私はその事故で右足を負傷した。
+I managed to overcome the difficulty.	私はその困難に打ち勝つことができた。
+I fell sound asleep before I knew it.	私はいつの間にかぐっすり眠っていた。
+I am proud to call him my teacher.	私はあの方を先生と呼ぶのを誇りに思います。
+I ate absolutely nothing the whole day.	私は一日中全く何も食べなかった。
+My room is twice as large as yours.	私の部屋はあなたの部屋の二倍の大きさだ。
+My father is, so to speak, a learned fool.	私の父はいわば学者ばかだ。
+My box is twice as heavy as yours.	私の箱はあなたの箱の２倍の重さがあります。
+My e-mail address has been changed.	私のｅ―ｍａｉｌアドレスが変わりました。
+It is wise of you to ask me for advice.	私に助言を求めるとは君は賢明だ。
+I have no strength to lift this stone.	私にはこの石を持ち上げる力がない。
+Please reply to me as soon as possible.	私にできるだけ早くお答え下さい。
+We are leaving early tomorrow morning.	私たちは明日の朝早くに出発します。
+We must fight for our democracy.	私たちは民主主義擁護のために戦わねばならない。
+We were all present at her wedding.	私たちは全員彼女の結婚式に出席しました。
+We were all present at her wedding.	私たちは全員彼女の結婚式に出ていました。
+It is thirty years since we married.	私たちは結婚してから３０年になります。
+We use only the best brand of wine.	私たちはワインは最優良品のみ使っている。
+We arrived at the hotel an hour ago.	私たちは１時間前にそのホテルに着いた。
+Our fate depends on your decisions.	私たちの運命は皆さんの決定次第なのです。
+She looked sad because I was angry.	私が怒っていたので彼女は悲しそうだった。
+She had already gone when I arrived.	私が着いたとき彼女はもう出た後だった。
+Before he died, he was almost blind.	死ぬ前、彼はほとんど目が見えなかった。
+The market was flooded with foreign goods.	市場は外国製品であふれた。
+Childhood is a period of rapid growth.	子供時代は、急速な成長の時期です。
+The child soon fell asleep in the bed.	子供はすぐにベッドで寝てしまった。
+I have a clear memory of my childhood.	子供の頃のことをよくおぼえている。
+I always got up early in my childhood.	子供のころいつも早起きしていたわ。
+The mountains lay covered with deep snow.	山は深い雪におおわれていた。
+Mr Gray was the first man that arrived.	最初にきたのはグレーさんでした。
+Recently I moved to another apartment.	最近私は別のアパートに引っ越した。
